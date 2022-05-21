@@ -14,10 +14,17 @@ import yake
 
 
 def keyword_extraction(text):
-    kw_extractor = yake.KeywordExtractor(lan="id")
+    kw_extractor = yake.KeywordExtractor(lan="id", n=3, stopwords="id", top=50)
     keywords = kw_extractor.extract_keywords(text)
 
-    return keywords
+    final_kw = []
+
+    for i in keywords:
+        kw = next(iter(i))
+        kw = str(kw)
+        final_kw.append(kw)
+    
+    return final_kw
 
 
 
