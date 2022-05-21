@@ -6,7 +6,7 @@ from extraction import embedding_w2v
 from extraction import split_and_zero_padding
 from extraction import ManhatDist
 
-data_file = ''
+data_file = './data/predictest1.csv'
 
 test_df = pd.read_csv(data_file)
 for a in ['answer', 'key_answer']:

@@ -1,0 +1,109 @@
+test_id,answer,key_answer
+0,"Nama    : Farhan Maulana Firmansyah 
+NIM    : 20/460544/TK/51133 
+Prodi    : Teknologi Informasi 
+ 
+SOAL KUIS 
+1.  Perangkat  elektronik  yang  bernama  tablet  termasuk  sebuah  komputer.  Jelaskan 
+mengapa?    
+2. Sebutkan komponen apa saja yang menjadi syarat minimal supaya sebuah komputer 
+bisa bekerja!   
+3.  Simpulkan  berdasarkan  penjelasan  yang  ada  pada  Modul  1,  pengertian  dari 
+pemrograman computer!   
+4. Bandingkan tiga jenis bahasa komputer yang sudah dibahasa pada modul! 
+5. Gambarkan proses eksekusi sebuah program komputer. Jelaskan! 
+ 
+JAWABAN KUIS 
+1.  Alasan perangkat elektronik yang bernama tablet termasuk sebuah komputer karena 
+pada dasarnya tablet merupakan mesin yang bisa diprogram dan diperintah untuk 
+mengolah data dari suatu bentuk ke bentuk lain. Tablet yang tersusun dari memori 
+utama, SD card, CPU, layar sentuh, hingga speaker dapat diprogram sedemikian rupa 
+sehingga  dia  dapat  mengolah  data  masukan  menjadi  keluaran.  Keluaran  yang 
+dihasilkan dapat berupa suara dan tampilan gambar pada layar tablet. 
+2.  Komponen yang menjadi syarat minimal supaya sebuah komputer bisa bisa bekerja, 
+yaitu memori utama, memori sekunder, CPU, input device, dan output device. 
+3.  Berdasarkan penjelasan pada Modul 1, pemrograman komputer adalah proses untuk 
+membangun program dengan bahasa pemrograman.  
+4.  Terdapat tiga  bahasa  pemrograman  dalam  modul ini, yaitu bahasa  mesin,  bahasa 
+assembly, dan bahasa tingkat tinggi. Perbedaan yang mendasar dari ketiga bahasa ini, 
+yaitu tingkat kemudahan computer dalam memahami perintah. Bahasa yang memang 
+benar-benar dipahami oleh komputer adalah bahasa mesin yang berupa angka 0 dan 1. 
+Bahasa assembly menggunakan singkatan dari kata kerja dalam bahasa Inggris yang 
+mudah diingat (mnemonic) atas perintah-perintah yang akan dikerjakan komputer. 
+Sedangkan  bahasa  tingkat  tinggi  tidak  menggunakan  mnemonic  atau  kode  biner. Keberadaan  bahasa  assembly  dan  bahasa  tingkat  tinggi  memudahkan  manusia 
+menghapal dan mengembangkan program komputer. Akan tetapi, dalam menggunakan 
+kedua bahasa ini perlu melibatkan compiler untuk menerjemahkan bahasa ke bahasa 
+mesin.   
+5.  Proses eksekusi pemrograman yaitu sebagai berikut.  
+Pada awalnya kita memiliki perintah-perintah yang disebut source file. Setelah itu, kita 
+melakukan penerjemahan bahasa assembly atau bahasa tingkat tinggi menjadi bahasa 
+mesin  menggunakan  compiler.  Setelah  berhasil  diterjemahkan,  source  file  akan 
+berubah menjadi object file. Namun, masih ada beberapa yang belum berubah menjadi 
+kode biner. Oleh karena itu, object file kita digabungkan dengan object file lain agar 
+berubah menjadi biner secara keseluruhan. Hasilnya berupa executable file yang berupa 
+kode biner secara keseluruhan. Executable file inilah yang nantinya akan dieksekusi 
+lebih lanjut di CPU. Setelah perintah diterima komputer maka berakhir menjadi output.  ","KUIS MODUL 1 PEMROGRAMAN DASAR 
+Nama  : Hafizha Ulinnuha Ahmad 
+NIM  : 20/456365/TK/50495 
+1.  Perangkat elektronik yang bernama tablet termasuk sebuah komputer. Jelaskan 
+mengapa?  
+Tablet merupakan sebuah komputer karena sejatinya tablet adalah perangkat 
+yang dapat diprogram dan diperintah. Contohnya saja, saat kita memencet sebuah 
+aplikasi pada tablet, itu sama saja dengan memerintah sistem komputernya untuk 
+membuka  aplikasi  tersebut.  Contoh  lain  adalah  saat  kita  ingin  mengirim  pesan, 
+menonton video, dan lain-lain. 
+2.  Sebutkan  komponen  apa  saja  yang  menjadi  syarat  minimal  supaya  sebuah 
+komputer bisa bekerja. 
+Komponen pada komputer, dalam hal ini adalah bagian perangkat kerasnya, minimal 
+terdiri dari  : 
+a.  Memori utama : penyimpan data pada CPU. 
+b.  Memori  sekunder  (optional)  :  penyimpan  tambahan  data  yang  lebih  banyak, 
+biasanya merupakan penyimpanan eksternal, seperti flashdrive, harddrive, dan lain-
+lain. 
+c.  Central Processing Unit (CPU) : ‘otak’ dari komputer yang digunakan untuk 
+mengkoordinasikan  operasi  pada  komputer  dan  melakukan  operasi  seperti 
+aritmatika, logika, dan komparasi. 
+d.  Input devices : komponen dari komputer yang berfungsi sebagai penghubung atau 
+penyalur data dari user ke dalam memori komputer. Contohnya ialah mouse dan 
+keyboard. 
+e.  Output devices : komponen dari komputer yang berfungsi sebagai penampil data 
+dari komputer kepada user, baik dalam bentuk material, visual, maupun audio. 
+Contohnya adalah layar monitor, printer, dan speaker. 
+3.  Simpulkan berdasarkan penjelasan yang ada pada Modul 1, pengertian dari 
+pemrograman komputer. 
+Pemrograman komputer adalah serangkaian  aktivitas memberikan instruksi 
+kepada  komputer  untuk  memecahkan  suatu  masalah  dengan  bantuan  bahasa 
+pemrograman. 4.  Bandingkan tiga jenis bahasa komputer yang sudah dibahasa pada modul. 
+Perbedaan antara bahasa mesin, assembly, dan level tinggi. 
+a.  Bahasa mesin adalah bahasa satu-satunya yang dapat dimengerti oleh CPU. Bahasa 
+ini  tersusun  atas  bilangan  biner  (terdiri  dari  1  dan  0)  yang  berfungsi  untuk 
+memberikan ada-tidaknya sinyal elektrik. Karena penyusunnya adalah bilangan 
+biner, pembacaaan kodenya cenderung sulit untuk dilakukan. Maka diciptakan 
+bahasa assembly. 
+b.  Bahasa assembly adalah pengembangan bahasa mesin yang lebih mudah diingat dan 
+merupakan  pengembangan  bahasa mesin  yang  disimplifikasi  dengan  beberapa 
+istilah Bahasa Inggris. Namun, bahasa ini kurang spesifik dan tidak standar kepada 
+beberapa jenis CPU yang berbeda. Maka dikembangkan lah menjadi bahasa tingkat 
+tinggi. 
+c.  Bahasa level/tingkat tinggi adalah bahasa yang sangat lebih mudah dimengerti oleh 
+manusia karena sebagian besar menyerupai bahasa Inggris. Selain itu, bahasa ini 
+bersifat processor independent, yaitu dapat dijalankan oleh CPU yang beragam. 
+Namun, dalam penjalanannya, tetap diperlukan compiler sebagai penerjemah dari 
+bahasa level tinggi menuju bahasa mesin yang dimengerti komputer. Contoh dari 
+bahasa level tinggi adalah C, C++, Java, Python, dan lain-lain. 
+5.  Gambarkan proses eksekusi sebuah program komputer. Jelaskan. 
+Proses eksekusi program terdiri dari 4 langkah: 
+1)  Word processing yang merupakan langkah dalam membangun kode dengan bahasa 
+tingkat tinggi memakai text editor. Hasil dari kode ini dinamakan source file yang 
+masih berformat text. 
+2)  Compiling yang merupakan proses penerjemahan source file yang berformat text 
+menjadi object file yang berformat biner menggunakan compiler. Jika terdapat 
+kesalahan dalam kode, maka proses ini akan digagalkan. Compiling ini dilakukan 
+supaya kode tadi dapat dipahami oleh mesin komputer. 
+3)  Linking yang merupakan proses penggabungan beberapa object file yang sama-
+sama berformat biner. Hal ini dilakukan karena, contohnya, pada beberapa kode 
+umumnya  memakai  library  yang  telah  ada.  Maka  dari  itu  diperlukan  upaya 
+penggabungan untuk menghubungkan keduanya menjadi sebuah file yang dapat 
+dijalankan (executable). 
+4)  Loading yang yaitu proses penyimpanan file yang executable kepada memori dan 
+juga proses pengeksekusian file program tersebut "

@@ -3,7 +3,8 @@ from gensim.models import KeyedVectors
 
 from tensorflow.python.keras import backend as K
 from tensorflow.python.keras.layers import Layer
-from tensorflow.python.keras.utils.data_utils import pad_sequences
+#from tensorflow.python.keras.utils.data_utils import pad_sequences
+from keras.utils.data_utils import pad_sequences
 
 import numpy as np
 import itertools
@@ -53,7 +54,7 @@ def embedding_w2v(df, embedding_dim=300, empty_w2v=False):
                 if key_word in stop_words:
                     continue
 
-                if key_word not in word2vec.vocab:
+                if key_word not in word2vec:
                     vocabs_not_w2v_count += 1
                     vocabs_not_w2v[key_word] = 1
 
@@ -70,7 +71,7 @@ def embedding_w2v(df, embedding_dim=300, empty_w2v=False):
     embeddings[0] = 0
 
     for key_word, index in vocabs.items():
-        if key_word in word2vec.vocab:
+        if key_word in word2vec:
             embeddings[index] = word2vec.word_vec(key_word)
     del word2vec
 

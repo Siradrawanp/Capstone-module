@@ -16,7 +16,7 @@ from extraction import split_and_zero_padding
 from extraction import ManhatDist
 
 
-data_train_file = ''
+data_train_file = './data/predictest1.csv'
 
 train_df = pd.read_csv(data_train_file)
 for a in ['answer', 'key_answer']:
