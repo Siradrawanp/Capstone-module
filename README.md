@@ -1,8 +1,8 @@
 # capstone-module
 garapan capstone
 
-untested
+already trained in english language.
 
-unfinished
+for now it working in english language.
 
-it almost works..... i hope.........
+indonesian language soon.....
