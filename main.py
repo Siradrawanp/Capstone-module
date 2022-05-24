@@ -28,6 +28,4 @@ prediction = model.predict([X_test['left'], X_test['right']])
 #print(prediction)
 
 for n in prediction:
-    #print(str(n))
-    score = n * 100
-    print(score) 
+    print(str(n))
