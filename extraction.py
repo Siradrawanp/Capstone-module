@@ -1,9 +1,10 @@
 import gensim
 from gensim.models import KeyedVectors
 
+import re
+
 from tensorflow.python.keras import backend as K
 from tensorflow.python.keras.layers import Layer
-#from tensorflow.python.keras.utils.data_utils import pad_sequences
 from keras.utils.data_utils import pad_sequences
 
 import numpy as np
@@ -15,7 +16,8 @@ import yake
 
 
 def keyword_extraction(text):
-    kw_extractor = yake.KeywordExtractor(lan="id", n=3, stopwords="id", top=50)
+
+    kw_extractor = yake.KeywordExtractor(lan="en", n=3, stopwords="en", top=20)
     keywords = kw_extractor.extract_keywords(text)
 
     final_kw = []
@@ -28,7 +30,6 @@ def keyword_extraction(text):
     return final_kw
 
 
-
 def embedding_w2v(df, embedding_dim=300, empty_w2v=False):
     vocabs = {}
     vocabs_count = 0
@@ -36,7 +37,7 @@ def embedding_w2v(df, embedding_dim=300, empty_w2v=False):
     vocabs_not_w2v = {}
     vocabs_not_w2v_count = 0
 
-    stop_words = set(stopwords.words('indonesian'))
+    stop_words = set(stopwords.words('english'))
 
     if empty_w2v:
         word2vec = EmptyWord2Vec
@@ -47,7 +48,7 @@ def embedding_w2v(df, embedding_dim=300, empty_w2v=False):
         if  index != 0 and index % 1000 == 0:
             print("{:,} sentences embedded.", format(index), flush=True)
 
-        for answer in ['answer', 'key_answer']:
+        for answer in ['question1', 'question2']:
             
             ka2 = []
             for key_word in keyword_extraction(row[answer]):
@@ -65,9 +66,10 @@ def embedding_w2v(df, embedding_dim=300, empty_w2v=False):
                 else:
                     ka2.append(vocabs[key_word])
 
-                df.at[index, answer + '_n'] = ka2
+                #df.at[index, answer + '_n'] = ka2
+                df._set_value(index, answer, ka2)
     
-    embeddings = 1 * np.random.rand(len(vocabs)+1, embedding_dim)
+    embeddings = 1 * np.random.randn(len(vocabs) + 1, embedding_dim)
     embeddings[0] = 0
 
     for key_word, index in vocabs.items():
@@ -78,7 +80,7 @@ def embedding_w2v(df, embedding_dim=300, empty_w2v=False):
     return df, embeddings
 
 def split_and_zero_padding(df, max_seq_lenght):
-    X = {'left': df['answer_n'], 'right': df['key_answer_n']}
+    X = {'left': df['question1'], 'right': df['question2']}
 
     for dataset, side in itertools.product([X], ['left', 'right']):
         dataset[side] = pad_sequences(dataset[side], padding = 'pre', truncating = 'post', maxlen = max_seq_lenght)

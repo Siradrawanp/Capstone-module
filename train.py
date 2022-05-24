@@ -16,10 +16,10 @@ from extraction import split_and_zero_padding
 from extraction import ManhatDist
 
 
-data_train_file = './data/predictest1.csv'
+data_train_file = './data/train-1k.csv'
 
 train_df = pd.read_csv(data_train_file)
-for a in ['answer', 'key_answer']:
+for a in ['question1', 'question2']:
     train_df[a + '_n'] = train_df[a]
 
 embedding_dim = 300
@@ -31,9 +31,12 @@ train_df, embeddings = embedding_w2v(train_df, embedding_dim=embedding_dim, empt
 validation_size = int(len(train_df) * 0.1)
 training_size = len(train_df) - validation_size
 
-X = train_df[['answer_n', 'key_answer_n']]
+X = train_df[['question1', 'question2']]
 Y = train_df['is_duplicate']
 X_train, X_validation, Y_train, Y_validation = train_test_split(X, Y, test_size=validation_size)
+
+print(X_train)
+
 
 X_train = split_and_zero_padding(X_train, max_seq_lenght)
 X_validation = split_and_zero_padding(X_validation, max_seq_lenght)
@@ -62,9 +65,10 @@ right_input = Input(shape=(max_seq_lenght,), dtype='int32')
 malstm_distance = ManhatDist()([shared_model(left_input), shared_model(right_input)])
 model = Model(inputs=[left_input, right_input], outputs=[malstm_distance])
 
-if  gpus >=2:
-    model = tf.keras.utils.multi_gpu_model(model, gpus=gpus)
-model.compile(loss='mean_squared_error', optimizer=tf.keras.optimizers.Adam(), metrics=['accuracy'])
+#if  gpus >=2:
+#    model = tf.keras.utils.multi_gpu_model(model, gpus=gpus)
+
+model.compile(loss='mean_squared_error', optimizer='adam' , metrics=['accuracy'])
 model.summary()
 shared_model.summary()
 
@@ -77,8 +81,8 @@ training_end_time = time()
 model.save('./data/SiameseLSTM.h5')
 
 plt.subplot(211)
-plt.plot(malstm_trained.history['acc'])
-plt.plot(malstm_trained.history['val_acc'])
+plt.plot(malstm_trained.history['accuracy'])
+plt.plot(malstm_trained.history['val_accuracy'])
 plt.title('Model Accuracy')
 plt.ylabel('Accuracy')
 plt.xlabel('Epoch')
@@ -96,6 +100,8 @@ plt.legend(['Train', 'Validation'], loc='upper right')
 plt.tight_layout(h_pad=1.0)
 plt.savefig('./data/history-graph.png')
 
-print(str(malstm_trained.history['val_acc'][-1])[:6] +
-      "(max: " + str(max(malstm_trained.history['val_acc']))[:6] + ")")
+print(str(malstm_trained.history['val_accuracy'][-1])[:6] +
+      "(max: " + str(max(malstm_trained.history['val_accuracy']))[:6] + ")")
 print("Done.")
+'''
+'''
