@@ -1,8 +1,10 @@
 # capstone-module
 garapan capstone
 
-already trained in english language.
+working in indonesian language
 
-for now it working in english language.
+accuracy still below specs
 
-indonesian language soon.....
+possibly need more data for training and bit a tweak in configuration
+
+thats it.....
