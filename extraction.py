@@ -55,7 +55,7 @@ def embedding_w2v(df, embedding_dim=300, empty_w2v=False):
 
     for index, row in df.iterrows():
         # mencetak jumlah kalimat yang telah disematkan (embedding)
-        if  index != 0 and index % 50 == 0:
+        if  index != 0 and index % 200 == 0:
             print("{:,} sentences embedded.", format(index), flush=True)
 
         # iterasi kata pada tiap jawaban

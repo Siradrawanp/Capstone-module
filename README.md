@@ -3,8 +3,8 @@ garapan capstone
 
 working in indonesian language
 
-accuracy still below specs
+ok accuracy but bad validation accuracy...
 
-possibly need more data for training and bit a tweak in configuration
+need a tweak in configuration
 
 thats it.....

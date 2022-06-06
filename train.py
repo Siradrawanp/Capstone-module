@@ -2,6 +2,7 @@ from time import time
 import pandas as pd
 
 import matplotlib
+from sklearn.preprocessing import MinMaxScaler
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
@@ -16,7 +17,7 @@ from extraction import split_and_zero_padding
 from extraction import ManhatDist
 
 # file path data
-data_train_file = './data/df-train.csv'
+data_train_file = './data/df-train-1k.csv'
 
 # memuat file data
 train_df = pd.read_csv(data_train_file)
@@ -36,10 +37,10 @@ training_size = len(train_df) - validation_size
 
 X = train_df[['answer1', 'answer2']]
 Y = train_df['is_duplicate']
-X_train, X_validation, Y_train, Y_validation = train_test_split(X, Y, test_size=validation_size)
+X_train, X_validation, Y_train, Y_validation = train_test_split(X, Y, test_size=0.15, random_state=4)
 
 print(X_train)
-
+print(validation_size)
 
 X_train = split_and_zero_padding(X_train, max_seq_lenght)
 X_validation = split_and_zero_padding(X_validation, max_seq_lenght)
@@ -53,20 +54,20 @@ assert X_train['left'].shape == X_train['right'].shape
 assert len(X_train['left']) == len(Y_train)
 
 # variabel untuk model
-gpus = 2
-batch_size = 1024 * gpus
-n_epoch = 50
-n_hidden = 40
+ # gpus = 2
+batch_size = 64
+n_epoch = 70
+n_hidden = 20
 
 # mendefinisikan callback untuk epoch pada training
-earlystop = callbacks.EarlyStopping(monitor="val_loss", mode="min", patience=5, restore_best_weights=True)
+earlystop = callbacks.EarlyStopping(monitor="val_loss", mode="min", patience=10, restore_best_weights=True)
 
 # mendefinisikan shared model
 sm = Sequential()
 sm.add(Embedding(len(embeddings), embedding_dim, 
                 weights=[embeddings], input_shape=(max_seq_lenght,), trainable=False))
 
-sm.add(LSTM(n_hidden))
+sm.add(LSTM(n_hidden, dropout=0.0))
 shared_model = sm
 
 # inisialisasi layer yang terlihat (visible layer)

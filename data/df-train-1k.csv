@@ -1,0 +1,1253 @@
+﻿id,qid1,qid2,answer1,answer2,is_duplicate
+0,1,2,Ini adalah kisah tentang persabahatan dua anak cowok bernama Edward dan Bejo.,Akan diceritakan kisah dua orang yang akrab sekali tapi ternyata satu sama lain itu berbeda.,0
+1,3,4,"Alkisah pada suatu waktu di wilayah barat Jakarta, hiduplah sepasang sahabat baik sekali bernama Alex dan Ali.",Edward adalah anak cowok berkacamata dan wajahnya penuh dengan jerawat.,0
+2,5,6,"Ada dua orang anak, namanya Anton sama Budi.",Terdapat dua orang anak yang bernama Anton sama Budi.,1
+3,7,8,Proses untuk membuat suatu program dengan menggunakan bahasa komputer.,Pemograman komputer merupakan suatu proses yang berisi penyusunan printah atau algoritma untuk dijalankan pada sistem komputer sehingga menghasilkan suatu output sesuai perintah atau program yang dibuat.,0
+4,9,10,"Komponen minimal yang harus dimiliki oleh komputer adalah memori utama, memori sekunder,cpu, input device dan output device.","Memori utama, memori sekunder, CPU, input device, output device",1
+5,11,12,Sebuah program komputer dijalankan melalui 3 proses utama yaitu input-process-output.,"Input, process, dan output merupakan 3 proses utama saat menjalankan program komputer.",1
+6,13,14,Haruskah aku membeli sekotak tisu?,Video game apa yang cocok untuk anak - anak?,0
+7,15,16,Bagaimana cara aku menjadi seorang Arkeolog,Apa yang harus aku lakukan untuk menjadi Arkeolog?,1
+8,17,18,Sepulang sekolah bersama dengan kedua orang tuanya Edward mengunjungi Bejo di rumahnya.,"Sepulang kantor bersama dengan temannya, Edward mengunjungi Bejo di rumahnya.",0
+9,19,20,Dapatkah aku meretas kartu GSM yang ku pakai?,Bagaimana cara untuk meretas kartu GSM untuk mendapatkan internet gratis?,0
+10,21,22,"Bahasa mesin merupakan bahasa yang dimengerti oleh perangkat lunak menggunakan biner yang terdiri dari angka 0 dan 1, bahasa pemrograman ini sulit untuk dihapal manusia untuk membuat program.","Bahasa mesin: bahasa yang dipahami komputer, namum sulit untuk dipahami oleh manusia dan memiihi bahasa mesin yang berbeda untuk setiap jenis CPU",0
+11,23,24,Bahasa level tinggi adalah bahasa yang lebih mendekati bahasa manusia sehari-hari. Bahasanya sangat mudah dipahami oleh manusia sehingga memudahkan untuk memberikan perintah pada mesin.,Bahasa tingkat tingggi merupakan bahasa seperti bahasa inggris dan bahasa manusia lainnya.,1
+12,25,26,Bahasa level tinggi merupakan Bahasa yang tidak lagi menggunakan kode biner ataupun mnemonic.,"Bahasa level tinggi yaitu bahasa yang tidak lagi menggunakan biner atau mnemonic, bahasa ini lebih mudah dan dapat membuat program dengan baik.",1
+13,27,28,"Tablet dapat diprogram /diperintah untuk melakukan sesuatu dibentuk oleh beberapa komponen utama seperti memori utama, memori sekunder, CPU, dan lain-lain",Laptop merupakan versi portable dari PC atau komputer yang berfungsi untuk melakukan pekerjaan PC dengan ukuran yang lebih kecil.,0
+14,29,30,Tidak ketinggalan koral berbentuk jamur kuping dengan warna coklat.,Tidak ketinggalan koral berwarna coklat yang berbentuk seperti jamur kuping.,1
+15,31,32,Raja Ampat memiliki pemandangan yang indah dipagi hari serta udara yang sejuk.,Sungguh indah pemandangan pegununggan Semeru dengan udara segar dan dingin dipagi hari.,0
+16,33,34,Apa yang dimaksud dengan manipulasi data pada database?,Apa yang dimaksud dengan manipulasi data pada database?,1
+17,35,36,User experience adalah bagaimana pengalaman pengguna dalam berinteraksi/menggunakan produk digital Anda. Pengalaman ini dilihat dari betapa mudahnya pengguna untuk mendapatkan apa yang mereka inginkan dari produk tersebut.,"User Interface adalah tampilan visual sebuah produk yang menjembatani sistem dengan pengguna (user). Tampilan UI dapat berupa bentuk, warna, dan tulisan yang didesain semenarik mungkin. Secara sederhana, UI adalah bagaimana tampilan sebuah produk dilihat oleh pengguna. ",0
+18,37,38,Python merupakan bahasa pemrograman yang populer digunakan untuk pengolahan data.,"Dalam pengolahan data, salah satu bahasa pemrograman yang sering dipakai adalah Python.",1
+19,39,40,Jakarta merupakan ibu kota dari Negara Indonesia saat ini.,Tokyo merupakan ibu kota dari Negara Jepang.,0
+20,41,42,Kenapa roket berwana putih?,Kenapa roket dan pesawatnya dicat dengan warna putih?,1
+21,43,44,"Pemrograman komputer adalah proses untuk membangun program. Sedangkan program adalah sekumpulan perintah yang kita berikan kepada komputer untuk mengerjakan sesuatu, yaitu untuk mengolah data masukan menjadi keluaran. Sehingga sebuah perangkat lunak pastilah memiliki program.","Pemrograman komputer merupakan proses untuk membangun program. Sedangkan program adalah sekumpulan perintah yang kita berikan kepada komputer untuk mengerjakan sesuatu, yaitu untuk mengolah data masukan menjadi keluaran.",1
+22,45,46,Apa saja pertanyaan yang tidak boleh ditanyakan di Quora?,Pertanyaan apa yang harus saya ajukan di Quora?,0
+23,47,48,Berapa harga 30 kV dalam HP?,Di mana saya bisa menemukan bagan konversi untuk CC ke tenaga kuda?,0
+24,49,50,"Apa artinya bahwa setiap kali saya melihat jam, angkanya sama?",Berapa kali dalam sehari jarum jam saling tumpang tindih?,0
+25,51,52,Apa saja kiat-kiat untuk melewati proses wawancara kerja di Medicines?,Apa saja kiat-kiat untuk berhasil melalui proses wawancara kerja di Foundation Medicine?,0
+26,53,54,"Komponen-komponen yang menjadi syarat minimal agar sebuah komputer bisa bekerja adalah memori utama, memori sekunder, Central Processing Unit, perangkat input, dan perangkat output.","Jenis bahasa komputer yang pertama adalah bahasa mesin, bahasa ini memiliki kelemahan sulit dimengerti oleh manusia karena hanya terdiri dari angka 0 dan 1. Jenis yang kedua adalah bahasa assembly, bahasa ini sedikit lebih mudah karena menggunakan singakatan dari kata kerja dalam bahasa inggris yang mudah diingat (mneumonic), Namun bahasa assembly harus bekerja secara spesifik sesuai dengan karakteristik dari perangkat keras komputer dan yang terakhir adalah bahasa tingkat tinggi, bahasa ini hampir menyerupai",0
+27,55,56,Apakah masyarakat terlalu mementingkan olahraga?,Bagaimana olahraga berkontribusi kepada masyarakat?,0
+28,57,58,Apa cara terbaik untuk menghasilkan uang secara online?,Apa cara terbaik untuk meminta uang secara online?,0
+29,59,60,Bagaimana saya harus mempersiapkan diri untuk hukum akhir CA?,Bagaimana seseorang harus tahu bahwa dia benar-benar mempersiapkan diri untuk ujian akhir CA?,1
+30,61,62,Apa satu hal yang ingin Anda lakukan dengan lebih baik?,Apa satu hal yang Anda lakukan meskipun tahu lebih baik?,0
+31,63,64,Apa saja perawatan khusus untuk seseorang dengan hidung yang tersumbat di malam hari?,Bagaimana saya bisa menjaga hidung saya agar tidak tersumbat di malam hari?,1
+32,65,66,Penjahat Game of Thrones apa yang paling mungkin memberi Anda belas kasihan?,Penjahat Game of Thrones apa yang paling Anda inginkan?,1
+33,67,68,"Apakah pemerintah Amerika Serikat masih memasukkan beberapa warga negara Amerika Serikat ke dalam daftar hitam (pekerjaan, dll.) karena pandangan politik mereka?",Bagaimana kecepatan rata-rata molekul gas ditentukan?,0
+34,69,70,Apa situs web perjalanan terbaik di Spanyol?,Apa situs web perjalanan terbaik?,0
+35,71,72,Mengapa sebagian orang berpikir bahwa Obama akan mencoba mengambil senjata mereka?,Apakah ada inisiatif pengendalian senjata untuk mengambil senjata yang sudah dimiliki orang?,0
+36,73,74,Saya berusia 19 tahun. Bagaimana saya bisa meningkatkan keterampilan saya atau apa yang harus saya lakukan untuk menjadi wirausahawan dalam beberapa tahun ke depan?,Saya seorang pria berusia 19 tahun. Bagaimana saya bisa menjadi miliarder dalam 10 tahun ke depan?,0
+37,75,76,"Ketika seorang pacar bertanya kepada pacarnya, ""Mengapa kamu memilih saya? Apa yang membuatmu ingin bersamaku?"", apa yang harus dijawabnya?",Pacar saya mengatakan bahwa kami harus mengakhiri ini karena dia bingung tentang perasaannya kepada saya. Saya berharap dia baik-baik saja dan memutuskan hubungan. Haruskah saya meneleponnya dan bertanya apakah dia ingin kembali bersama?,0
+38,77,78,Bagaimana kita mempersiapkan diri untuk UPSC?,Bagaimana saya mempersiapkan diri untuk menjadi pegawai negeri?,1
+39,79,80,Berapakah kecepatan stall dan AOA dari f-14 dengan sayap yang disapu penuh ke belakang?,"Mengapa pesawat terbang berhenti menggunakan sayap sapuan variabel, seperti yang ada pada F-14?",0
+40,81,82,Mengapa orang Slavia berjongkok?,Apakah squat akan membuat kaki saya lebih tebal?,0
+41,83,84,Kapan saya bisa mengharapkan surat konfirmasi Cognizant saya?,Kapan saya bisa mengharapkan surat konfirmasi Cognizant?,0
+42,85,86,Dapatkah saya menghasilkan 50.000 sebulan dengan perdagangan harian?,Dapatkah saya menghasilkan 30.000 sebulan dengan perdagangan harian?,0
+43,87,88,Apakah menjadi anak yang baik dan tidak menjadi pemberontak itu sepadan dalam jangka panjang?,Apakah bosan itu baik untuk anak-anak?,0
+44,89,90,Dari universitas mana Rexnord merekrut lulusan baru? Jurusan apa yang mereka cari?,Dari universitas mana B&G Foods merekrut lulusan baru? Jurusan apa yang mereka cari?,0
+45,91,92,Apa cara tercepat untuk meningkatkan pengikut Instagram?,Bagaimana kita bisa meningkatkan jumlah pengikut Instagram kita?,0
+46,93,94,Bagaimana Darth Vader bertarung melawan Darth Maul di Star Wars Legends?,Apakah Quora memiliki batas karakter untuk deskripsi profil?,0
+47,95,96,"Apa saja tahap-tahap putus cinta di antara pasangan? Maksud saya, apa yang terjadi setelah putus cinta secara emosional, apakah itu pria atau wanita?","Siapa yang lebih terpengaruh oleh putus cinta, si pria atau si wanita?",0
+48,97,98,Apa saja contoh produk yang dapat dibuat dari minyak mentah?,Apa saja produk yang dibuat dari minyak mentah?,1
+49,99,100,Bagaimana cara saya berteman.,Bagaimana cara berteman?,1
+50,101,102,Apakah Career Launcher bagus untuk persiapan RBI Grade B?,Bagaimana program online career launcher untuk RBI Grade B?,1
+51,103,104,"Apakah Blu Ray akan diputar pada pemutar DVD biasa? Jika demikian, bagaimana caranya?",Bagaimana Anda bisa memutar DVD Blu Ray pada pemutar DVD biasa?,1
+52,105,106,Apakah dia selalu sedih?,"Secara aerodinamis, apa yang terjadi ketika propeler berputar?",0
+53,107,108,Apa makanan terbaik/paling berkesan yang pernah Anda makan dan mengapa?,Hidangan apa yang paling lezat yang pernah Anda makan dan mengapa?,1
+54,109,110,Bagaimana GST mempengaruhi CA dan petugas pajak?,Mengapa saya tidak bisa mengerjakan pekerjaan rumah saya?,0
+55,111,112,Seberapa sulitkah masuk ke RSI?,Apakah Anda melamar program seperti RSI ketika Anda sudah menjadi senior?,0
+56,113,114,Siapa teman israil?,Apakah pacar saya berbohong tentang perasaannya yang sebenarnya terhadap temannya dan apakah dia diam-diam tertarik padanya?,0
+57,115,116,Apa saja lagu rap yang bagus untuk menari?,Apa saja lagu rap terbaik?,0
+58,117,118,Tiba-tiba saya logout dari Gmail. Saya tidak dapat mengingat kata sandi Gmail saya dan baru menyadari bahwa email pemulihan tidak lagi hidup. Apa yang bisa saya lakukan?,Saya tidak dapat mengingat kata sandi Gmail saya atau email pemulihan saya. Bagaimana saya bisa memulihkan email saya?,1
+59,119,120,Apa cara terbaik untuk belajar bahasa Prancis?,Bagaimana cara mempelajari gender bahasa Prancis?,0
+60,121,122,Bagaimana cara mengunduh konten dari torrent kickass tanpa registrasi?,Apakah Kickass Torrents dapat dipercaya?,0
+61,123,124,Apakah normal memiliki cincin gelap di sekitar iris mata saya?,Apa yang menyebabkan cincin gelap di sekitar iris mata? Bagaimana cara mengobatinya?,0
+62,125,126,Bagaimana buku Harry Potter yang baru 'Harry Potter dan Anak Terkutuk'?,Seberapa buruk buku baru karya J.K Rowling?,1
+63,127,128,Mengapa saya selalu merasa tertekan?,Mengapa saya selalu merasa tertekan di malam hari?,0
+64,129,130,Di mana saya bisa menemukan database kantor keluarga Eropa?,Di mana saya bisa menemukan basis data kantor keluarga A.S.?,0
+65,131,132,Apa itu pemrograman Java? Bagaimana Cara Belajar Bahasa Pemrograman Java?,Bagaimana cara belajar bahasa komputer seperti java?,1
+66,133,134,Apa buku terbaik yang pernah dibuat?,Buku apa yang paling penting yang pernah Anda baca?,1
+67,135,136,Dapatkah kita menyimpan energi yang dihasilkan dari petir?,Apakah mungkin menyimpan energi petir?,1
+68,137,138,Apa ulasan Anda tentang Performance Testing?,Apa yang dimaksud dengan pengujian performa?,0
+69,139,140,Dengan biaya apa privasi yang begitu banyak seperti di Jerman bisa diperoleh? Apa lagi yang hilang untuk mendapatkan begitu banyak privasi?,Apakah ada orang yang benar-benar menikmati salad tanpa saus?,0
+70,141,142,Apa saja jenis-jenis kekebalan?,Apa saja jenis imunitas yang berbeda dalam tubuh kita?,0
+71,143,144,Apa yang dimaksud dengan gangguan kepribadian narsistik?,Apa itu gangguan kepribadian narsistik?,1
+72,145,146,Bagaimana saya bisa berbicara bahasa Inggris dengan lancar?,Bagaimana saya bisa belajar berbicara bahasa Inggris dengan lancar?,1
+73,147,148,Seberapa membantu nomor telepon dukungan pemulihan data otomatis quickbooks untuk memulihkan file data Anda yang rusak?,Berapa nomor telepon dukungan pelanggan quickbooks USA?,1
+74,149,150,Siapakah penjudi terkaya sepanjang masa dan bagaimana saya bisa mencapai levelnya?,Siapakah penjudi terkaya sepanjang masa dan bagaimana saya bisa mencapai levelnya sebagai penjudi?,1
+75,151,152,Jika saya menembakkan peluru ke belakang dari pesawat terbang yang melaju lebih cepat daripada peluru; apakah peluru akan bergerak mundur?,"Apakah peluru bergerak lebih cepat daripada kecepatan suara ketika ditembakkan dari pistol? Jika tidak, apakah mungkin? Jika ya, senjata apa dan seberapa besar kehancuran yang terjadi?",0
+76,153,154,Bagaimana cara mencegah kanker payudara?,Apakah kanker payudara dapat dicegah?,0
+77,155,156,Bagaimana cara keluar dari akun Gmail saya di ponsel teman saya?,Bagaimana saya bisa tahu siapa yang masuk ke akun Gmail saya? (dengan memberi tahu alamat IP atau nama perangkatnya)?,0
+78,157,158,Bagaimana saya bisa menghasilkan uang melalui Internet?,"Apa saja cara yang berbeda untuk menghasilkan uang secara online, kecuali menjual barang?",0
+79,159,160,Apa tujuan hidup?,Apa tujuan hidup? Sebenarnya tentang apakah kehidupan itu?,1
+80,161,162,Kapankah pemerintah BJP akan melucuti kewarganegaraan India dari semua Muslim dan Kristen dan menempatkan mereka di atas perahu seperti Rohingya di Burma?,"Mengapa India tidak menerapkan ""model Burma-Rohingya"" untuk mendeportasi warga Bangladesh ilegal?",0
+81,163,164,Apa etika yang tepat untuk mengucapkan selamat ulang tahun kepada Saksi Yehuwa?,Seberapa pentingkah menjadi orang pertama yang mengucapkan selamat ulang tahun kepada seseorang?,0
+82,165,166,"Jika seseorang ingin membuka stasiun radio FM komersial di kota mana pun di India, berapa biayanya dan bagaimana prosedurnya?","Saya ingin membuat iklan perjalanan / video klip HD, Untuk India dan Selandia Baru. Berapa biayanya?",0
+83,167,168,Mengapa orang Swiss membenci orang Asia?,Mengapa karyawan teknis sangat membenci orang penjualan?,0
+84,169,170,Apa saja pekerjaan dengan gaji tinggi di bidang bioteknologi?,Apa saja pekerjaan bergaji tinggi untuk orang yang baru lulus M.Tech di bidang bioteknologi?,1
+85,171,172,Bagaimana saya bisa menambah tinggi badan saya setelah 21 juga?,Dapatkah tinggi badan meningkat setelah usia 25 tahun?,1
+86,173,174,"Apa efek utama dari gempa bumi Kamboja, dan bagaimana efek ini dibandingkan dengan gempa bumi Kamchatca pada tahun 1952?","Apa efek utama dari gempa bumi Kamboja, dan bagaimana efek ini dibandingkan dengan gempa bumi Valparaiso pada tahun 1822?",1
+87,175,176,Apa perbedaan antara ketulusan dan keadilan?,Apa perbedaan antara jujur dan tulus?,0
+88,177,178,Manakah laptop gaming terbaik di bawah 60 ribu INR?,Manakah laptop gaming terbaik di bawah Rs 60000?,1
+89,179,180,Apa ulasan Anda tentang The Next Warrior: Apa komentar Anda tentang The Next Warrior: Proving Grounds - Part 9?,Apa ulasan Anda tentang The Next Warrior: Apa komentar Anda tentang The Next Warrior: Proving Grounds - Part 5?,0
+90,181,182,Apa buku referensi terbaik untuk fisika kelas 11?,"Buku mana yang harus saya pilih untuk referensi fisika dan kimia (kelas 11, CBSE board)?",0
+91,183,184,"Institut Teknologi Nasional, Kurukshetra: Bagaimana kehidupan sosial di NITK, Surathkal?","Institut Teknologi Nasional Karnataka (NITK), Surathkal: Kepada angkatan yang telah lulus: Pelajaran apa yang ingin Anda berikan kepada junior Anda sebelum Anda pergi?",0
+92,185,186,Apa saja film romantis terbaik dalam bahasa Inggris?,Apa film romantis terbaik yang pernah Anda tonton?,1
+93,187,188,Apa yang menyebabkan mimpi buruk?,Apa yang menyebabkan mimpi buruk yang tampak nyata?,1
+94,189,190,Apa yang dimaksud dengan ekspresionisme abstrak dalam seni lukis?,Apa saja pengaruh utama dari ekspresionisme abstrak?,0
+95,191,192,Bagaimana cara kerja pencetakan 3D?,Bagaimana cara kerja pencetakan 3D?,1
+96,193,194,Bagaimana rasanya kuliah di Caltech bersama Jeremy Ehrhardt?,Siapa saja orang-orang terkenal yang pernah kuliah di Caltech?,0
+97,195,196,Mengapa Harry menjadi horcrux?,Apa yang dimaksud dengan Horcrux?,0
+98,197,198,Apa program associate product manager (APM) terbaik yang dapat diikuti oleh seseorang berusia awal 20-an untuk mempelajari manajemen produk dan memiliki karier yang bermanfaat di perusahaan?,Apa persyaratan umum untuk menjadi Manajer Produk atau Manajer Program di perusahaan perangkat lunak berbasis produk?,0
+99,199,200,Mengapa nomor Skype di 1-855-425-3768 selalu sibuk?,Bagaimana saya bisa membuat Skype berfungsi pada ponsel Android 4.1.1?,0
+100,201,202,Apakah benar-benar akan ada perang antara India dan Pakistan atas serangan Uri? Apa dampaknya?,Apakah akan terjadi perang nuklir antara India dan Pakistan?,1
+101,203,204,Apakah Ronald Reagan memiliki tingkah laku dalam pidatonya?,Bagaimana reaksi Ronald Reagan terhadap peristiwa 9/11?,0
+102,205,206,Apa strategi perang Uni dan Konfederasi selama Perang Saudara?,Bagaimana mungkin pasukan Konfederasi bisa mengalahkan pasukan Union di Gettysburg selama Perang Saudara Amerika?,0
+103,207,208,Manakah novel fiksi terbaik tahun 2016?,Manakah novel fiksi terbaik?,0
+104,209,210,Dapatkah saya memulihkan email saya jika saya lupa kata sandi?,Apa yang harus saya lakukan jika saya lupa kata sandi email saya?,1
+105,211,212,"Apakah demonetisasi baru-baru ini akan menghasilkan PDB yang lebih tinggi? Jika demikian, berapa banyak?",Bagaimana demonetisasi dapat mempengaruhi PDB India dalam jangka pendek dan jangka panjang?,0
+106,213,214,Pernahkah Anda mendengar tentang travel hacking?,Dapatkah WhatsApp diretas?,0
+107,215,216,Apa perbedaan antara cinta dan kasihan?,Apa perbedaan antara cinta dan kasihan?,1
+108,217,218,Seberapa kompetitif proses perekrutan di Republic Bank?,Seberapa kompetitif proses perekrutan di S & T Bank?,0
+109,219,220,Bagaimana Google membantu dalam penyesuaian peringkat spam dari hasil pencarian?,"Bagaimana distribusi trafik di antara hasil pencarian organik Google? misalnya peringkat #1 vs. #2, halaman pertama vs. halaman kedua",0
+110,221,222,Di mana saya bisa menonton gonulcelen dengan teks bahasa Inggris?,Di mana saya bisa menonton sarrainodu dengan subtitle?,0
+111,223,224,Apakah Amerika Serikat adalah negara paling kuat di dunia?,Mengapa Amerika Serikat adalah negara paling kuat di dunia?,0
+112,225,226,Bagaimana Anda mendapatkan pereda nyeri maag secara instan?,Apa yang lebih baik untuk nyeri punggung bawah: panas atau es?,0
+113,227,228,Bagaimana menurut Anda makanan China?,Bagaimana pendapat Anda tentang makanan Cina?,1
+114,229,230,Apa yang dimaksud dengan mengambil keuntungan dari seseorang?,Apakah lebih buruk mengambil keuntungan dari seseorang atau menjadi materialistis?,0
+115,231,232,Mengapa kita menangis ketika kita bahagia dan ketika kita sedih?,Mengapa kita menangis?,0
+116,233,234,Mengapa sebagian anak perempuan suka menjulurkan lidah mereka ketika berfoto?,Mengapa gadis-gadis remaja (dan wanita pada umumnya) mengizinkan pacar mereka untuk mengambil foto telanjang mereka di zaman sekarang ini dan di zaman (digital)?,0
+117,235,236,"Apakah Anda merasa akhir novel ""1984"" menyedihkan?","Apa perbedaan Winston dan Julia dalam novel ""1984""? Bagaimana mereka serupa?",0
+118,237,238,Apa saja alat komputer yang menakjubkan yang ada yang tidak diketahui kebanyakan orang?,Apa saja teknologi menakjubkan yang ada yang tidak diketahui oleh kebanyakan orang?,0
+119,239,240,Apakah sikat gigi harus basah atau kering sebelum mengoleskan pasta gigi?,Pasta gigi apa yang paling murah?,0
+120,241,242,Mengapa pertanyaan saya ditandai sebagai perlu perbaikan?,Bagaimana saya bisa mengajukan pertanyaan tanpa ditandai sebagai 'perlu ditingkatkan'?,1
+121,243,244,Apa perbedaan antara keadaan netral dan keadaan penyangga?,"Jika setiap negara bagian di Amerika Serikat menyatakan perang terhadap satu sama lain, manakah yang akan menang?",0
+122,245,246,Mineral apa yang memiliki muatan listrik tertinggi?,Mineral apa yang dapat menahan muatan listrik terbesar?,1
+123,247,248,Apakah misteri terbesar di alam semesta?,Apakah misteri terbesar sepanjang masa?,0
+124,249,250,Apa alternatif untuk pembelajaran mesin?,Bagaimana cara melakukan sampel berlebih pada set data ketidakseimbangan multi-kelas?,0
+125,251,252,"Mengapa Tiongkok memblokir sanksi di PBB terhadap kepala Jaish-e-Mohammad (JeM), Masood Azhar?",Mengapa Tiongkok mendukung Masood Azhar?,1
+126,253,254,Apa yang dimaksud dengan anggaran masa depan?,Apakah makna masa depan?,0
+127,255,256,Dapatkah jumlah Vitamin C yang berlebihan menyebabkan saya mengalami keguguran?,Bagaimana Vitamin C dapat menyebabkan keguguran?,1
+128,257,258,Bagaimana rasanya bekerja di Asahi India Glass? Berapa skala gaji setelah satu atau dua tahun?,Kapan kita akan mendapatkan Surat Panggilan setelah kita mendapatkan Letter of Intent dalam perekrutan Asahi India Glass?,0
+129,259,260,Bagaimana cara mengakses Torbox di India?,Bagaimana cara mengakses Google.com dari India?,0
+130,261,262,Apa sajakah mantra-mantra yakshini?,Apa itu Yantra & Mantra?,0
+131,263,264,Apakah pembicaraan enam pihak berhasil?,Kursus mana yang lebih baik di NICMAR?,0
+132,265,266,Bagaimana cara mendaftarkan email situs domain saya?,Bagaimana cara mendaftarkan domain .an?,0
+133,267,268,Apakah normal bagi pria yang lebih tua untuk tertarik pada wanita muda?,Mengapa saya tertarik pada pria yang lebih tua?,0
+134,269,270,Apa struktur terkuat atau bentuk terkuat di bawah kompresi?,Apa kabel Kevlar terkuat?,0
+135,271,272,Siapakah Muslim Rohingya?,Siapakah orang-orang Rohingya?,1
+136,273,274,Apakah penting apakah manusia itu egois atau jahat?,Apakah penting apakah manusia itu jahat atau tidak?,1
+137,275,276,Apakah eksositosis dan endositosis merupakan contoh transpor aktif atau pasif?,Apa saja contoh transpor pasif dalam sel?,0
+138,277,278,Bagaimana saya mendapatkan rambut di kepala botak?,"Jika saya mencukur kepala saya selama 2 tahun karena saya mulai botak dan kemudian menumbuhkan rambut saya, apakah rambut saya akan sama seperti ketika saya awalnya memiliki? Atau saya kehilangan lebih banyak rambut?",0
+139,279,280,Apakah kehidupan ideal setelah pensiun?,Bagaimana kehidupan setelah pensiun?,0
+140,281,282,Apa sikap kita terhadap Pakistan?,Bagaimana sikap Pakistan dalam kepemilikan senjata pemusnah massal oleh Korea Utara? Apakah mendukung RRDK atau menentang RRDK?,0
+141,283,284,Apa situs web yang bagus untuk escort?,Bagaimana cara menemukan pendamping yang baik?,0
+142,285,286,Mana yang lebih baik polo diesel atau grand i10 bensin?,Apa pola makan terbaik untuk seorang decathlete yang sedang tumbuh?,0
+143,287,288,Apakah lubang hitam memiliki massa?,Apakah lubang hitam memiliki massa yang terbatas?,1
+144,289,290,"Apakah Morgan Freeman benar ketika dia mengatakan bahwa satu-satunya cara untuk menghentikan rasisme, adalah dengan berhenti membicarakannya?",Apa pandangan Anda tentang kutipan Morgan Freeman tentang Rasisme ini?,1
+145,291,292,Apakah Fab saat ini menawarkan opsi saham atau RSU kepada karyawan baru?,Apakah Uber saat ini menawarkan opsi saham atau RSU kepada karyawan baru?,0
+146,293,294,Bagaimana Anda akan meninjau situs Waveclues?,Apakah ada situs pembayaran yang bagus untuk ulasan di luar sana?,0
+147,295,296,Dengan berapa banyak cara kita bisa mendistribusikan 10 pensil yang tampak identik kepada 4 siswa sehingga setiap siswa mendapatkan paling sedikit satu pensil?,Dalam berapa banyak cara 12 apel dapat didistribusikan di antara 4 anak sehingga setiap anak mendapatkan paling sedikit 2 apel?,0
+148,297,298,Berapa biaya untuk menyewa Jerry Seinfeld selama 1-2 jam?,Berapa biaya rata-rata untuk merekam video presentasi selama 2 jam?,0
+149,299,300,Apakah 7 hari sudah terlambat untuk vaksin rabies setelah kemungkinan tidak terpapar gigitan?,Dapatkah saya mengambil suntikan rabies setelah 1 hari gigitan anjing?,0
+150,301,302,Berapa tahun Inggris memerintah India?,Berapa jumlah standar waktu istirahat yang diberikan untuk relokasi internasional?,0
+151,303,304,Bagaimana saya bisa berhenti takut bekerja?,Bagaimana Anda berhenti takut akan segala sesuatu?,0
+152,305,306,Mengapa Red menyimpan kunci-kunci di OITNB?,Mengapa Red menyimpan kunci di musim 4 Orange is the New Black?,1
+153,307,308,Pada usia berapa seseorang harus kehilangan keperawanannya?,"Pada usia berapa, bagaimana, dan di mana Anda kehilangan keperawanan Anda?",0
+154,309,310,Seberapa pelupa Anda?,Bagaimana saya bisa melupakan istri saya?,0
+155,311,312,Mungkinkah Snoke diam-diam adalah Darth Maul?,Bagaimana Snoke bisa menjadi Darth Plagueis jika dia dibunuh oleh Kaisar Palpatine?,0
+156,313,314,"Jika saya tidak memonetisasi video YouTube & mengunggah konten hak cipta, maka apakah ada kemungkinan Google dapat memblokir akun saya?",Bagaimana Anda mengunggah film di YouTube dan memonetisasinya? Apakah ada masalah hak cipta,1
+157,315,316,Apakah Anda akan beralih dari Canon 6D ke Leica D-LUX 109?,Tripod apa yang harus saya dapatkan untuk Canon 6D saya?,0
+158,317,318,Seperti apa tampilan situs web Quora bagi anggota moderasi Quora?,Bagaimana tampilan Quora bagi seorang moderator?,1
+159,319,320,Mengapa tidak ada yang menjawab pertanyaan saya di Quora?,Mengapa tidak ada yang menjawab pertanyaan saya di Quora?,1
+160,321,322,Apa lelucon terlucu yang Anda ketahui?,Apa lelucon terlucu sepanjang masa?,1
+161,323,324,"Saya mendapat tawaran pekerjaan @ Chelmsford-Essex, London dengan gaji £ 3764 PM setelah dipotong pajak. Mohon saran biaya bulanan tentatif untuk pasangan? & menabung mungkin?","Jika saya meninggalkan Norwegia, dapatkah saya membayar hipotek saya dengan rekening BSU saya, dan kemudian menjual apartemen saya tanpa harus membayar kembali potongan pajak yang saya dapatkan karena memiliki BSU?",0
+162,325,326,Apa saja stereotip tentang Inggris Raya?,Apa pendapat orang Amerika tentang Inggris?,0
+163,327,328,Bagaimana cara menggunakan Twitter sebagai sumber bisnis?,Bagaimana cara menggunakan Twitter untuk bisnis?,1
+164,329,330,Bagaimana cara mentransfer uang dari Skrill ke rekening PayPal?,Bagaimana cara mengirim uang dari rekening PayPal ke rekening Skrill saya untuk ditarik?,0
+165,331,332,Manakah earphone terbaik dengan bass yang dalam di bawah 1000?,Earphone terbaik mana yang di bawah Rs 1000?,1
+166,333,334,Apakah karyawan pemerintah memenuhi syarat untuk Sukanya Samrudi Yojana?,Dapatkah karyawan Pemerintah menerapkan IEC?,0
+167,335,336,Mana yang benar - 'Menantikan untuk berbicara dengan Anda' atau 'Berharap untuk berbicara dengan Anda'?,"Manakah yang benar: ""berbicara dengan"" atau ""berbicara kepada""?",0
+168,337,338,Manakah bidang teknik terbaik?,Apa bidang teknik terbaik?,1
+169,339,340,Bagaimana Anda membuat hidup sesuai dengan Anda dan menghentikan kehidupan dari menyalahgunakan Anda secara mental dan emosional?,"Mengapa ada orang yang kasar secara emosional dalam hidup saya? Beberapa mantan pacar, teman, dan rekan kerja / atasan masa lalu adalah pelaku kekerasan. Apakah saya menarik mereka?",0
+170,341,342,Apa perbedaan antara gaji kotor dan CTC?,"Tampaknya ada perbedaan antara gaji mingguan saya dan gaji tahunan yang disepakati majikan saya, bagaimana cara kerjanya?",0
+171,343,344,Kota-kota mana saja yang makmur di Kerala?,Mengapa ada begitu banyak orang Kristen di Kerala?,0
+172,345,346,Apa cara terbaik untuk mendapatkan kepercayaan diri?,Bagaimana saya bisa berbicara dengan lebih jelas dan percaya diri?,0
+173,347,348,Apakah ada yang melihat hubungan antara dewa-dewa Yunani dan dewa-dewa Hindu?,"Paralelisme apa yang bisa kita tarik di antara dewa-dewa mitologi Hindu, mitologi Yunani, mitologi Mesir, dll.?",1
+174,349,350,Bagaimana cara beralih dari Apple Music ke Spotify?,Haruskah saya beralih dari Spotify ke Apple Music?,0
+175,351,352,Manakah reksa dana pendapatan tetap terbaik?,Apa reksa dana pendapatan tetap terbaik?,1
+176,353,354,Bagaimana rasanya tinggal di Köln?,"Bagaimana rasanya tinggal di Köln, Jerman? ",1
+177,355,356,"Antara Robert De Niro dan Al Pacino, siapa yang lebih sukses?","Siapa yang Anda anggap sebagai aktor terbaik, Robert De Niro atau Al Pacino?",0
+178,357,358,Mengapa sebagian orang lebih menyukai keluarga kecil?,Mengapa sebagian orang lebih suka tinggal bersama keluarga kecil?,1
+179,359,360,Apakah hewan berciuman?,Apakah hewan (selain manusia) berciuman?,1
+180,361,362,Bagaimana Anda mendapatkan obrolan Instagram yang dihapus?,Bagaimana saya bisa melihat dms Instagram yang dihapus?,1
+181,363,364,Bagaimana saya bisa berhenti kecanduan cinta?,Bagaimana cara berhenti kecanduan seseorang?,0
+182,365,366,Bagaimana kalau saya menyewa dua orang mata-mata pribadi dan memerintahkan mereka untuk mengikuti satu sama lain?,Apakah saya bisa menyewa dua penyelidik swasta dan kemudian membuat mereka saling mengikuti?,1
+183,367,368,Bagaimana cara menemukan akselerator startup?,Bagaimana akselerator startup memberi Anda pendanaan?,0
+184,369,370,Bagaimana saya bisa memeriksa riwayat wifi dan mengaksesnya melalui ponsel android?,Saya tidak bisa membuka Quora melalui router WiFi saya. Mengapa saya hanya bisa mengaksesnya melalui jaringan seluler?,0
+185,371,372,"Apa pentingnya pertempuran Somme, dan bagaimana pertempuran ini dibandingkan dan dikontraskan dengan Pertempuran Rostov?","Apa pentingnya pertempuran Somme, dan bagaimana pertempuran ini dibandingkan dan dikontraskan dengan Pertempuran Riyadh?",1
+186,373,374,Apa esai penerimaan perguruan tinggi paling kreatif yang pernah Anda baca?,Apakah ada petugas penerimaan perguruan tinggi yang menangis di depan umum saat membaca esai pelamar?,0
+187,375,376,"Apa yang akan terjadi jika Anda menutup salah satu mata Anda dengan penutup mata selama satu tahun, kemudian melepaskan penutup mata itu?",Apa yang terjadi jika obat mata masuk ke dalam mata?,0
+188,377,378,Mungkinkah mengejar banyak hal yang berbeda dalam hidup?,Bagaimana saya menolak untuk memilih di antara berbagai hal yang berbeda untuk dilakukan dalam hidup saya?,1
+189,379,380,Apakah Ben Affleck lebih bersinar daripada Christian Bale sebagai Batman?,"Tolong jangan fanboy, tapi siapa batman yang sebenarnya, Christian Bale atau Ben Affleck?",1
+190,381,382,Bisnis mana yang bagus dimulai di Hyderabad?,Bisnis mana yang lebih baik untuk dimulai di Hyderabad?,1
+191,383,384,Bagaimana saya bisa berhenti bersikap posesif?,Bagaimana saya berhenti bersikap posesif berlebihan terhadap orang yang saya cintai?,1
+192,385,386,Siapakah istri Dewa Krishna?,Siapakah ayah dari Dewa Krishna?,0
+193,387,388,Kombinasi kursus apa yang terbaik yang bisa saya ambil bersama CA untuk meningkatkan karier saya?,Mata kuliah apa saja yang harus diambil bersama dengan mata kuliah CA?,1
+194,389,390,Bagaimana cara mengambil screenshot pada laptop Mac?,Bagaimana cara mengambil tangkapan layar di MacBook Pro saya? Apa saja petunjuknya?,1
+195,391,392,Seperti apa pekerjaan perekrut eksekutif?,Seperti apa rasanya bekerja dengan perekrut eksekutif?,0
+196,393,394,Kebutuhan psikologis manakah yang dipenuhi oleh 'mengumpulkan'?,Mengapa orang mengoleksi benda-benda?,0
+197,395,396,Apa saja acara TV yang harus ditonton sebelum Anda mati?,Apakah ada acara TV yang harus ditonton?,1
+198,397,398,Bagaimana saya bisa menjadi lebih fasih berbahasa Mandarin?,Bagaimana saya bisa fasih berbahasa Mandarin?,1
+199,399,400,Apa efek demonitisasi uang kertas 500 dan 1000 rupee pada sektor real estat?,Apa dampak dari penghapusan uang kertas ₹500 dan ₹1000 rupee di pasar real estat?,1
+200,401,402,Apa cara termudah untuk menjadi miliarder($)?,Apa cara terbaik untuk menjadi miliarder?,1
+201,403,404,Failure merupakan kegagalan satu produk atau perangkat lunak untuk menjalankan fungsinya. Hal ini dapat berupa program tidak mengeluarkan hasil yang benar atau program tidak berjalan. Contoh : Program grading nilai menampilkan output yang salah karena terdapat error pada logika konversi nilainya. Program ini dianggap gagal atau failure karena tidak dapat menjalankan fungsinya secara benar.,"Error merupakan penyebab terjadinya fault pada perangkat lunak. Error biasanya disebabkan oleh interevensi manusia. Contoh : pada suatu kode program grading ujian, programmer salah memasukan logika konversi nilai dari angka menuju nilai huruf.",0
+202,405,406,Ketika program membutuhkan sistem yang harus selalu aktif dan ketika terdapat kesalahan sistem harus tetap berjalan dengan downtime seminimal mungkin serta meminimalisir kehilangan data pada saat error. Contoh pada suatu sistem dengan database yang dikonfigurasi Raid-1 Mirroring. Sehingga total SSD atau HDD pada database dibagi menjadi 2 blok dan secara bersamaan menyimpan data. Data akan tersimpan pada dua blok tersebut sehingga tiap blok memiliki kopian data yang disimpan.,Ketika sistem menggunakan data yang tidak terlalu sensitive sehingga tidak perlu ada backup. Sehingga sistem dapat berganti-ganti komponen ketika terjadi masalah karena tidak terlalu berpengaruh terhadap sistem. Contoh sistem pada telephone dimana tiap cicuit komponen dapat berganti atau diganti ketika terdapat masalah.,0
+203,407,408,"Ketika majority voting tercapai dan nilai unik maksimum juga tercapai. Nilai unik maksimum dipilih ketika nilai m kurang dari [(N+1)/2]. Apabila nilai m lebih dari [(N+1)/2] dan voting mayoritas tercapai, serta nilai unik maksimum juga tercapai, consensus voting dapat digunakan untuk memilih nilai m secara acak.",Ketika cakupan output kegagalan besar. Metode voting ini dapat dilakukan apabila independensi statistic variasi kegagalan pada sistem dapat diasumsikan sebelumnya.,0
+204,409,410,"Fault merupakan penyebab terjadinya failure pada suatu program atau perangkat lunak. Fault terjadi karena terdapat komponen kode yang tidak sesuai dari spesifikasi. Contoh : Programmer lupa menambahkan semicolon pada akhir suatu kode, sehingga program tidak berjalan.","Fault merupakan penyebab terjadinya failure pada suatu program atau perangkat lunak. Fault terjadi karena terdapat komponen kode yang tidak sesuai dari spesifikasi. Contoh : Programmer lupa menambahkan semicolon pada akhir suatu kode, sehingga program tidak berjalan.",1
+205,411,412,"Enkripsi merupakan fungsi 2-arah, apa yang dienkripsikan dapat didekripsi dengan kunci yang cocok. Enkripsi sendiri merupakan proses konversi pesan dari bentuk plaintext menjadi pesan random yang tidak terbaca atau ciphertext. Ciphertext tersebut dapat dikonversikan kembali menjadi plaintext awal dengan kunci enkripsi yang tepat dengan proses yang bernama deskripsi atau decryption.","Tanda tangan elektronik menggabungkan prinsip kerja dari enkripsi dan hashing. Tanda tangan elektronik tidak men-enkripsi data, melainkan melakukan hashing pada data yang kemudian pengguna dapat membuat kunci privat untuk men-enkripsi hasil hashing data.",0
+206,413,414,Sistem yang dilindungi dari serangan MITM menyediakan beberapa metode autentifikasi untuk pesan-pesan yang berada pada sistem. Sebagian besar dari metode tersebut membutuhkan pertukaran informasi atau kunci sebagai tambahan pesan melalui kanal terproteksi.,"Tamper detection dapat digunakan untuk memperlihatkan bukti bahwa pesan telah diubah. Caranya dengan melakukan latency examination. Untuk mendeteksi serangan MITM, kedua pihak mengecek perbedaan respons waktu pengiriman pesan. Misal kedua pihak biasanya memiliki respons waktu pengiriman sebesar 10 detik, apabila pada suatu ketika respons waktunya menjadi abnormal, misal 20 detik dapat menjadi indikasi terdapat pihak ketiga yang melakukan intervensi.",0
+207,415,416,"Dalam transaksi data, ACID merupakan singkatan dari Atomic, Consistent, Isolated, dan Durable. Atomic berarti transaksi data tidak dapat dibagi-bagi. Consistent berarti batasan transaksi tidak berubah dari sebelum transaksi dimulai hingga akhir transaksi. Isolated berarti perubahan pada basis data tidak diperlihatkan kepada pengguna hingga transaksi data sudah selesai. Durable berarti perubahan pada basis data bersifat permanen.",Kendali konkurensi merupakan proses mengatur banyak operasi secara bersamaan pada basis data sehingga integritas data dapat terjaga. Kendali konkurensi juga mencegah operasi dari pengguna agar tidak saling ikut campur atau mempengaruhi dengan operasi dari pengguna lainnya yang terdapat di multi-user environment.,0
+208,417,418,"Redudansi data adalah duplikasi atau penyimpanan data yang sama secara berulang dalam beberapa file, sehingga data yang sama di simpan di dalam lebih dari 1 lokasi. Redudansi menyebabkan masalah pada waktu memperbarui (update) data, serta dapat menghabiskan tempat penyimpanan data dan juga menimbulkan inkonsisten data, yang berarti dokumen yang sama mungkin mempunyai data yang berbeda.","Redundansi data adalah keberadaan data yang merupakan tambahan pada data aktual dan memungkinkan koreksi kesalahan dalam data yang disimpan atau ditransmisikan. Data tambahan bisa saja merupakan salinan lengkap dari data aktual (sejenis kode pengulangan), atau hanya potongan-potongan data tertentu yang memungkinkan deteksi kesalahan dan rekonstruksi data yang hilang atau rusak hingga tingkat tertententu",1
+209,419,420,"Siklus hidup pengembangan sistem (SDLC), juga disebut sebagai siklus hidup pengembangan aplikasi, adalah proses untuk merencanakan, membuat, menguji, dan menyebarkan sistem informasi. Konsep siklus hidup pengembangan sistem berlaku untuk berbagai konfigurasi perangkat keras dan perangkat lunak, karena suatu sistem dapat terdiri dari perangkat keras saja, perangkat lunak saja, atau kombinasi keduanya. ","SDLC adalah proses pengubahan dan pembuatan sistem, model, serta metodologi yang digunakan untuk mengembangkan software. Singkatnya, dalam dunia rekayasa software, ia merupakan langkah-langkah yang bisa diterapkan para engineer dan developer untuk merancang dan mengelola software.",1
+210,421,422,Data Non-concurrency adalah ketika banyak user dapat mengakses dan membaca data pada waktu yang sama akan tetapi user kehilangan konsistensi dalam membaca data.,Invalid Data disebabkan karena data yang dimasukan dan disimpan tidak valid karena terjadi error pada atau tidak terdapatnya proses check dan validation data.,0
+211,423,424,Kendali akses diberlakukan oleh admin dan pengguna,Kendali akses diberlakukan oleh admin dan sistem operasi,0
+212,425,426,Memiliki tingkat skalabilitas yang tinggi,Memiliki tingkat skalabilitas yang rendah,0
+213,427,428,Pemberian kendali akses bersifat fleksibel antar user.,"Pemberian kendali akses tidak fleksibel, diatur sistem operasi ",0
+214,429,430,Memiliki tingkat keamanan yang rendah karena tiap kendali akses diberlakukan oleh tiap user.,Memiliki tingkat keamanan yang tinggi kareana kendali akses diberlakukan oleh sistem operasi dan admin.,0
+215,431,432,SQL injection merupakan tipe serangan pada basis data dimana penyerang memasukan statement SQL ke dalam sistem basis data untuk dieksekusi untuk mendapatkan informasi penting dari basis data. Tipe serangan ini memanfaatkan loopholes pada impementasi dari aplikasi pengguna.,"Hacker menggunakan kredensial dari seorang pengguna atau perangkat untuk menyerang jaringan basis data, mencuri data, atau mengelabui kendali akses ke sistem basis data",0
+216,433,434,"ISO 9000-3 merupakan panduan yang diberikan oleh Organisasi Standarisasi Internasional (ISO), untuk merepresentasikan implementasi dari metodologi umum manajemen kualitas standar ISO 9000 kepada kasus khusus pada pengembangan dan perawatan perangkat lunak.",ISO 9000-3 sendiri diadaptasi berdasarkan apa yang dikenalkan pada ISO 9001. Publikasi revisi panduan ISO 9000-3 sendiri mengikuti publikasi revisi standar tahun sebelumnya. Contoh ISO 9000-3 versi tahun 1997 berdasarkan pada standar ISO 9001 versi tahun 1994.,0
+217,435,436,ISO 9000-3 sendiri diadaptasi berdasarkan apa yang dikenalkan pada ISO 9001. Publikasi revisi panduan ISO 9000-3 sendiri mengikuti publikasi revisi standar tahun sebelumnya. Contoh ISO 9000-3 versi tahun 1997 berdasarkan pada standar ISO 9001 versi tahun 1994.,Tujuan dari standar IEEE 1028 adalah untuk mendefinisikan prosedur review sistematik yang dapat diaplikasikan untuk mereview peforma sepanjang siklus hidup perangkat lunak dan dapat menyesuaikan dengan prasyarat review yang ditentukan oleh standar lainnya.,0
+218,437,438,Tablet termasuk ke dalam kategori komputer karena memenuhi definisi sebagai mesin yang dapat diprogram untuk melaksanakan suatu perintah tertentu untuk mengolah data dari suatu bentuk ke bentuk yang lain.,"Tablet merupakan sebuah komputer karena tablet dapat deprogram/diperintah untuk dapat melakukan banyak hal, seperti menampilkan video/gambar, membuat dan mengirim pesan, bermain game.",1
+219,439,440,"Pemrograman komputer adalah proses untuk membangun/mengerjakan sekumpulan perintah yang kita berikan kepada komputer untuk mengerjakan sesuatu, yaitu untuk mengolah data masukan menjadi keluaran.","Pemrograman komputer adalah proses untuk membuat suatu program. Dimulai dari sekumpulan perintah yang kita berikan kepada komputer untuk mengerjakan sesuatu, yang kemudian datanya diolah lalu keluar sebagai output sesuai perintah awal.",1
+220,441,442,"Bahasa Assembly, merupakan bahasa yang menggunakan singkatan dari kata kerja dalam bahasa inggris yang mudah diingat (disebut dengan mnemonic). Bahasa ini membuat manusia menjadi lebih mudah menghafal perintah-perintah sehinnga mudah untuk mengembangkan program.",Bahasa assembly adalah bahasa yang menggunakan singkatan kata kerja dalam bahasa Inggris (mnemonic) yang mudah diingat untuk melaksanakan program yang akan dieksekusi oleh komputer.,1
+221,443,444,"High-level language atau bahasa tingkat tinggi adalah bahasa pemrograman yang paling mirip dan paling mudah dipahami manusia. Contoh bahasa tingkat tinggi adalah Javascript, bahasa C, bahasa C++, dan lain-lain.","Bahasa Level Tinggi, merupakan bahasa yang paling mudah menuliskan perintah-perintahnya dibanding 2 bahasa sebelumnya karena lebih singkat dan mudah dihafalkan.",0
+222,445,446,"Komponen yang menjadi syarat minimal sebuah komputer dapat bekerja yaitu memori utama, memori sekunder, central processing unit (CPU), input devices, dan output devices.","Perangkat elektronik yang bernama tablet termasuk komputer. Karena tablet ini biasanya kita kenal dengan komputer tablet, komputer tablet ini merupakan komputer lengkap yang berupa layar sentuh datar, dan juga dapat diprogram sehingga bisa melakukan sesuatu yang dibentuk.",0
+223,447,448," Input devices: perangkat untuk memasukkan sinyal informasi ke dalam komputer seperti keyboard, mouse, touchpad, scanner.","Output devices: perangkat untuk mengkonversi informasi yang diproses komputer untuk dapat ditangkap indera manusia, seperti monitor, printer, speaker.",0
+224,449,450,Critical section adalah segmen kode yang mengakses data yang digunakan proses secara bersama-sama yang dapat membawa proses itu ke bahaya race condition.,Race condition adalah suatu kondisi dimana dua atau lebih proses mengakses shared memory/sumber daya pada saat yang bersamaan dan hasil akhir dari data tersebut tergantung dari proses mana yang terakhir selesai dieksekusi sehingga hasil akhirnya terkadang tidak sesuai dengan yang dikehendaki.,0
+225,451,452,Sleeping barber problem adalah masalah sinkronisasi dan komunikasi antar-proses. Masalah ini didasarkan pada barbershop.,Sleeping barber problem adalah masalah komunikasi dan sinkronisasi antar-proses klasik yang mengilustrasikan kerumitan yang muncul ketika ada beberapa proses sistem operasi.,1
+226,453,454,"Software Failure, merupakan kesalahan yang disebabkan oleh software faults. Dapat berupa kegagalan dalam menjalankan suatu fungsi perangkat lunak atau fungsi yang dijalankan mengeluarkan hasil yang keliru.","Software Faults, merupakan kesalahan yang disebabkan oleh software error. Tidak semua atau selalu software error dapat menimbulkan software faults.",0
+227,455,456,"Software Error, merupakan kesalahan yang disebabkan oleh campur tangan manusia, biasanya berupa kesalahan logika atau kesalahan penulisan grammar pada baris kode software.",Kesalahan Perangkat Lunak berarti kesalahan dalam pengkodean atau logika yang menyebabkan program tidak berfungsi secara substansial sebagaimana dijelaskan dalam Spesifikasi yang berlaku.,1
+228,457,458,Perangkat Keras Komputer berarti komponen fisik sistem komputer.,Perangkat Keras Komputer berarti perangkat keras komputer atau perangkat periferal komputer.,1
+229,459,460,Correctness berarti perangkat lunak harus dapat menampilkan data atau output yang sesuai dengan apa yang ditujukan.,Reliability berarti perangkat lunak dapat digunakan atau berfungsi secara konsisten saat digunakan sewaktu-waktu dan pada kapabilitas maksimumnya.,0
+230,461,462,Integrity berarti perangkat lunak harus memiliki sistem keamaan yang aman untuk mencegah pihak tidak berwenang mengambil data dari perangkat lunak tersebut.,Usability berarti perangkat lunak memiliki dokumentasi yang jelas sehingga pengguna baru dapat memahami cara pemakaian atau pengoperasian dan seluk beluk dari perangkat lunak.,0
+231,463,464,"Interoperability, Perangkat lunak dapat menyediakan antarmuka dengan sistem perangkat lunak lain atau firmware dari perangkat atau alat lainnya.","Reusability, Perangkat lunak dapat digunakan untuk pekerjaan lain yang dapat memanfaatkan fungsi dari perangkat lunak tersebut.",0
+232,465,466,"Portability, Perangkat lunak dapat dijalankan pada lingkungan perangkat yang berbeda. ",Portabilitas adalah karakteristik yang dikaitkan dengan program komputer jika program tersebut dapat digunakan dalam sistem operasi lain.,1
+233,467,468,Testability mengacu pada kemampuan untuk menjalankan eksperimen untuk menguji hipotesis atau teori.,"Testability mengacu pada tingkat bahwa setiap modul, persyaratan, subsistem, atau komponen lain dari arsitektur Anda dapat diverifikasi sebagai memuaskan atau tidak.",1
+234,469,470,"Efficiency, perangkat lunak dapat menggunakan sumber daya dari perangkat sebaik mungkin untuk menjalankan fungsinya.","Flexibility, kegunaan atau fungsi dari perangkat lunak dapat disesuaikan dengan jenis pekerjaan pengguna.",0
+235,471,472,"maintainability berarti semua ketentuan dan tindakan teknis yang berdampak pada desain dan konstruksi dan diperlukan untuk pemeliharaan, telah dirancang untuk memastikan bahwa instalasi cableway beroperasi dengan aman.","maintainability berarti probabilitas bahwa tindakan Pemeliharaan yang diberikan, untuk item dalam kondisi penggunaan tertentu, dapat dilakukan dalam interval waktu yang dinyatakan ketika Pemeliharaan dilakukan dalam kondisi yang dinyatakan dan menggunakan prosedur dan sumber daya yang dinyatakan.",1
+236,473,474,"Fraud merupakan tiap Tindakan atau kelalaian yang disengaja yang dirancang untuk menipu orang lain, yang mengakibatkan korban menderita kerugian dan/atau pelaku memperoleh keuntungan.","corruption merupakan penyalahgunaan kekuasaan yang dipercayakan untuk keuntungan pribadi, termasuk suap.",0
+237,475,476,Fraud merupakan segala hal yang melibatkan penyediaan fakta atau informasi yang salah untuk mendapatkan keuntungan secara illegal atau tidak semestinya.,"Fraud merupakan tiap Tindakan atau kelalaian yang disengaja yang dirancang untuk menipu orang lain, yang mengakibatkan korban menderita kerugian dan/atau pelaku memperoleh keuntungan.",1
+238,477,478,Terdapat niat dari pelaku bahwa representasi palsu dipercayai oleh korban.,Terdapat niat untuk meminta tawaran bujukan atau hadiah untuk pelaksanaan suatu tindakan atau wewenang resmi.,0
+239,479,480,Melibatkan pengkhianatan pada kepercayan antar pelaku dan korban.,Melibatkan pelanggaran loyalitas terhadap suatu prinsip.,0
+240,481,482,"Penyuapan, penerimaan atau pemberian hadiah untuk mempengaruhi kebijakan atau performa seseorang.","Pernyataan palsu, pernyataan informasi palsu yang menyebabkan kerugian terhadap seseorang yang direpresentasikan.",0
+241,483,484,"Corruption merupakan perilaku yang melibatkan pejabat negeri atau swasta, dimana mereka memperkaya diri dan teman mereka secara tidak pantas dan melanggar hukum atau membujuk orang lain untuk melakukannya dengan menyalahgunakan posisi dimana mereka ditempatkan.","corruption merupakan penyalahgunaan kekuasaan yang dipercayakan untuk keuntungan pribadi, termasuk suap.",1
+242,485,486,Terdapat kerugian disalah satu pihak dan keuntungan dilain pihak.,Tidak selalu menghasilkan kerugian terhadap salah satu pihak yang terlibat.,0
+243,487,488,Kelalaian materi atau kesalahan representasi yang dibuat secara sadar oleh pelaku.,Terdapat penyalahgunaan pangkat atau jabatan untuk keuntungan pribadi.,0
+244,489,490,"Pembagian pembelian, kontrak dibagi menjadi 2 atau lebih untuk menghindari batas dana pengadaan sehingga dapat menghindari penawaran kompetitif.","Pembelian untuk pribadi, seseorang menggunakan anggaran publik untuk membeli barang yang harusnya digunakan untuk publik, tetapi dialihkan menjadi penggunaan pribadi.",0
+245,491,492,"Nepotisme, penyalahgunaan jabatan untuk mengedepankan atau memfavoritkan kenalan atau keluarga dalam suatu proses.","Penyuapan, penerimaan atau pemberian hadiah untuk mempengaruhi kebijakan atau performa seseorang.",0
+246,493,494,Failure adalah ketidakmampuan sistem perangkat lunak atau komponen untuk melakukan fungsi yang diperlukan dalam persyaratan kinerja yang ditentukan. Software failure terjadi jika perilaku perangkat lunak berbeda dari perilaku yang ditentukan/dispesifikasikan.,Failure merupakan kegagalan satu produk atau perangkat lunak untuk menjalankan fungsinya. Hal ini dapat berupa program tidak mengeluarkan hasil yang benar atau program tidak berjalan.,1
+247,495,496,Error adalah suatu kesalahan dari pihak developer dan menyebabkan kita tidak dapat mengkompilasi atau menjalankan aplikasi tersebut karena kesalahan pengkodean.,Error merupakan penyebab terjadinya fault pada perangkat lunak. Error biasanya disebabkan oleh interevensi manusia. ,1
+248,497,498,"Computer-aided engineering (CAE) Mendefinisikan analisis dari masalah matematikanya, Mendefinisikan persamaannya, dan Membuat model konfigurasi fisiknya","Computer-aided design (CAD) Menghasilkan desain teknik yang lebih rinci, Me-render tampilan ketika struktur baru dibangun, dan Membuat konsep desain, tata letak produk, dan analisis dinamis perakitan",0
+249,499,500,Material Requirements Planning (MRP) memonitor dan mengontrol inventaris dan pembelian material,"Manufacturing Resource Planning (MRP II) memonitor kualitas produk, demand forecasting, dan financial planning",0
+250,501,502,"Operasi Rollup digunakan untuk grouping dengan klausa. Operasi tersebut digunakan 
+untuk membuat subtotal dan grandtotal untuk kumpulan kolom.","Operasi Cube mirip dengan operasi Rollup hanya saja Cube menghasilkan subtotal dan 
+grandtotal untuk tiap permutasi dari kumpulan kolom.",0
+251,503,504,Seseorang di atas kuda melompati pesawat terbang yang rusak.,"Seseorang sedang berada di restoran, memesan omelet.",0
+252,505,506,Seseorang di atas kuda melompati pesawat terbang yang rusak.,"Seseorang berada di luar ruangan, di atas kuda.",1
+253,507,508,Anak-anak tersenyum dan melambaikan tangan ke kamera,Ada anak-anak yang hadir,1
+254,509,510,Anak-anak tersenyum dan melambaikan tangan ke kamera,Anak-anak mengerutkan kening,0
+255,511,512,Seorang anak laki-laki sedang melompat-lompat di atas skateboard di tengah jembatan merah.,Anak laki-laki itu berseluncur di trotoar.,0
+256,513,514,Seorang anak laki-laki sedang melompat-lompat di atas skateboard di tengah jembatan merah.,Anak laki-laki melakukan trik skateboard.,1
+257,515,516,"Seorang pria tua duduk dengan jus jeruknya di meja kecil di sebuah kedai kopi, sementara karyawan dengan kemeja berwarna cerah tersenyum di latar belakang.",Seorang anak laki-laki membalik burger.,0
+258,517,518,Dua wanita berambut pirang saling berpelukan.,Para wanita sedang tidur.,0
+259,519,520,Dua wanita berambut pirang saling berpelukan.,Ada wanita yang menunjukkan kasih sayang.,1
+260,521,522,"Beberapa orang di restoran, salah satu dari mereka sedang minum jus jeruk.",Orang-orang duduk di meja di sekolah.,0
+261,523,524,"Beberapa orang di restoran, salah satu dari mereka sedang minum jus jeruk.",Para pengunjung berada di restoran.,1
+262,525,526,Seorang pria tua sedang minum jus jeruk di restoran.,Seorang pria sedang minum jus.,1
+263,527,528,Seorang pria tua sedang minum jus jeruk di restoran.,Dua orang wanita berada di restoran sambil minum anggur.,0
+264,529,530,"Seorang pria berambut pirang, dan berkemeja coklat minum dari air mancur umum.",Seorang pria berambut pirang mengenakan kemeja cokelat sedang membaca buku di bangku taman,0
+265,531,532,"Seorang pria berambut pirang, dan berkemeja coklat minum dari air mancur umum.",Seorang pria berambut pirang sedang minum air dari air mancur.,1
+266,533,534,Dua orang wanita yang baru saja makan siang berpelukan dan mengucapkan selamat tinggal.,Teman-teman saling mencemooh satu sama lain di atas meja makan yang penuh.,0
+267,535,536,Dua orang wanita yang baru saja makan siang berpelukan dan mengucapkan selamat tinggal.,Ada dua wanita dalam gambar ini.,1
+268,537,538,"Dua wanita, memegang wadah makanan, berpelukan.",Dua kelompok anggota geng saingan saling menjatuhkan.,0
+269,539,540,"Dua wanita, memegang wadah makanan, berpelukan.",Dua wanita saling berpelukan.,1
+270,541,542,Tim Liga Kecil mencoba menangkap pelari yang meluncur ke base dalam pertandingan sore hari.,Sebuah tim mencoba untuk menandai pelari keluar.,1
+271,543,544,Tim Liga Kecil mencoba menangkap pelari yang meluncur ke base dalam pertandingan sore hari.,Sebuah tim sedang bermain bisbol di Saturnus.,0
+272,545,546,Sekolah mengadakan acara khusus untuk menunjukkan budaya Amerika tentang bagaimana budaya lain ditangani dalam pesta.,Sebuah sekolah menyelenggarakan pertandingan bola basket.,0
+273,547,548,Sekolah mengadakan acara khusus untuk menunjukkan budaya Amerika tentang bagaimana budaya lain ditangani dalam pesta.,Sebuah sekolah mengadakan acara.,1
+274,549,550,Para wanita fashion kelas atas menunggu di luar trem di samping kerumunan orang di kota.,Para wanita tidak peduli pakaian apa yang mereka kenakan.,0
+275,551,552,Para wanita fashion kelas atas menunggu di luar trem di samping kerumunan orang di kota.,Para wanita sedang menunggu di dekat trem.,1
+276,553,554,"Seorang pria, wanita, dan anak-anak yang sedang bersenang-senang di pantai.",Sebuah keluarga beranggotakan tiga orang sedang berada di pantai.,1
+277,555,556,"Seorang pria, wanita, dan anak-anak yang sedang bersenang-senang di pantai.",Sebuah keluarga yang terdiri atas tiga orang sedang berbelanja di mal.,0
+278,557,558,Orang-orang yang menunggu untuk naik kereta api atau baru saja turun.,Ada orang yang baru saja naik kereta api,1
+279,559,560,Orang-orang yang menunggu untuk naik kereta api atau baru saja turun.,Ada orang yang sedang menunggu di kereta api.,1
+280,561,562,Sepasang suami-istri yang sedang bermain dengan seorang anak kecil di pantai.,Sepasang suami-istri sedang bermain dengan seorang anak kecil di luar.,1
+281,563,564,Sepasang suami-istri yang sedang bermain dengan seorang anak kecil di pantai.,Sepasang suami-istri menyaksikan seorang gadis kecil bermain sendiri di pantai.,0
+282,565,566,Sepasang suami-istri bermain di air pasang dengan putra mereka yang masih kecil.,Keluarga sedang duduk untuk makan malam.,0
+283,567,568,Sepasang suami-istri bermain di air pasang dengan putra mereka yang masih kecil.,Keluarga berada di luar.,1
+284,569,570,Seorang pria dan seorang wanita menyeberang jalan di depan restoran pizza dan gyro.,Orang-orang berdiri diam di tepi jalan.,0
+285,571,572,Seorang pria dan seorang wanita menyeberang jalan di depan restoran pizza dan gyro.,"Di dekat beberapa restoran, dua orang berjalan menyeberang jalan.",1
+286,573,574,Seorang wanita berjaket hijau dan berkerudung di atas kepalanya melihat ke arah lembah.,Wanita itu nake.,0
+287,575,576,Seorang wanita berjaket hijau dan berkerudung di atas kepalanya melihat ke arah lembah.,Wanita itu mengenakan pakaian berwarna hijau.,1
+288,577,578,Wanita berbaju putih di latar depan dan seorang pria sedikit di belakang berjalan dengan tanda untuk John's Pizza dan Gyro di latar belakang.,Mereka melakukan protes di luar ibu kota.,0
+289,579,580,Wanita berbaju putih di latar depan dan seorang pria sedikit di belakang berjalan dengan tanda untuk John's Pizza dan Gyro di latar belakang.,Seorang wanita berbaju putih.,1
+290,581,582,Wanita berbaju putih di latar depan dan seorang pria sedikit di belakang berjalan dengan tanda untuk John's Pizza dan Gyro di latar belakang.,Seorang pria sedang mengiklankan sebuah restoran.,1
+291,583,584,Wanita berbaju putih di latar depan dan seorang pria sedikit di belakang berjalan dengan tanda untuk John's Pizza dan Gyro di latar belakang.,Wanita itu mengenakan pakaian hitam.,0
+292,585,586,Wanita berbaju putih di latar depan dan seorang pria sedikit di belakang berjalan dengan tanda untuk John's Pizza dan Gyro di latar belakang.,Wanita itu mengenakan pakaian putih.,1
+293,587,588,Wanita berbaju putih di latar depan dan seorang pria sedikit di belakang berjalan dengan tanda untuk John's Pizza dan Gyro di latar belakang.,Renang Olimpiade.,0
+294,589,590,Wanita berbaju putih di latar depan dan seorang pria sedikit di belakang berjalan dengan tanda untuk John's Pizza dan Gyro di latar belakang.,Seorang pria dan seorang wanita sedang makan bersama di John's Pizza dan Gyro.,0
+295,591,592,Wanita berbaju putih di latar depan dan seorang pria sedikit di belakang berjalan dengan tanda untuk John's Pizza dan Gyro di latar belakang.,Mereka berjalan dengan membawa tanda.,1
+296,593,594,Wanita berbaju putih di latar depan dan seorang pria sedikit di belakang berjalan dengan tanda untuk John's Pizza dan Gyro di latar belakang.,Pria itu duduk sambil memegang papan nama John's Pizza dan Gyro di tangannya.,0
+297,595,596,Wanita berbaju putih di latar depan dan seorang pria sedikit di belakang berjalan dengan tanda untuk John's Pizza dan Gyro di latar belakang.,Wanita dan pria berada di luar ruangan.,1
+298,597,598,"Dua orang dewasa, satu perempuan berkulit putih, dengan nuansa dan satu laki-laki, pakaian abu-abu, berjalan menyeberang jalan, menjauh dari sebuah restoran dengan gambar buram orang berkemeja merah berwarna gelap di latar depan.",Dua orang dewasa berlari menyeberang jalan untuk menjauh dari orang berkemeja merah yang mengejar mereka.,0
+299,599,600,"Dua orang dewasa, satu perempuan berkulit putih, dengan nuansa dan satu laki-laki, pakaian abu-abu, berjalan menyeberang jalan, menjauh dari sebuah restoran dengan gambar buram orang berkemeja merah berwarna gelap di latar depan.",Yang dewasa adalah jantan dan betina.,1
+300,601,602,"Dua orang dewasa, satu perempuan berkulit putih, dengan nuansa dan satu laki-laki, pakaian abu-abu, berjalan menyeberang jalan, menjauh dari sebuah restoran dengan gambar buram orang berkemeja merah berwarna gelap di latar depan.",Dua orang dewasa berenang di air,0
+301,603,604,"Dua orang dewasa, satu perempuan berkulit putih, dengan nuansa dan satu laki-laki, pakaian abu-abu, berjalan menyeberang jalan, menjauh dari sebuah restoran dengan gambar buram orang berkemeja merah berwarna gelap di latar depan.",Dua orang dewasa berjalan di seberang jalan.,1
+302,605,606,"Dua orang dewasa, satu perempuan berkulit putih, dengan nuansa dan satu laki-laki, pakaian abu-abu, berjalan menyeberang jalan, menjauh dari sebuah restoran dengan gambar buram orang berkemeja merah berwarna gelap di latar depan.",Dua orang mengendarai sepeda ke dalam terowongan.,0
+303,607,608,"Dua orang dewasa, satu perempuan berkulit putih, dengan nuansa dan satu laki-laki, pakaian abu-abu, berjalan menyeberang jalan, menjauh dari sebuah restoran dengan gambar buram orang berkemeja merah berwarna gelap di latar depan.",Dua orang berjalan menjauh dari sebuah restoran di seberang jalan.,1
+304,609,610,"Dua orang dewasa, satu perempuan berkulit putih, dengan nuansa dan satu laki-laki, pakaian abu-abu, berjalan menyeberang jalan, menjauh dari sebuah restoran dengan gambar buram orang berkemeja merah berwarna gelap di latar depan.",Beberapa orang menaiki kereta api.,0
+305,611,612,"Dua orang dewasa, satu perempuan berkulit putih, dengan nuansa dan satu laki-laki, pakaian abu-abu, berjalan menyeberang jalan, menjauh dari sebuah restoran dengan gambar buram orang berkemeja merah berwarna gelap di latar depan.",Dua orang dewasa berjalan di seberang jalan.,1
+306,613,614,"Dua orang dewasa, satu perempuan berkulit putih, dengan nuansa dan satu laki-laki, pakaian abu-abu, berjalan menyeberang jalan, menjauh dari sebuah restoran dengan gambar buram orang berkemeja merah berwarna gelap di latar depan.",Dua orang dewasa berjalan melintasi jalan,1
+307,615,616,"Dua orang dewasa, satu perempuan berkulit putih, dengan nuansa dan satu laki-laki, pakaian abu-abu, berjalan menyeberang jalan, menjauh dari sebuah restoran dengan gambar buram orang berkemeja merah berwarna gelap di latar depan.",Tidak ada wanita dalam gambar.,0
+308,617,618,"Seorang wanita mengenakan pakaian serba putih dan sedang makan, berjalan di samping seorang pria yang memegang tas kerja.",Pasangan suami istri sedang tidur.,0
+309,619,620,"Seorang wanita mengenakan pakaian serba putih dan sedang makan, berjalan di samping seorang pria yang memegang tas kerja.",Seorang wanita berada di samping seorang pria.,1
+310,621,622,"Seorang wanita berjalan menyeberang jalan sambil makan pisang, sementara seorang pria mengikuti dengan tas kerjanya.",Tidak ada yang punya makanan.,0
+311,623,624,"Seorang wanita berjalan menyeberang jalan sambil makan pisang, sementara seorang pria mengikuti dengan tas kerjanya.","Seorang wanita makan pisang dan berjalan menyeberangi jalan, dan ada seorang pria yang mengikuti di belakangnya.",1
+312,625,626,"Seorang wanita berjalan menyeberang jalan sambil makan pisang, sementara seorang pria mengikuti dengan tas kerjanya.",Wanita dan pria itu sedang bermain bisbol bersama.,0
+313,627,628,"Seorang wanita berjalan menyeberang jalan sambil makan pisang, sementara seorang pria mengikuti dengan tas kerjanya.","Seorang wanita makan es krim sambil berjalan di trotoar, dan ada seorang wanita lain di depannya dengan membawa dompet.",0
+314,629,630,"Seorang wanita berjalan menyeberang jalan sambil makan pisang, sementara seorang pria mengikuti dengan tas kerjanya.",Seseorang yang sedang makan.,1
+315,631,632,"Seorang wanita berjalan menyeberang jalan sambil makan pisang, sementara seorang pria mengikuti dengan tas kerjanya.",seorang wanita yang sedang makan pisang menyeberang jalan,1
+316,633,634,"Seorang wanita berjalan menyeberang jalan sambil makan pisang, sementara seorang pria mengikuti dengan tas kerjanya.",seorang wanita duduk untuk makan siang,0
+317,635,636,"Seorang wanita berjalan menyeberang jalan sambil makan pisang, sementara seorang pria mengikuti dengan tas kerjanya.",wanita itu sedang minum kopi di kafe,0
+318,637,638,"Seorang wanita berjalan menyeberang jalan sambil makan pisang, sementara seorang pria mengikuti dengan tas kerjanya.",Wanita itu sedang makan pisang.,1
+319,639,640,"Seorang wanita berjalan menyeberang jalan sambil makan pisang, sementara seorang pria mengikuti dengan tas kerjanya.",wanita itu berada di luar,1
+320,641,642,Seorang pemain ski meluncur di sepanjang rel logam.,Seorang pemain ski berada di dekat rel.,1
+321,643,644,Seorang pemain ski meluncur di sepanjang rel logam.,Seorang pemain ski berada jauh dari rel.,0
+322,645,646,Seseorang yang sedang bermain ski di atas rel pada malam hari.,Wanita itu memakan mobil,0
+323,647,648,Seseorang yang sedang bermain ski di atas rel pada malam hari.,Orang yang bermain ski,1
+324,649,650,Seorang pemain ski dengan warna hijau elektrik di tepi tanjakan yang terbuat dari batang logam.,Pemain ski yang berpakaian cerah meluncur menuruni jalur lomba.,1
+325,651,652,Seorang pemain ski dengan warna hijau elektrik di tepi tanjakan yang terbuat dari batang logam.,Sang pelari berlari di jalanan.,0
+326,653,654,Seorang pemain ski berseragam kuning sedang melakukan trik melintasi objek berpagar.,Seorang snowboarder sedang menaiki lift ski.,0
+327,655,656,Seorang pemain ski berseragam kuning sedang melakukan trik melintasi objek berpagar.,Seseorang sedang melakukan olahraga musim dingin.,1
+328,657,658,Seorang pria berambut pirang sedang minum dari air mancur umum.,Pria itu sedang minum air.,1
+329,659,660,Seorang pria berambut pirang sedang minum dari air mancur umum.,Pria itu sedang minum kopi.,0
+330,661,662,Anjing cokelat basah berenang ke arah kamera.,Anjing sedang tidur di tempat tidurnya.,0
+331,663,664,Anjing cokelat basah berenang ke arah kamera.,Seekor anjing berada di dalam air.,1
+332,665,666,Gambar closeup anjing yang sedang berenang.,Seekor kucing dengan enggan mandi.,0
+333,667,668,Gambar closeup anjing yang sedang berenang.,Seekor anjing berenang di perairan.,1
+334,669,670,Anjing cokelat berbulu sedang berenang di lautan.,Seekor anjing sedang berenang.,1
+335,671,672,Anjing cokelat berbulu sedang berenang di lautan.,Seekor anjing berlarian di sekitar halaman.,0
+336,673,674,Seekor anjing besar berwarna cokelat berenang ke arah kamera.,Seekor anjing sedang mengejar tongkat.,0
+337,675,676,Seekor anjing besar berwarna cokelat berenang ke arah kamera.,Seekor anjing berenang ke arah kamera.,1
+338,677,678,"Seorang pria mengenakan pakaian hitam dengan topi abu-abu, memegang garpu rumput, mengarahkan gerobak yang ditarik kuda.",Pria bertopi abu-abu dan garpu rumput sedang mengarahkan gerobak.,1
+339,679,680,"Seorang pria mengenakan pakaian hitam dengan topi abu-abu, memegang garpu rumput, mengarahkan gerobak yang ditarik kuda.",Wanita bergaun biru sedang menambatkan kuda ke gerobak.,0
+340,681,682,"Seorang pria sedang menuntun Clydesdale di jalan jerami, di dalam Old Country.",Seorang pria sedang berjalan dengan kudanya di jalan pedesaan.,1
+341,683,684,"Seorang pria sedang menuntun Clydesdale di jalan jerami, di dalam Old Country.",Seorang wanita dengan setelan bisnis abu-abu sedang minum teh.,0
+342,685,686,Seorang petani memupuk kebunnya dengan pupuk kandang dengan kuda dan gerobak.,Pria itu sedang memupuk kebunnya.,1
+343,687,688,Seorang petani memupuk kebunnya dengan pupuk kandang dengan kuda dan gerobak.,Pria itu berada di jalan kota dengan kuda dan gerobaknya.,0
+344,689,690,Seekor kuda putih menarik gerobak sementara seorang pria berdiri dan menonton.,Seekor hewan sedang berjalan di luar.,1
+345,691,692,Seekor kuda putih menarik gerobak sementara seorang pria berdiri dan menonton.,Seorang pria sedang menonton pacuan kuda.,0
+346,693,694,Sekelompok kecil jemaat gereja menyaksikan latihan paduan suara.,Sebuah kelompok menonton latihan.,1
+347,695,696,Sekelompok kecil jemaat gereja menyaksikan latihan paduan suara.,Sebuah paduan suara tampil di depan kerumunan orang yang penuh sesak.,0
+348,697,698,Seekor anjing menjatuhkan cakram merah di pantai.,seekor anjing menangkap bola di pantai,0
+349,699,700,Seekor anjing menjatuhkan cakram merah di pantai.,seekor anjing menjatuhkan cakram merah,1
+350,701,702,Seorang pria dan seorang wanita sedang berjalan di jalan di puncak bukit.,Seorang pria dan wanita berjalan di jalan.,1
+351,703,704,Seorang pria dan seorang wanita sedang berjalan di jalan di puncak bukit.,Dua orang pria bermain tangkap ikan di atas bukit.,0
+352,705,706,Seorang pria tua sedang minum jus jeruk di sebuah kafe.,Seorang pria tua sedang minum jus apel di sebuah bar.,0
+353,707,708,Seorang pria tua sedang minum jus jeruk di sebuah kafe.,Seorang pria tua sedang menikmati minuman di sebuah kafe.,1
+354,709,710,Sepasang suami istri bergandengan tangan berjalan menyusuri jalan.,Ada orang yang duduk di pinggir jalan.,0
+355,711,712,Sepasang suami istri bergandengan tangan berjalan menyusuri jalan.,Orang-orang berpegangan tangan dan berjalan.,1
+356,713,714,Sepasang suami-istri berjalan melalui kota bata putih.,Orang-orang berjalan di luar rumah.,1
+357,715,716,Sepasang suami-istri berjalan melalui kota bata putih.,Seorang pria dan wanita berjalan di kota batu bata coklat.,0
+358,717,718,Anak-anak pulang dari sekolah.,Anak-anak berada di perpustakaan.,0
+359,719,720,Anak-anak pulang dari sekolah.,Anak-anak sekolah pulang ke rumah.,1
+360,721,722,Orang-orang mendengarkan paduan suara di gereja Katolik.,Orang-orang mendengarkan band metal.,0
+361,723,724,Orang-orang mendengarkan paduan suara di gereja Katolik.,Paduan suara bernyanyi dalam misa.,1
+362,725,726,Pengendara sepeda menunggu di persimpangan.,Seorang pengendara sepeda sedang duduk makan siang di mal.,0
+363,727,728,Pengendara sepeda menunggu di persimpangan.,Para pengendara sepeda berada di luar.,1
+364,729,730,Pengendara sepeda menunggu di persimpangan.,Sepeda-sepeda berada di jalan.,1
+365,731,732,Pengendara sepeda menunggu di persimpangan.,Seseorang yang sedang bersepeda berada di dekat jalan.,1
+366,733,734,Pengendara sepeda menunggu di persimpangan.,Pengendara motor berhenti dan menunggu lalu lintas di persimpangan.,1
+367,735,736,Pengendara sepeda menunggu di persimpangan.,Para pesepeda mengendarai sepeda melewati mal dengan sepeda mereka.,0
+368,737,738,Pengendara sepeda menunggu di persimpangan.,Pengendara sepeda menunggu giliran untuk menyeberang.,1
+369,739,740,Pengendara sepeda menunggu di persimpangan.,Pengendara sepeda berkendara di sepanjang jalan bebas hambatan.,0
+370,741,742,Pengendara sepeda menunggu di persimpangan.,Pengendara sepeda sudah mati.,0
+371,743,744,Pengendara sepeda menunggu di persimpangan.,Para pengendara sepeda berada di rumah.,0
+372,745,746,Orang-orang menunggu di lampu merah dengan sepeda.,Sekelompok teman berada di atas kapal,0
+373,747,748,Orang-orang menunggu di lampu merah dengan sepeda.,Orang-orang dengan sepeda.,1
+374,749,750,Orang-orang menunggu di lampu merah dengan sepeda.,Orang-orang berada di dalam menunggu.,0
+375,751,752,Orang-orang menunggu di lampu merah dengan sepeda.,Ada beberapa orang di luar.,1
+376,753,754,Orang-orang menunggu di lampu merah dengan sepeda.,Orang-orang mengendarai sepeda mereka.,1
+377,755,756,Orang-orang menunggu di lampu merah dengan sepeda.,Orang-orang menggunakan sepeda.,1
+378,757,758,Orang-orang menunggu di lampu merah dengan sepeda.,Orang-orang yang menerobos lampu merah.,0
+379,759,760,Orang-orang menunggu di lampu merah dengan sepeda.,Orang-orang dalam balapan mobil.,0
+380,761,762,Orang-orang menunggu di lampu merah dengan sepeda.,Pria dan wanita di luar di sudut jalan.,1
+381,763,764,Orang-orang menunggu di lampu merah dengan sepeda.,Seekor kepik telah mendarat di atas mawar merah muda yang indah.,0
+382,765,766,Orang-orang bersepeda menunggu di persimpangan.,Orang-orang menggunakan skateboard.,0
+383,767,768,Orang-orang bersepeda menunggu di persimpangan.,Orang-orang mengendarai sepeda mereka.,1
+384,769,770,Orang-orang bersepeda menunggu di persimpangan.,Orang-orang menunggu lalu lintas.,1
+385,771,772,Orang-orang bersepeda menunggu di persimpangan.,Orang-orang menunggu dengan berjalan kaki.,0
+386,773,774,Orang-orang bersepeda menunggu di persimpangan.,Ada pesepeda yang berhenti di sebuah jalan.,1
+387,775,776,Orang-orang bersepeda menunggu di persimpangan.,Orang-orang sedang tidur.,0
+388,777,778,Orang-orang bersepeda menunggu di persimpangan.,Orang-orang menunggu film dimulai.,0
+389,779,780,Orang-orang bersepeda menunggu di persimpangan.,Lebih dari satu orang yang bersepeda mematuhi peraturan lalu lintas.,1
+390,781,782,Orang-orang bersepeda menunggu di persimpangan.,Ada orang-orang yang bersepeda.,1
+391,783,784,Orang-orang bersepeda menunggu di persimpangan.,Orang-orang yang bersepeda melaju kencang melewati persimpangan.,0
+392,785,786,Seorang pria berkemeja merah sedang memperhatikan pria lain yang berdiri di atas gerobak yang terpasang dan terisi penuh.,Keranjangnya kosong.,0
+393,787,788,Seorang pria berkemeja merah sedang memperhatikan pria lain yang berdiri di atas gerobak yang terpasang dan terisi penuh.,Seorang pria memberikan tumpangan kuda-kudaan kepada pria lain.,0
+394,789,790,Seorang pria berkemeja merah sedang memperhatikan pria lain yang berdiri di atas gerobak yang terpasang dan terisi penuh.,Gerobak penuh dengan barang.,1
+395,791,792,Seorang pria berkemeja merah sedang memperhatikan pria lain yang berdiri di atas gerobak yang terpasang dan terisi penuh.,Seorang pria sedang tidur di bawah bangku.,0
+396,793,794,Seorang pria berkemeja merah sedang memperhatikan pria lain yang berdiri di atas gerobak yang terpasang dan terisi penuh.,Seorang pria memperhatikan pria lain.,1
+397,795,796,Seorang pria berkemeja merah sedang memperhatikan pria lain yang berdiri di atas gerobak yang terpasang dan terisi penuh.,"Seseorang berada di atas gerobak yang penuh dengan barang, sementara orang lain mengamati.",1
+398,797,798,Seorang pria berkemeja merah sedang memperhatikan pria lain yang berdiri di atas gerobak yang terpasang dan terisi penuh.,Pria itu sedang memperhatikan seorang wanita.,0
+399,799,800,Seorang pria berkemeja merah sedang memperhatikan pria lain yang berdiri di atas gerobak yang terpasang dan terisi penuh.,Seorang pria berdiri di atas gerobak.,1
+400,801,802,Seorang pria berkemeja merah sedang memperhatikan pria lain yang berdiri di atas gerobak yang terpasang dan terisi penuh.,Gerobak terisi sampai ke atas.,1
+401,803,804,Seorang pria berkemeja merah sedang memperhatikan pria lain yang berdiri di atas gerobak yang terpasang dan terisi penuh.,Seorang pria makan gurita.,0
+402,805,806,Seorang anak laki-laki sedang minum dari air mancur yang berbentuk seperti seorang wanita.,Seorang pria sedang minum air.,1
+403,807,808,Seorang anak laki-laki sedang minum dari air mancur yang berbentuk seperti seorang wanita.,Seorang pria sedang minum limun dari gelas.,0
+404,809,810,tiga pengendara motor berhenti di kota.,Pengendara motor berhenti di kota-kota,1
+405,811,812,tiga pengendara motor berhenti di kota.,Sebuah kota telah menyaksikan kedatangan tiga pengendara motor.,1
+406,813,814,tiga pengendara motor berhenti di kota.,Tiga pengendara motor melaju 100 mph,0
+407,815,816,tiga pengendara motor berhenti di kota.,Para pengendara motor menghirup air,0
+408,817,818,tiga pengendara motor berhenti di kota.,Pengendara motor berhenti untuk mengisi bensin,1
+409,819,820,tiga pengendara motor berhenti di kota.,Ada seekor anjing yang sangat marah.,0
+410,821,822,tiga pengendara motor berhenti di kota.,Para pengendara motor berada di kota.,1
+411,823,824,tiga pengendara motor berhenti di kota.,Sekelompok pengendara motor berada di jalan.,1
+412,825,826,tiga pengendara motor berhenti di kota.,Para pengendara motor tidak berhenti di kota.,0
+413,827,828,tiga pengendara motor berhenti di kota.,Lima pengendara sepeda motor sedang berkendara di jalan.,0
+414,829,830,Dua orang sedang memuat sikat di atas trailer yang terpasang pada truk.,Seorang pria sedang membawa kano ke air.,0
+415,831,832,Dua orang sedang memuat sikat di atas trailer yang terpasang pada truk.,Beberapa orang sedang memuat sikat ke trailer yang terpasang pada truk.,1
+416,833,834,"Seorang pria berjanggut, mengenakan kemeja merah dengan lengan abu-abu dan sarung tangan kerja, menarik tali.",seorang pria berjanggut menarik tali,1
+417,835,836,"Seorang pria berjanggut, mengenakan kemeja merah dengan lengan abu-abu dan sarung tangan kerja, menarik tali.",Seorang pria menarik seutas tali.,1
+418,837,838,"Seorang pria berjanggut, mengenakan kemeja merah dengan lengan abu-abu dan sarung tangan kerja, menarik tali.",seorang pria menarik jenggotnya,0
+419,839,840,"Seorang pria berjanggut, mengenakan kemeja merah dengan lengan abu-abu dan sarung tangan kerja, menarik tali.",seorang pria berjanggut menarik mobil dengan giginya.,0
+420,841,842,"Seorang pria berjanggut, mengenakan kemeja merah dengan lengan abu-abu dan sarung tangan kerja, menarik tali.",Pria itu dicukur bersih.,0
+421,843,844,"Seorang pria berjanggut, mengenakan kemeja merah dengan lengan abu-abu dan sarung tangan kerja, menarik tali.",Seorang pria berjanggut sedang menarik tali.,1
+422,845,846,"Seorang pria berjanggut, mengenakan kemeja merah dengan lengan abu-abu dan sarung tangan kerja, menarik tali.","Seorang pria yang mengenakan pakaian renang, berayun di atas tali.",0
+423,847,848,"Seorang pria berjanggut, mengenakan kemeja merah dengan lengan abu-abu dan sarung tangan kerja, menarik tali.",Seorang pria mengenakan kemeja hitam,0
+424,849,850,"Seorang pria berjanggut, mengenakan kemeja merah dengan lengan abu-abu dan sarung tangan kerja, menarik tali.",Seorang pria sedang menarik tali.,1
+425,851,852,"Seorang pria berjanggut, mengenakan kemeja merah dengan lengan abu-abu dan sarung tangan kerja, menarik tali.",Pria itu mampu menumbuhkan jenggot.,1
+426,853,854,Seorang pria dengan rambut wajah dan kemeja merah dan abu-abu menarik-narik seutas tali.,Seorang pria telanjang di atas tempat tidur.,0
+427,855,856,Seorang pria dengan rambut wajah dan kemeja merah dan abu-abu menarik-narik seutas tali.,Seorang pria memiliki rambut wajah.,1
+428,857,858,Seorang wanita oriental setengah baya berjilbab hijau dan berkemeja biru memamerkan senyum lebarnya.,Wanita oriental paruh baya sedang menonton v,0
+429,859,860,Seorang wanita oriental setengah baya berjilbab hijau dan berkemeja biru memamerkan senyum lebarnya.,Seorang wanita oriental paruh baya berjilbab hijau dan berkemeja biru memamerkan senyum lebarnya,1
+430,861,862,Seorang wanita Asia dengan atasan biru dan jilbab hijau tersenyum lebar saat wanita lain mendayung perahu di latar belakang.,Seorang wanita Asia tersenyum saat seorang wanita lain mendayung.,1
+431,863,864,Seorang wanita Asia dengan atasan biru dan jilbab hijau tersenyum lebar saat wanita lain mendayung perahu di latar belakang.,Seorang wanita Asia berlari dari seekor anjing.,0
+432,865,866,Seorang pekerja kapal mengamankan tali.,Seorang pekerja sedang melakukan sesuatu pada perahu.,1
+433,867,868,Seorang pekerja kapal mengamankan tali.,Pekerja perahu sedang berenang di lautan.,0
+434,869,870,Seorang gadis kecil dengan kalung sedang berenang.,Seorang gadis gemuk sedang menyelam dari tepi,0
+435,871,872,Seorang gadis kecil dengan kalung sedang berenang.,Seorang gadis kecil dengan kalung berada di dalam air,1
+436,873,874,seorang pemain skateboard berseluncur di kolam renang.,Seekor skate berenang di kolam renang.,0
+437,875,876,seorang pemain skateboard berseluncur di kolam renang.,Seorang skater berada di kolam renang.,1
+438,877,878,"Sepasang suami-istri, yang tampaknya orang India atau Pakistan, berjalan di jalan setapak di samping badan air, sang ibu menggendong seorang anak dengan popok, sang ayah terbungkus selimut berlogo organisasi kemanusiaan ""Save the Children.""",Seorang pria terbungkus selimut UNICEF.,0
+439,879,880,"Sepasang suami-istri, yang tampaknya orang India atau Pakistan, berjalan di jalan setapak di samping badan air, sang ibu menggendong seorang anak dengan popok, sang ayah terbungkus selimut berlogo organisasi kemanusiaan ""Save the Children.""",Sepasang suami-istri yang menggendong seorang anak sedang berjalan di sepanjang air.,1
+440,881,882,"Ada seorang wanita yang menggendong bayi, bersama dengan seorang pria dengan tas save the children.",Sekelompok orang sedang melakukan possing untuk menambahkan.,1
+441,883,884,"Ada seorang wanita yang menggendong bayi, bersama dengan seorang pria dengan tas save the children.",Seorang pria sedang menonton pesawat terbang.,0
+442,885,886,"Sebuah keluarga dengan seorang bayi, sang ayah mengenakan tanda save the children.",Tiga orang dewasa digambarkan.,0
+443,887,888,"Sebuah keluarga dengan seorang bayi, sang ayah mengenakan tanda save the children.",Seorang pria mengenakan sesuatu dengan tulisan di atasnya.,1
+444,889,890,Sebuah keluarga asing sedang berjalan di sepanjang jalan tanah di samping air.,mereka mengendarai sepeda,0
+445,891,892,Sebuah keluarga asing sedang berjalan di sepanjang jalan tanah di samping air.,Sebuah keluarga asing berjalan di jalan setapak tanah di sepanjang perairan.,1
+446,893,894,Sebuah keluarga asing sedang berjalan di sepanjang jalan tanah di samping air.,Keluarga sedang mengagumi air,1
+447,895,896,Sebuah keluarga asing sedang berjalan di sepanjang jalan tanah di samping air.,Orang-orang mengendarai mobil di jalan bebas hambatan.,0
+448,897,898,Sebuah keluarga asing sedang berjalan di sepanjang jalan tanah di samping air.,Sekeluarga orang asing berenang di air.,0
+449,899,900,Sebuah keluarga asing sedang berjalan di sepanjang jalan tanah di samping air.,Sekelompok penduduk setempat berlari di jalan setapak di samping sungai yang membeku.,0
+450,901,902,Sebuah keluarga asing sedang berjalan di sepanjang jalan tanah di samping air.,Sekeluarga orang asing berjalan di tepi air.,1
+451,903,904,Sebuah keluarga asing sedang berjalan di sepanjang jalan tanah di samping air.,Sebuah keluarga berjalan di sepanjang jalan setapak.,1
+452,905,906,Sebuah keluarga asing sedang berjalan di sepanjang jalan tanah di samping air.,Sebuah keluarga memainkan permainan papan di meja makan mereka.,0
+453,907,908,Sebuah keluarga asing sedang berjalan di sepanjang jalan tanah di samping air.,Ada sebuah keluarga yang sedang berjalan-jalan di luar.,1
+454,909,910,"Seorang pria dan seorang wanita berdiri di samping patung-patung, berbicara, sementara pria lainnya melihat patung-patung lainnya.",Orang-orang sedang melihat patung di museum.,1
+455,911,912,"Seorang pria dan seorang wanita berdiri di samping patung-patung, berbicara, sementara pria lainnya melihat patung-patung lainnya.",Ada orang di samping patung.,1
+456,913,914,"Seorang pria dan seorang wanita berdiri di samping patung-patung, berbicara, sementara pria lainnya melihat patung-patung lainnya.",Orang-orang berdiri di dekat patung,1
+457,915,916,"Seorang pria dan seorang wanita berdiri di samping patung-patung, berbicara, sementara pria lainnya melihat patung-patung lainnya.",Tiga orang sedang melihat-lihat lukisan di pameran sekolah.,0
+458,917,918,"Seorang pria dan seorang wanita berdiri di samping patung-patung, berbicara, sementara pria lainnya melihat patung-patung lainnya.",Tidak ada yang berdiri.,0
+459,919,920,"Seorang pria dan seorang wanita berdiri di samping patung-patung, berbicara, sementara pria lainnya melihat patung-patung lainnya.",Seorang pria dan seorang wanita berdiri.,1
+460,921,922,"Seorang pria dan seorang wanita berdiri di samping patung-patung, berbicara, sementara pria lainnya melihat patung-patung lainnya.",Ini adalah patung tunggal.,0
+461,923,924,"Seorang pria dan seorang wanita berdiri di samping patung-patung, berbicara, sementara pria lainnya melihat patung-patung lainnya.",Pria dan wanita berdiri di tepi kolam renang.,0
+462,925,926,"Seorang pria dan seorang wanita berdiri di samping patung-patung, berbicara, sementara pria lainnya melihat patung-patung lainnya.",Ada scultupres di dekatnya.,1
+463,927,928,"Seorang pria dan seorang wanita berdiri di samping patung-patung, berbicara, sementara pria lainnya melihat patung-patung lainnya.",Seorang pria dan seorang wanita sedang duduk.,0
+464,929,930,Sekelompok wanita muda bergaun berjalan-jalan di trotoar.,semua gadis muda memenangkan hadiah pertama,0
+465,931,932,Sekelompok wanita muda bergaun berjalan-jalan di trotoar.,"ada beberapa kelompok, salah satunya perempuan muda yang mengenakan gaun berjalan-jalan di jalan raya",1
+466,933,934,Seorang pria yang mengenakan atasan bergaris-garis dan celana jeans melakukan trik skateboard di beberapa anak tangga sementara seorang pria yang membungkuk memotretnya.,seorang pria sedang memotret seorang pria yang sedang bermain skateboard.,1
+467,935,936,Seorang pria yang mengenakan atasan bergaris-garis dan celana jeans melakukan trik skateboard di beberapa anak tangga sementara seorang pria yang membungkuk memotretnya.,seorang pria mengendarai skuternya sendirian,0
+468,937,938,Seorang pria berjongkok di latar depan foto sambil memotret seorang pria yang sedang melakukan tendangan salto skateboard di udara di atas tangga pendek di luar ruangan.,Seorang pria mengambil gambar seorang pemain skateboard yang sedang diambil oleh alien.,0
+469,939,940,Seorang pria berjongkok di latar depan foto sambil memotret seorang pria yang sedang melakukan tendangan salto skateboard di udara di atas tangga pendek di luar ruangan.,Para fotografer mengabadikan seorang pemain skateboard pria yang sedang melakukan trik di dalam bangunan yang ditinggalkan.,0
+470,941,942,Seorang pria berjongkok di latar depan foto sambil memotret seorang pria yang sedang melakukan tendangan salto skateboard di udara di atas tangga pendek di luar ruangan.,Seorang wanita sedang bermain skateboard dengan pacarnya.,0
+471,943,944,Seorang pria berjongkok di latar depan foto sambil memotret seorang pria yang sedang melakukan tendangan salto skateboard di udara di atas tangga pendek di luar ruangan.,Seorang pria sedang mengambil gambar seorang pemain skateboard yang sedang melakukan trik.,1
+472,945,946,Seorang pria berjongkok di latar depan foto sambil memotret seorang pria yang sedang melakukan tendangan salto skateboard di udara di atas tangga pendek di luar ruangan.,Seorang pria memotret pernikahan.,0
+473,947,948,Seorang pria berjongkok di latar depan foto sambil memotret seorang pria yang sedang melakukan tendangan salto skateboard di udara di atas tangga pendek di luar ruangan.,Seorang pria sedang mengambil foto trik skateboard.,1
+474,949,950,Seorang pria berjongkok di latar depan foto sambil memotret seorang pria yang sedang melakukan tendangan salto skateboard di udara di atas tangga pendek di luar ruangan.,Orang-orang mengambil foto di luar ruangan sementara seorang pria melakukan trik skateboard yang menarik.,1
+475,951,952,Seorang pria berjongkok di latar depan foto sambil memotret seorang pria yang sedang melakukan tendangan salto skateboard di udara di atas tangga pendek di luar ruangan.,Seorang pria sedang memotret pria lain.,1
+476,953,954,Seorang pria berjongkok di latar depan foto sambil memotret seorang pria yang sedang melakukan tendangan salto skateboard di udara di atas tangga pendek di luar ruangan.,Dua orang pria sedang menuruni seluncuran air.,0
+477,955,956,Seorang pria berjongkok di latar depan foto sambil memotret seorang pria yang sedang melakukan tendangan salto skateboard di udara di atas tangga pendek di luar ruangan.,Seorang pria memotret pemain skateboard yang sedang melakukan trik.,1
+478,957,958,"Seorang pengendara sepeda motor berlari dengan sepeda motornya, sementara pengendara lain mengendarai sepeda motor di sekitarnya.",Orang-orang mengendarai mobil,0
+479,959,960,"Seorang pengendara sepeda motor berlari dengan sepeda motornya, sementara pengendara lain mengendarai sepeda motor di sekitarnya.",Orang-orang memiliki sepeda,1
+480,961,962,"Dua orang dengan sepeda, satu di depan berlari dengan sepeda dan satu lagi di belakang mengendarai sepeda.",Dua orang yang sedang makan es krim cone di mal.,0
+481,963,964,"Dua orang dengan sepeda, satu di depan berlari dengan sepeda dan satu lagi di belakang mengendarai sepeda.",Satu orang berlari di samping sepedanya dengan orang yang mengendarai sepedanya di belakangnya.,1
+482,965,966,Seorang pemuda melakukan trik di atas skateboard menuruni tangga sambil difoto.,Seorang pemuda melakukan roller blade melintasi jalan sambil difoto.,0
+483,967,968,Seorang pemuda melakukan trik di atas skateboard menuruni tangga sambil difoto.,Seorang pria yang sedang difoto saat ia melakukan trik di atas skateboardnya menuruni tangga.,1
+484,969,970,"Seorang wanita dengan kemeja bergaris hitam dan putih dan memegang buket bunga, terlihat serius melihat dua pria yang sedang berbicara di tangga.",Seorang wanita dengan wajah serius berdiri dengan dua orang di depan tangga di luar.,1
+485,971,972,"Seorang wanita dengan kemeja bergaris hitam dan putih dan memegang buket bunga, terlihat serius melihat dua pria yang sedang berbicara di tangga.",Tiga orang berdiri di dalam ruangan dengan bunga di tangan mereka.,0
+486,973,974,Seorang pria berjalan dengan bangga di jalan.,Pria itu sedang berada di teater menonton Avatar.,0
+487,975,976,Seorang pria berjalan dengan bangga di jalan.,Seorang pria berada di luar.,1
+488,977,978,Empat remaja laki-laki melakukan pelemparan meriam ke dalam kolam renang.,Sekelompok pemuda sedang mencipratkan banyak air.,1
+489,979,980,Empat remaja laki-laki melakukan pelemparan meriam ke dalam kolam renang.,Beberapa anak laki-laki sedang makan pizza di restoran.,0
+490,981,982,Tiga orang pria berdiri di atas rumput di tepi air sambil melihat sesuatu di atas meja.,Ketiga pria itu berada di luar.,1
+491,983,984,Tiga orang pria berdiri di atas rumput di tepi air sambil melihat sesuatu di atas meja.,Ketiga pria itu berada di dalam ruangan bermain Foosball.,0
+492,985,986,Seorang wanita berdiri di belakang pemanggang luar ruangan dengan sekeranjang makanan berwarna biru di tangannya.,Seorang wanita berdiri di belakang panggangan di luar dengan sekeranjang makanan berwarna biru di tangannya.,1
+493,987,988,Seorang wanita berdiri di belakang pemanggang luar ruangan dengan sekeranjang makanan berwarna biru di tangannya.,Seorang wanita memegang keranjang biru penuh telur Paskah di luar gereja.,0
+494,989,990,Land Rover berjalan melalui kolam yang dalam.,Sebuah mobil sedang berada di toko.,0
+495,991,992,Land Rover berjalan melalui kolam yang dalam.,Sebuah mobil melaju di atas air.,1
+496,993,994,banyak orang bersantai di halaman.,Sekelompok orang berada di luar.,1
+497,995,996,banyak orang bersantai di halaman.,Orang-orang menonton tv di ruang tamu mereka.,0
+498,997,998,Mobil yang tenggelam dalam air.,Sebuah mobil terendam banjir.,1
+499,999,1000,Mobil yang tenggelam dalam air.,Sebuah truk melaju di jalan pedesaan di bawah sinar matahari.,0
+500,1001,1002,Seorang pria mengenakan pakaian hitam sedang memainkan gitar listrik di sebuah konser.,Seorang pria sedang bermain gitar.,1
+501,1003,1004,Seorang pria mengenakan pakaian hitam sedang memainkan gitar listrik di sebuah konser.,Seorang pria sedang bermain piano.,0
+502,1005,1006,Seorang pria dengan rambut liar mengguncang pertunjukan dengan memainkan gitar di tengah panggung.,Pria botak itu memainkan drum.,0
+503,1007,1008,Seorang pria dengan rambut liar mengguncang pertunjukan dengan memainkan gitar di tengah panggung.,Seorang pria berdiri di atas panggung dengan gitarnya.,1
+504,1009,1010,wanita dan anak di atas mobil troli berlabel Powell dan market dan bay dan taylor,Wanita itu berada di atas troli.,1
+505,1011,1012,wanita dan anak di atas mobil troli berlabel Powell dan market dan bay dan taylor,Wanita dan anak itu berada di kereta bawah tanah.,0
+506,1013,1014,"Dua wanita profesional medis, satu orang Afrika-Amerika & satu orang kulit putih, sedang memeriksa dokumen di rumah sakit.",Rekan kerja meninggalkan pekerjaan dan sedang berkendara untuk makan siang.,0
+507,1015,1016,"Dua wanita profesional medis, satu orang Afrika-Amerika & satu orang kulit putih, sedang memeriksa dokumen di rumah sakit.",Ada orang yang sedang bekerja.,1
+508,1017,1018,Dua orang wanita sedang membaca binder.,Para gadis sedang menonton film.,0
+509,1019,1020,Dua orang wanita sedang membaca binder.,Beberapa wanita sedang membaca.,1
+510,1021,1022,Seorang pria di kejauhan berjalan melewati dinding bata yang dicat dengan kata-kata dan grafiti.,Seorang pria duduk dan membaca grafiti di dinding.,0
+511,1023,1024,Seorang pria di kejauhan berjalan melewati dinding bata yang dicat dengan kata-kata dan grafiti.,Grafffiti pada dinding bata.,1
+512,1025,1026,Seorang wanita dan seorang anak berpegangan pada pagar saat berada di atas troli.,Orang-orang tidak memegang apa pun.,0
+513,1027,1028,Seorang wanita dan seorang anak berpegangan pada pagar saat berada di atas troli.,Orang-orang berpegangan pada rel.,1
+514,1029,1030,Seorang pria berkemeja polo bergaris sedang menunjuk dan tersenyum.,Pria itu sedang berenang,0
+515,1031,1032,Seorang pria berkemeja polo bergaris sedang menunjuk dan tersenyum.,Pria itu tampak bahagia,1
+516,1033,1034,Seorang pria melakukan trik lompat sepeda untuk penonton.,tony hawk sedang melakukan trik skating,0
+517,1035,1036,Seorang pria melakukan trik lompat sepeda untuk penonton.,seorang pria sedang melakukan trik sepeda,1
+518,1037,1038,Seorang wanita berambut abu-abu dengan mantel biru dengan kepingan salju di atasnya menyeimbangkan sesuatu di kepalanya.,Wanita itu mengenakan mantel.,1
+519,1039,1040,Seorang wanita berambut abu-abu dengan mantel biru dengan kepingan salju di atasnya menyeimbangkan sesuatu di kepalanya.,Wanita ini menyukai rambut pirangnya.,0
+520,1041,1042,Dua orang anak bermain di lapangan.,Anak-anak bermain di luar ruangan.,1
+521,1043,1044,Dua orang anak bermain di lapangan.,Dua orang anak sedang membaca di meja mereka.,0
+522,1045,1046,"Seorang pria duduk di dalam dan memainkan banjo, ada pepohonan di belakangnya di luar.",Seorang pria berlari ke luar.,0
+523,1047,1048,"Seorang pria duduk di dalam dan memainkan banjo, ada pepohonan di belakangnya di luar.",Seekor jantan yang duduk di dalam ruangan.,1
+524,1049,1050,"Dua orang anak, dengan pakaian warna-warni, bermain di lapangan dengan batu besar di tengahnya.",Jangan bermain dengan batu,0
+525,1051,1052,"Dua orang anak, dengan pakaian warna-warni, bermain di lapangan dengan batu besar di tengahnya.",Dua anak sedang bermain dengan batu besar di lapangan,1
+526,1053,1054,Dua anak perempuan muda sedang bermain di luar di lingkungan non-urban.,Dua anak perempuan sedang bermain di luar.,1
+527,1055,1056,Dua anak perempuan muda sedang bermain di luar di lingkungan non-urban.,"Beberapa gadis berlari di trotoar, di samping beberapa mobil yang diparkir.",0
+528,1057,1058,Dua orang anak bertopi bermain di lapangan terbuka dan berbatu.,Anak-anak sedang makan siang di rumah.,0
+529,1059,1060,Dua orang anak bertopi bermain di lapangan terbuka dan berbatu.,Anak-anak sedang bermain di lapangan berbatu.,1
+530,1061,1062,Seorang wanita yang mengenakan gaun hijau dan merah muda sedang menari dengan seseorang yang mengenakan atasan biru dengan celana putih.,Wanita berbaju hijau dan merah muda sedang menari.,1
+531,1063,1064,Seorang wanita yang mengenakan gaun hijau dan merah muda sedang menari dengan seseorang yang mengenakan atasan biru dengan celana putih.,Wanita penari itu sendirian di kamar tidurnya.,0
+532,1065,1066,Pria bercelana emas melihat ke arah kamera.,Pria yang melihat ke arah kamera.,1
+533,1067,1068,Pria bercelana emas melihat ke arah kamera.,Pria itu berjalan pergi ke aula.,0
+534,1069,1070,Seorang pria dengan rok emas duduk di depan komputer.,Seorang pria dengan rok emas duduk di depan komputernya sambil melihat layar komputer.,1
+535,1071,1072,Seorang pria dengan rok emas duduk di depan komputer.,Seorang pria bercelana biru duduk dan menonton televisi.,0
+536,1073,1074,Pria mengenakan kaos hitam duduk di meja komputer.,pria itu sedang bekerja di komputer,1
+537,1075,1076,Pria mengenakan kaos hitam duduk di meja komputer.,pria itu berhenti bekerja dan berada di kebun binatang sepanjang hari,0
+538,1077,1078,Seorang pria berjanggut dengan kaos hitam duduk di depan meja sambil memegang komputer.,Seorang pria berdiri di tengah hujan.,0
+539,1079,1080,Seorang pria berjanggut dengan kaos hitam duduk di depan meja sambil memegang komputer.,Seorang pria menunggu dengan komputernya.,1
+540,1081,1082,"Seorang pria dengan rok foil emas, duduk di meja komputer, melihat ke arah kamera dengan tangan terangkat ke wajahnya.",seorang pria sedang melihat webcam-nya,1
+541,1083,1084,"Seorang pria dengan rok foil emas, duduk di meja komputer, melihat ke arah kamera dengan tangan terangkat ke wajahnya.",seorang pria menjulurkan lidahnya,0
+542,1085,1086,Seorang gadis muda duduk di meja dengan mangkuk di kepalanya,Seorang gadis muda memiliki mangkuk di kepalanya,1
+543,1087,1088,Seorang gadis muda duduk di meja dengan mangkuk di kepalanya,Seorang pria sedang makan sereal di dalam mobilnya,0
+544,1089,1090,Seorang pria menari dengan tongkat api di malam hari.,wanita itu melakukan tarian hula,0
+545,1091,1092,Seorang pria menari dengan tongkat api di malam hari.,pria itu menari,1
+546,1093,1094,Seorang dokter memeriksa perut seorang balita.,Balita sedang menjalani pemeriksaan.,1
+547,1095,1096,Seorang dokter memeriksa perut seorang balita.,Dokter melihat ke dalam mulut balita.,0
+548,1097,1098,Wanita muda berambut pirang memasukkan kakinya ke dalam air mancur,Seorang wanita muda berambut pirang sedang duduk di kursi pantai.,0
+549,1099,1100,Wanita muda berambut pirang memasukkan kakinya ke dalam air mancur,Seseorang sedang mencelupkan kakinya ke dalam air.,1
+550,1101,1102,Seorang wanita muda mencoba memasukkan kakinya ke dalam air mancur.,Wanita itu sedang naik kereta api.,0
+551,1103,1104,Seorang wanita muda mencoba memasukkan kakinya ke dalam air mancur.,Seorang wanita berada di dekat air mancur.,1
+552,1105,1106,Seorang wanita muda mencoba memasukkan kakinya ke dalam air mancur.,Wanita itu menginjakkan satu kakinya di udara.,1
+553,1107,1108,Seorang wanita bercelana jins capri berjongkok di tepi air mancur dengan kaki kirinya ditendang keluar untuk menyentuh air yang jatuh.,Seorang wanita sedang berjalan di taman,0
+554,1109,1110,Seorang wanita bercelana jins capri berjongkok di tepi air mancur dengan kaki kirinya ditendang keluar untuk menyentuh air yang jatuh.,Seorang wanita seperti menyentuh air di air mancur,1
+555,1111,1112,Wanita menyeimbangkan diri di tepi air mancur sambil menjulurkan jari kakinya ke dalam air.,Seorang wanita berdiri di atas air mancur dan mencelupkan jari-jari kakinya.,1
+556,1113,1114,Wanita menyeimbangkan diri di tepi air mancur sambil menjulurkan jari kakinya ke dalam air.,Seorang wanita duduk di atas tanah berumput.,0
+557,1115,1116,Sepasang suami istri berjalan bergandengan tangan dan bergandengan tangan menyusuri trotoar kota.,Pasangan ini berada di luar ruangan.,1
+558,1117,1118,Sepasang suami istri berjalan bergandengan tangan dan bergandengan tangan menyusuri trotoar kota.,Pasangan ini sedang makan malam di restoran.,0
+559,1119,1120,Seorang pria menatap pasangan yang lewat saat berjalan menyusuri blok.,Seorang pria menatap pasangan yang lewat.,1
+560,1121,1122,Seorang pria menatap pasangan yang lewat saat berjalan menyusuri blok.,Wanita itu menatap sepasang suami istri saat mereka berdebat di blok.,0
+561,1123,1124,"sepasang suami istri berpegangan tangan di belakang punggung mereka saat berjalan menyusuri jalan, dan sang pria merangkul bahu sang wanita.",pasangan berjalan,1
+562,1125,1126,"sepasang suami istri berpegangan tangan di belakang punggung mereka saat berjalan menyusuri jalan, dan sang pria merangkul bahu sang wanita.",beruang di kebun binatang,0
+563,1127,1128,Seorang pria dan seorang wanita berpegangan tangan saat mereka berjalan di sepanjang trotoar kota.,Sepasang suami istri sedang bertengkar di trotoar.,0
+564,1129,1130,Seorang pria dan seorang wanita berpegangan tangan saat mereka berjalan di sepanjang trotoar kota.,Seorang pria dan seorang wanita berpegangan tangan.,1
+565,1131,1132,seorang pria berbaju merah berdiri bersama anaknya di pantai.,Seorang pria mengenakan pakaian biru tidur dengan anak di pangkuannya di dalam rumahnya.,0
+566,1133,1134,Olahraga baru dimainkan untuk menunjukkan apresiasi kepada anak-anak yang tidak bisa berjalan.,Orang-orang memainkan olahraga untuk menghormati orang-orang yang lumpuh.,1
+567,1135,1136,Olahraga baru dimainkan untuk menunjukkan apresiasi kepada anak-anak yang tidak bisa berjalan.,Orang-orang bermain sepak bola tanpa perlengkapan.,0
+568,1137,1138,Dua orang pria di kursi roda sedang meraih bola basket di udara.,Dua orang di kursi roda sedang meraih bola basket di udara.,1
+569,1139,1140,Dua orang pria di kursi roda sedang meraih bola basket di udara.,Dua wanita di kursi roda sedang meraih bola basket di udara.,0
+570,1141,1142,Tiga pemain bola basket kursi roda yang mengenakan seragam tim berusaha mencapai bola basket yang turun dengan pemain lain di latar belakang.,Tiga pemain basket kursi roda bermain basket di lapangan.,1
+571,1143,1144,Tiga pemain bola basket kursi roda yang mengenakan seragam tim berusaha mencapai bola basket yang turun dengan pemain lain di latar belakang.,Orang-orang sedang minum kopi bersama di coffeshop.,0
+572,1145,1146,"Empat orang yang duduk di kursi roda di lapangan basket, dua orang mencoba meraih bola basket di udara.",Empat orang sedang bermain kartu.,0
+573,1147,1148,"Empat orang yang duduk di kursi roda di lapangan basket, dua orang mencoba meraih bola basket di udara.",Empat orang bermain basket.,1
+574,1149,1150,"Tiga ekor anjing dalam nuansa warna coklat dan putih yang berbeda, saling menggigit dan menjilat satu sama lain.",anjing-anjing sedang berkelahi,0
+575,1151,1152,Tiga ekor anjing dengan warna coklat dan putih yang berbeda saling menggigit dan menjilat.,ada tiga ekor anjing,1
+576,1153,1154,"Dua ekor anjing dengan main-main menggigit anjing ketiga, yang lidahnya menjulur keluar.","Dua ekor anjing sedang tidur, sementara anjing ketiga menyantap makanannya.",0
+577,1155,1156,"Dua ekor anjing dengan main-main menggigit anjing ketiga, yang lidahnya menjulur keluar.",Sepasang anjing menggoda anjing ketiga dengan gigitan.,1
+578,1157,1158,Tiga ekor anak anjing kecil menggigit dan bermain bersama di rerumputan.,Anak-anak anjing sedang tidur di dalam keranjang.,0
+579,1159,1160,Tiga ekor anak anjing kecil menggigit dan bermain bersama di rerumputan.,Tiga ekor anak anjing sedang bermain di luar.,1
+580,1161,1162,Dua ekor anjing menggigit anjing lain di ladang.,anjing menyerang anjing lain,1
+581,1163,1164,Dua ekor anjing menggigit anjing lain di ladang.,anjing duduk di arsip,0
+582,1165,1166,Wisatawan menunggu di pemberhentian kereta api.,Turis berjalan di sekitar museum seni.,0
+583,1167,1168,Wisatawan menunggu di pemberhentian kereta api.,Sekelompok turis yang sedang menunggu kereta di stasiun kereta api.,1
+584,1169,1170,Seorang dokter dengan scrub biru sedang melakukan operasi dibantu oleh dua pria dan seorang wanita.,seorang pria tua sedang berbicara,1
+585,1171,1172,Seorang dokter dengan scrub biru sedang melakukan operasi dibantu oleh dua pria dan seorang wanita.,anak-anak itu marah,0
+586,1173,1174,Seorang wanita dengan jaket hitam berjalan melewati poster film luar ruangan.,Seorang wanita berjalan di luar.,1
+587,1175,1176,Seorang wanita dengan jaket hitam berjalan melewati poster film luar ruangan.,Seorang wanita sedang membersihkan diri.,0
+588,1177,1178,Seorang pria bertopi peri yang memegang payung putih berdiri di trotoar bersama dua pria lainnya.,Seorang pria berdiri.,1
+589,1179,1180,Seorang pria bertopi peri yang memegang payung putih berdiri di trotoar bersama dua pria lainnya.,"Cintaku seperti wig merah, merah.",0
+590,1181,1182,Wanita India dan seorang pria berbaju biru menari di bawah sinar matahari.,Seorang wanita makan acar.,0
+591,1183,1184,Wanita India dan seorang pria berbaju biru menari di bawah sinar matahari.,Dua orang menari di luar ruangan.,1
+592,1185,1186,Dua pria yang lebih tua sedang berbicara.,Dua orang sedang bercakap-cakap.,1
+593,1187,1188,Dua pria yang lebih tua sedang berbicara.,Kerumunan orang saling berbicara satu sama lain.,0
+594,1189,1190,Seorang pengendara sepeda gunung melompati lereng di luar ruangan di area hutan.,Seorang pengendara sepeda motor melakukan lompatan di dekat pepohonan.,1
+595,1191,1192,Seorang pengendara sepeda gunung melompati lereng di luar ruangan di area hutan.,Mereka tidak naik sepeda.,0
+596,1193,1194,Seorang pengendara sepeda gunung melompati lereng di luar ruangan di area hutan.,Pengendara motor melompat ke dalam lubang.,1
+597,1195,1196,Seorang pengendara sepeda gunung melompati lereng di luar ruangan di area hutan.,Seseorang mengendarai sepeda di luar ruangan.,1
+598,1197,1198,Seorang pengendara sepeda gunung melompati lereng di luar ruangan di area hutan.,Ada seorang pengendara motor,1
+599,1199,1200,Seorang pengendara sepeda gunung melompati lereng di luar ruangan di area hutan.,Mereka menghindari pepohonan.,1
+600,1201,1202,Seorang pengendara sepeda gunung melompati lereng di luar ruangan di area hutan.,Pengendara sepeda gunung akan melalui jalur gurun.,0
+601,1203,1204,Seorang pengendara sepeda gunung melompati lereng di luar ruangan di area hutan.,Pengendara motor mencoba melompati gunung berapi.,0
+602,1205,1206,Seorang pengendara sepeda gunung melompati lereng di luar ruangan di area hutan.,Dia di dalam ruangan,0
+603,1207,1208,Seorang pengendara sepeda gunung melompati lereng di luar ruangan di area hutan.,Seseorang sedang mengendarai bobsled.,0
+604,1209,1210,Dua orang pria yang lebih tua dengan mantel musim dingin sedang berbicara di luar sebuah toko dengan halaman berumput yang tertutup lapisan salju tipis di depannya.,Dua orang tua dengan mantel musim dingin berbicara di luar.,1
+605,1211,1212,Dua orang pria yang lebih tua dengan mantel musim dingin sedang berbicara di luar sebuah toko dengan halaman berumput yang tertutup lapisan salju tipis di depannya.,Para pria tua mengenakan jas hujan.,0
+606,1213,1214,"Dua orang pria lanjut usia sedang bercakap-cakap, dengan latar belakang rerumputan yang tertutup salju.",Para pria sedang minum kopi dan makan kue,0
+607,1215,1216,"Dua orang pria lanjut usia sedang bercakap-cakap, dengan latar belakang rerumputan yang tertutup salju.",Para pria sedang tidur,0
+608,1217,1218,"Dua orang pria lanjut usia sedang bercakap-cakap, dengan latar belakang rerumputan yang tertutup salju.",Ada dua pria di luar dalam gambar ini,1
+609,1219,1220,Dua orang pria berdiri di luar dan salju berada di tanah.,Orang-orang berada di dekat salju.,1
+610,1221,1222,Dua orang pria berdiri di luar dan salju berada di tanah.,Pria membuat malaikat salju.,0
+611,1223,1224,Dua orang pria yang lebih tua dengan mantel berdiri di luar.,Orang-orang ini tidak pernah mengenakan mantel.,0
+612,1225,1226,Dua orang pria yang lebih tua dengan mantel berdiri di luar.,Mereka berada di luar mengenakan mantel.,1
+613,1227,1228,Seorang pria dengan syal dan topi ungu sedang melihat uang sambil memegang akordeon.,Seorang wanita sedang menyisir rambutnya di kamar tidurnya.,0
+614,1229,1230,Seorang pria dengan syal dan topi ungu sedang melihat uang sambil memegang akordeon.,Seorang pria memegang akordian.,1
+615,1231,1232,Pengendara sepeda BMX melompati jurang.,ada seorang biker bmx yang sempurna dalam lompat jurang,1
+616,1233,1234,Pengendara sepeda BMX melompati jurang.,siapa saja bisa melakukan lompat jurang,0
+617,1235,1236,Sepeda putih diikatkan pada rambu jalan.,mobil diparkir di tanda,0
+618,1237,1238,Sepeda putih diikatkan pada rambu jalan.,sepeda diikatkan pada sebuah tanda,1
+619,1239,1240,Sepeda putih bersandar pada tiang.,Sebuah sepeda berada di tanah yang akan diperbaiki,0
+620,1241,1242,Sepeda putih bersandar pada tiang.,Sepeda di luar,1
+621,1243,1244,Anak laki-laki itu mengunci sepedanya dan pergi.,Seorang anak laki-laki mengendarai sepeda.,0
+622,1245,1246,Anak laki-laki itu mengunci sepedanya dan pergi.,Seorang anak laki-laki berjalan pergi.,1
+623,1247,1248,Kota yang ramai di siang hari.,Sebuah kota yang dipenuhi orang di tengah siang hari.,1
+624,1249,1250,Kota yang ramai di siang hari.,Sebuah kota yang ditinggalkan di ujung dunia.,0
+625,1251,1252,Orang-orang yang berjalan-jalan di kota besar.,Orang-orang berada di luar.,1
+626,1253,1254,Orang-orang yang berjalan-jalan di kota besar.,Orang-orang sedang tidur.,0
+627,1255,1256,Kota sibuk yang terlihat seperti New York City.,Kota ini memiliki banyak orang di dalamnya.,1
+628,1257,1258,Kota sibuk yang terlihat seperti New York City.,"Kota ini terlihat seperti Lawrence, Kansas.",0
+629,1259,1260,"Pemandangan bangunan dan orang-orang yang berjalan melintasi jalanan di Times Square, New York City.",Ada sebuah kota.,1
+630,1261,1262,"Pemandangan bangunan dan orang-orang yang berjalan melintasi jalanan di Times Square, New York City.",Ladang bunga poppy yang sangat tenang.,0
+631,1263,1264,Seorang wanita sedang membuat pot tanah liat.,Seorang pria sedang melukis sebuah lukisan.,0
+632,1265,1266,Seorang wanita sedang membuat pot tanah liat.,Seorang seniman sedang memahat dengan tanah liat.,1
+633,1267,1268,Seorang tukang cukur menunggu pelanggan.,Seorang tukang cukur sedang bekerja.,1
+634,1269,1270,Seorang tukang cukur menunggu pelanggan.,Tukang cukur menutup tokonya di penghujung hari.,0
+635,1271,1272,Seorang pria duduk di toko tukang cukur.,Ada seorang individu yang menunggu di dalam ruangan.,1
+636,1273,1274,Seorang pria duduk di toko tukang cukur.,Seorang pria sedang menggosok gigi.,0
+637,1275,1276,Seorang wanita sedang bersiap untuk mengglasir mangkuk.,Seorang wanita yang tidak mempersiapkan diri untuk berkaca,0
+638,1277,1278,Seorang wanita sedang bersiap untuk mengglasir mangkuk.,Seorang wanita bersiap untuk mengglasir,1
+639,1279,1280,"Seorang wanita yang mengenakan celemek memeriksa panci besar di atas meja yang dipenuhi dengan cangkir, mangkuk, pot, dan keranjang dengan berbagai macam ukuran.",Seorang wanita yang mengenakan sarung tangan sedang mencuci piring.,0
+640,1281,1282,"Seorang wanita yang mengenakan celemek memeriksa panci besar di atas meja yang dipenuhi dengan cangkir, mangkuk, pot, dan keranjang dengan berbagai macam ukuran.",Seorang wanita mengenakan celemek.,1
+641,1283,1284,Seorang model yang berpose seolah-olah dia adalah pemain sepak bola wanita sungguhan.,Seorang pria menjadi model untuk acara memasak.,0
+642,1285,1286,Seorang model yang berpose seolah-olah dia adalah pemain sepak bola wanita sungguhan.,Seorang model sedang melakukan pemotretan.,1
+643,1287,1288,Petugas pemadam kebakaran muncul dari stasiun kereta bawah tanah.,Petugas pemadam kebakaran berjalan di luar,1
+644,1289,1290,Petugas pemadam kebakaran muncul dari stasiun kereta bawah tanah.,Stasiun ini kosong,0
+645,1291,1292,Petugas pemadam kebakaran yang tampak kelelahan berjalan.,Petugas pemadam kebakaran sedang berjalan.,1
+646,1293,1294,Petugas pemadam kebakaran yang tampak kelelahan berjalan.,Petugas pemadam kebakaran yang tampak bersemangat berlari ke dalam gedung yang terbakar.,0
+647,1295,1296,"Tiga petugas pemadam kebakaran, petugas pemadam kebakaran terdekat memegang helm di tangan kirinya.",Tiga orang memegang kapak di tangan kiri mereka.,0
+648,1297,1298,"Tiga petugas pemadam kebakaran, petugas pemadam kebakaran terdekat memegang helm di tangan kirinya.","Para petugas pemadam kebakaran berkumpul, salah satunya memegang helmnya.",1
+649,1299,1300,Seorang pria berjalan di samping kru pembersih.,Wanita itu berlari di samping para kru.,0
+650,1301,1302,Seorang pria berjalan di samping kru pembersih.,Pria itu berjalan di samping awak kapal.,1
+651,1303,1304,Seorang anak kecil berenang di bawah air.,Seorang anak laki-laki mengapung di atas air.,0
+652,1305,1306,Seorang anak kecil berenang di bawah air.,Seorang anak yang sedang berenang.,1
+653,1307,1308,Seorang pengemudi sedang memacu kendaraan Ford-nya di lintasan kerikil.,Seorang pria telah memarkir truknya.,0
+654,1309,1310,Seorang pengemudi sedang memacu kendaraan Ford-nya di lintasan kerikil.,Sebuah Ford sedang dikendarai di lintasan.,1
+655,1311,1312,Tiga orang pria dan seorang gadis sedang melompat di kolam renang bersama-sama.,Semua orang memanjat keluar dari air.,0
+656,1313,1314,Tiga orang pria dan seorang gadis sedang melompat di kolam renang bersama-sama.,Semua orang melompat ke dalam badan air.,1
+657,1315,1316,"Seorang anak kecil di bawah air di kolam renang, memegang dinosaurus plastik.",Lone Ranger berenang lagi.,0
+658,1317,1318,"Seorang anak kecil di bawah air di kolam renang, memegang dinosaurus plastik.",Anak kecil di kolam renang memegang mainan.,1
+659,1319,1320,Seorang anak kecil berenang di bawah air dengan mainan di tangannya.,Seorang anak laki-laki kecil sedang mengejar seekor anjing.,0
+660,1321,1322,Seorang anak kecil berenang di bawah air dengan mainan di tangannya.,Seorang anak kecil berada di bawah air.,1
+661,1323,1324,Seorang pria yang mengenakan kemeja shire putih dan benci menunggangi kuda bucking di rodeo.,Seorang badut rodeo mengejar seekor banteng.,0
+662,1325,1326,Seorang pria yang mengenakan kemeja shire putih dan benci menunggangi kuda bucking di rodeo.,Seorang pria sedang menaiki kuda.,1
+663,1327,1328,"Seorang penunggang saddle bronc terangkat dari pelana, tetapi tetap mempertahankan cengkeramannya selama menungganginya.",Pria itu mengendarai seekor binatang.,1
+664,1329,1330,"Seorang penunggang saddle bronc terangkat dari pelana, tetapi tetap mempertahankan cengkeramannya selama menungganginya.",Pria itu mengendarai sepeda motor.,0
+665,1331,1332,seorang wanita dengan topi jerami yang bekerja pada mesin aneh dengan kelapa di sisinya.,Seorang wanita sedang duduk di sofa.,0
+666,1333,1334,seorang wanita dengan topi jerami yang bekerja pada mesin aneh dengan kelapa di sisinya.,Seorang wanita sedang berada di sebuah mesin.,1
+667,1335,1336,Seorang pria yang mengenakan topi beras sedang mengupas jagung dengan menggunakan alat pengupas jagung dan dikelilingi oleh pepohonan.,Pria itu sedang merebus sepanci jagung.,0
+668,1337,1338,Seorang pria yang mengenakan topi beras sedang mengupas jagung dengan menggunakan alat pengupas jagung dan dikelilingi oleh pepohonan.,Ada orang yang sedang mengolah sayuran.,1
+669,1339,1340,seorang wanita yang mengenakan topi jerami Cina mengoperasikan semacam mesin baja tahan karat di tempat yang tampaknya merupakan taman.,Wanita itu memiliki seorang anak kecil yang terjebak di dalam mesin yang menjahit pakaian.,0
+670,1341,1342,seorang wanita yang mengenakan topi jerami Cina mengoperasikan semacam mesin baja tahan karat di tempat yang tampaknya merupakan taman.,Wanita itu berada di luar ruangan dengan sebuah mesin.,1
+671,1343,1344,Seorang wanita di pinggir jalan sedang membuat makanan di gerobaknya.,Seorang anak mengenakan bandana.,0
+672,1345,1346,Seorang wanita di pinggir jalan sedang membuat makanan di gerobaknya.,Seseorang sedang memasak.,1
+673,1347,1348,Seorang pria bercelana pendek biru dan tanpa kemeja sedang jogging di jalan sambil mendengarkan iPod-nya.,Pria itu mengenakan kemeja biru.,0
+674,1349,1350,Seorang pria bercelana pendek biru dan tanpa kemeja sedang jogging di jalan sambil mendengarkan iPod-nya.,Pria itu sedang berlari.,1
+675,1351,1352,"Wanita yang sedang berolahraga, seorang wanita mengenakan tikar hijau dan pakaian hitam.",Para wanita sedang berolahraga.,1
+676,1353,1354,"Wanita yang sedang berolahraga, seorang wanita mengenakan tikar hijau dan pakaian hitam.",Kedua wanita berpakaian hijau.,0
+677,1355,1356,Para siswa berlatih yoga di dalam kelas.,Para siswa menyelesaikan persamaan di papan tulis.,0
+678,1357,1358,Para siswa berlatih yoga di dalam kelas.,Kelas yoga sedang berlangsung.,1
+679,1359,1360,Orang-orang melakukan peregangan di atas matras yoga.,Orang-orang berbaring di atas matras yoga.,1
+680,1361,1362,Orang-orang melakukan peregangan di atas matras yoga.,Mereka berbaring di atas sepeda.,0
+681,1363,1364,Sekelompok orang sedang melakukan yoga.,Orang-orang melakukan yoga,1
+682,1365,1366,Sekelompok orang sedang melakukan yoga.,Orang-orang sedang tidur.,0
+683,1367,1368,Pengendara sepeda motor sedang beraksi sementara dua orang pria menonton.,Dua orang wanita berjalan dengan kereta bayi.,0
+684,1369,1370,Pengendara sepeda motor sedang beraksi sementara dua orang pria menonton.,Pria menonton pengendara sepeda motor.,1
+685,1371,1372,Pemuda itu sedang menunggu dengan orang lain di trotoar.,Para gadis sedang memanjat pohon,0
+686,1373,1374,Pemuda itu sedang menunggu dengan orang lain di trotoar.,ada sekelompok orang yang menunggu di luar,1
+687,1375,1376,Dua orang berpose di depan kamera.,Orang-orang berpose untuk berfoto.,1
+688,1377,1378,Dua orang berpose di depan kamera.,Dua orang berteriak.,0
+689,1379,1380,Seorang pria sedang tidur di atas rumput.,Pria itu sedang berbaring untuk tidur,1
+690,1381,1382,Seorang pria sedang tidur di atas rumput.,Pria itu sedang check-in ke hotel bintang 4,0
+691,1383,1384,Seekor anjing putih dan coklat sedang melompat-lompat di udara.,Anjing putih dan coklat itu ada di udara.,1
+692,1385,1386,Seekor anjing putih dan coklat sedang melompat-lompat di udara.,Anjing sedang tidur siang.,0
+693,1387,1388,Deretan kaki dan sepatu bot hitam dengan seorang anak laki-laki duduk di ujung barisan.,Seorang anak laki-laki makan roti lapis.,0
+694,1389,1390,Deretan kaki dan sepatu bot hitam dengan seorang anak laki-laki duduk di ujung barisan.,Seorang anak laki-laki duduk di kaki orang.,1
+695,1391,1392,"Seorang pria berbaju biru berbaring di atas sepetak rumput yang sebagian besar tandus, sementara sekelompok kecil orang berkumpul di kejauhan.",Seorang pria mengenakan pakaian biru.,1
+696,1393,1394,"Seorang pria berbaju biru berbaring di atas sepetak rumput yang sebagian besar tandus, sementara sekelompok kecil orang berkumpul di kejauhan.",Pria itu sedang minum bir di sebuah pub.,0
+697,1395,1396,Berbagai orang yang berkeliaran di luar sebuah bangunan.,Orang-orang di dalam bermain sepak bola.,0
+698,1397,1398,Berbagai orang yang berkeliaran di luar sebuah bangunan.,Ada sekelompok orang yang berdiri di luar.,1
+699,1399,1400,Seorang gadis kecil mengikuti dua orang pria berpayung menyusuri jalan setapak.,Orang-orang berada di luar.,1
+700,1401,1402,Seorang gadis kecil mengikuti dua orang pria berpayung menyusuri jalan setapak.,Gadis kecil itu sedang menunggang kuda.,0
+701,1403,1404,Seorang wanita sedang mengepak koper di lantai.,Dia sedang berkemas.,1
+702,1405,1406,Seorang wanita sedang mengepak koper di lantai.,Wanita itu berdiri membongkar.,0
+703,1407,1408,Gadis kecil dengan pakaian kotak-kotak biru dan kuning dan topi biru sedang berlari di sepanjang jalan setapak.,Seorang gadis sedang berlari di jalan setapak.,1
+704,1409,1410,Gadis kecil dengan pakaian kotak-kotak biru dan kuning dan topi biru sedang berlari di sepanjang jalan setapak.,Seorang anak laki-laki sedang mendaki di jalan setapak.,0
+705,1411,1412,"Gadis kecil berjalan di sepanjang jalan tanah, batu, dan rumput, mengenakan topi biru, beberapa langkah di belakang dua orang yang mengenakan ransel dan memegang payung.",3 orang sedang berjalan di sepanjang jalan setapak.,1
+706,1413,1414,"Gadis kecil berjalan di sepanjang jalan tanah, batu, dan rumput, mengenakan topi biru, beberapa langkah di belakang dua orang yang mengenakan ransel dan memegang payung.",2 orang berada di jalan setapak.,0
+707,1415,1416,Wanita berambut pirang itu sedang mencari persediaan medis di dalam koper.,Seorang wanita berambut pirang mencari barang-barang di dalam koper.,1
+708,1417,1418,Wanita berambut pirang itu sedang mencari persediaan medis di dalam koper.,Seorang wanita berambut cokelat memeriksa kopernya sebelum naik pesawat.,0
+709,1419,1420,"Tumpukan pakaian yang terlipat rapi menutupi sebagian besar lantai ini, sementara seorang wanita dengan kemeja krem dan celana jins sibuk mengisi koper.",Seorang pria sedang mengemas tongkat golfnya.,0
+710,1421,1422,"Tumpukan pakaian yang terlipat rapi menutupi sebagian besar lantai ini, sementara seorang wanita dengan kemeja krem dan celana jins sibuk mengisi koper.",Seorang wanita sedang mengisi koper.,1
+711,1423,1424,Seorang wanita muda mengemas barang-barang ke dalam koper hitam.,Seorang pemuda mengemas barang-barang ke dalam kantong sampah hitam.,0
+712,1425,1426,Seorang wanita muda mengemas barang-barang ke dalam koper hitam.,Seorang wanita muda mengemas barang-barang ke dalam koper hitam.,1
+713,1427,1428,Orang-orang berjalan-jalan ke pegunungan.,Orang-orang berlarian menuju pegunungan.,0
+714,1429,1430,Orang-orang berjalan-jalan ke pegunungan.,Orang-orang berjalan di luar ruangan.,1
+715,1431,1432,Seorang pria yang sedang beristirahat di jalan.,Seorang pria yang sedang jogging di jalan.,0
+716,1433,1434,Seorang pria yang sedang beristirahat di jalan.,Seorang pria yang sedang beristirahat di jalan.,1
+717,1435,1436,Seorang wanita berkostum sedang berbaris dengan drum besar.,Wanita penabuh drum mengendarai bus.,0
+718,1437,1438,Seorang wanita berkostum sedang berbaris dengan drum besar.,Dia bermain dalam sebuah band.,1
+719,1439,1440,"Seorang pria membawa muatan kotak-kotak langsung yang segar di atas mobil beroda di jalanan kota, saat seorang wanita berjalan ke arahnya.",Seseorang membawa paket di lingkungan perkotaan.,1
+720,1441,1442,"Seorang pria membawa muatan kotak-kotak langsung yang segar di atas mobil beroda di jalanan kota, saat seorang wanita berjalan ke arahnya.",Seorang anak muda mengantarkan barang belanjaan dengan sepeda di kota.,0
+721,1443,1444,seorang pengendara sepeda motor melakukan wheelie hidung.,Seorang pria melakukan wheelie,1
+722,1445,1446,seorang pengendara sepeda motor melakukan wheelie hidung.,Seorang pria berdiri di samping sepeda motor yang jatuh,0
+723,1447,1448,seorang pengendara sepeda motor melakukan wheelie hidung.,Pengendara sepeda motor melakukan wheelie,1
+724,1449,1450,Seorang pria duduk di atas skuter di tepi jalan.,"Seorang pria berada di luar, dekat jalan.",1
+725,1451,1452,Seorang pria duduk di atas skuter di tepi jalan.,Seorang pria sedang bersantai di bar.,0
+726,1453,1454,Seorang pria berhenti di trotoar dengan sepedanya untuk merokok.,Pria itu sedang bermain basket.,0
+727,1455,1456,Seorang pria berhenti di trotoar dengan sepedanya untuk merokok.,Pria itu berdiri.,1
+728,1457,1458,Seorang pria sedang duduk di atas sepeda motor di trotoar.,Seorang pria sedang duduk di atas sepeda motor.,1
+729,1459,1460,Seorang pria sedang duduk di atas sepeda motor di trotoar.,Seorang pria berbaju hitam sedang bermain dengan kucingnya pada hari Minggu.,0
+730,1461,1462,Pria merokok sambil duduk di atas skuter yang diparkir.,Pria itu minum bir sambil duduk di dalam mobilnya.,0
+731,1463,1464,Pria merokok sambil duduk di atas skuter yang diparkir.,Pria itu sedang menghisap sesuatu sambil duduk di atas skuter.,1
+732,1465,1466,Pria di trotoar duduk di atas sepeda motor.,Pria duduk di atas sepeda motor di trotoar,1
+733,1467,1468,Pria di trotoar duduk di atas sepeda motor.,Seorang pria mengendarai mobilnya,0
+734,1469,1470,"Sepasang pengantin, mengenakan pakaian hitam, merah anggur, dan putih, menari.",Wanita itu menari sendirian.,0
+735,1471,1472,"Sepasang pengantin, mengenakan pakaian hitam, merah anggur, dan putih, menari.",Pasangan itu menari.,1
+736,1473,1474,Orang-orang dengan rompi oranye dan celana biru dengan garis kuning di bagian bawah menunggu dimulainya perlombaan.,Orang-orang yang mengenakan warna merah muda dan ungu bersiap-siap untuk mengikuti perlombaan,0
+737,1475,1476,Orang-orang dengan rompi oranye dan celana biru dengan garis kuning di bagian bawah menunggu dimulainya perlombaan.,Orang-orang sedang mengadakan acara masak-memasak.,0
+738,1477,1478,Orang-orang dengan rompi oranye dan celana biru dengan garis kuning di bagian bawah menunggu dimulainya perlombaan.,Orang-orang menunggu perlombaan dimulai.,1
+739,1479,1480,Orang-orang dengan rompi oranye dan celana biru dengan garis kuning di bagian bawah menunggu dimulainya perlombaan.,atlet melakukan backflips dari gunung,0
+740,1481,1482,Orang-orang dengan rompi oranye dan celana biru dengan garis kuning di bagian bawah menunggu dimulainya perlombaan.,Orang-orang dengan rompi oranye berlomba dalam perlombaan yang telah dimulai.,0
+741,1483,1484,Orang-orang dengan rompi oranye dan celana biru dengan garis kuning di bagian bawah menunggu dimulainya perlombaan.,Orang-orang dengan rompi oranye menunggu dimulainya perlombaan.,1
+742,1485,1486,Orang-orang yang mengenakan rompi oranye dan celana biru dengan garis kuning di bagian bawah menunggu dimulainya perlombaan.,Orang-orang mengenakan pakaian berwarna-warni,1
+743,1487,1488,Orang-orang dengan rompi oranye dan celana biru dengan garis kuning di bagian bawah menunggu dimulainya perlombaan.,Orang-orang berlomba mundur melalui Neraka.,0
+744,1489,1490,Orang-orang yang mengenakan rompi oranye dan celana biru dengan garis kuning di bagian bawah menunggu dimulainya perlombaan.,Orang-orang sedang menunggu perlombaan.,1
+745,1491,1492,Orang-orang yang mengenakan rompi oranye dan celana biru dengan garis kuning di bagian bawah menunggu dimulainya perlombaan.,para pelari menunggu untuk memulai lomba,1
+746,1493,1494,Seorang pria muda dan wanita muda menari di atas lantai berkarpet dengan gambar dari film Toy Story pada layar lebar di latar belakang.,Orang-orang menari di trotoar.,0
+747,1495,1496,Seorang pria muda dan wanita muda menari di atas lantai berkarpet dengan gambar dari film Toy Story pada layar lebar di latar belakang.,Kedua orang itu sedang menari.,1
+748,1497,1498,Pemain ski mengenakan jumpsuit kuning dan meluncur melintasi rel kuning.,Pemain ski mengenakan jumpsuit.,1
+749,1499,1500,Pemain ski mengenakan jumpsuit kuning dan meluncur melintasi rel kuning.,Skateboard mengenakan jumpsuit biru.,0
+750,1501,1502,Acara lintasan yang diadakan oleh J.P. Morgan Chase dengan keamanan.,J.P. Morgan Chase mengadakan acara lintasan.,1
+751,1503,1504,Acara lintasan yang diadakan oleh J.P. Morgan Chase dengan keamanan.,Acara lintasan tidak memiliki keamanan.,0
+752,1505,1506,"Dua orang menari, mengenakan kostum tari.",Orang-orang bergerak.,1
+753,1507,1508,"Dua orang menari, mengenakan kostum tari.",Dua orang sedang makan malam.,0
+754,1509,1510,Seorang petani Inggris dengan gerobak yang ditarik kuda.,Ada seorang petani yang berbaring di luar ruangan,0
+755,1511,1512,Seorang petani Inggris dengan gerobak yang ditarik kuda.,Ada seorang petani dengan kereta kuda,1
+756,1513,1514,Permainan sepak bola anak-anak yang sedang dimainkan sementara matahari terbenam di latar belakang.,Para pria tua bermain sepak bola saat matahari terbenam.,0
+757,1515,1516,Permainan sepak bola anak-anak yang sedang dimainkan sementara matahari terbenam di latar belakang.,Anak-anak bermain sepak bola saat matahari terbenam.,1
+758,1517,1518,Permainan sepak bola yang dimainkan oleh tim biru dan tim merah di lapangan yang terawat sempurna saat senja.,Tidak ada yang bermain sepak bola.,0
+759,1519,1520,Permainan sepak bola yang dimainkan oleh tim biru dan tim merah di lapangan yang terawat sempurna saat senja.,Orang-orang bermain sepak bola.,1
+760,1521,1522,Dua tim sepak bola sedang bertanding di lapangan sepak bola.,Ada permainan sepak bola.,1
+761,1523,1524,Dua tim sepak bola sedang bertanding di lapangan sepak bola.,Dua tim bisbol sedang bertanding.,0
+762,1525,1526,Tim sepak bola bermain di lapangan saat matahari terbenam di balik barisan pepohonan.,Tim sepak bola bertanding di luar ruangan.,1
+763,1527,1528,Tim sepak bola bermain di lapangan saat matahari terbenam di balik barisan pepohonan.,Sebuah tim sepak bola sedang bermain hoki melawan tim sepak bola di gelanggang es.,0
+764,1529,1530,dua orang pria yang melayani menyiapkan makanan.,Dua pria mengendarai sepeda.,0
+765,1531,1532,dua orang pria yang melayani menyiapkan makanan.,Dua orang pria yang menyajikan makanan.,1
+766,1533,1534,Pertandingan sepak bola yang terjadi saat matahari terbenam.,permainan olahraga sedang dimainkan,1
+767,1535,1536,Pertandingan sepak bola yang terjadi saat matahari terbenam.,pertandingan bola basket sedang berlangsung saat matahari terbit,0
+768,1537,1538,Anak kecil berkulit putih mengenakan hoodie bergaris coklat dan abu-abu bermain di taman.,Seorang anak kecil sedang bermain video game di kamar tidurnya.,0
+769,1539,1540,Anak kecil berkulit putih mengenakan hoodie bergaris coklat dan abu-abu bermain di taman.,Seorang anak bermain di taman.,1
+770,1541,1542,Seorang anak laki-laki kecil bercelana cokelat sedang bermain tali di sebuah taman.,Ada seorang anak kecil bercelana coklat.,1
+771,1543,1544,Seorang anak laki-laki kecil bercelana cokelat sedang bermain tali di sebuah taman.,Ada seorang gadis kecil bercelana merah.,0
+772,1545,1546,Balita dengan kaus bergaris-garis bermain di atas tali di taman bermain.,Seorang anak sedang tidur siang.,0
+773,1547,1548,Balita dengan kaus bergaris-garis bermain di atas tali di taman bermain.,Seorang anak bermain di taman bermain.,1
+774,1549,1550,Seorang wanita yang mengenakan topi merah muda sedang melihat mobil merah muda dengan truk terbuka.,Wanita itu mengenakan pakaian.,0
+775,1551,1552,Seorang wanita yang mengenakan topi merah muda sedang melihat mobil merah muda dengan truk terbuka.,Wanita itu mengenakan tas belanjaan ke mobilnya.,0
+776,1553,1554,Seorang pria berkemeja biru mendongak ke atas.,Seorang pria berkemeja merah mendongak ke atas.,0
+777,1555,1556,Seorang pria berkemeja biru mendongak ke atas.,Seseorang mendongak ke atas.,1
+778,1557,1558,Tiga anak perempuan di wahana hiburan yang sedang bersenang-senang.,Ada tiga anak perempuan,1
+779,1559,1560,Tiga anak perempuan di wahana hiburan yang sedang bersenang-senang.,Para gadis berada di rumah,0
+780,1561,1562,Seorang wanita di kasir Walmart yang belanjaannya dikantongi oleh seorang karyawan.,Wanita itu ada di Target,0
+781,1563,1564,Seorang wanita di kasir Walmart yang belanjaannya dikantongi oleh seorang karyawan.,Seorang wanita di Walmart,1
+782,1565,1566,Anjing cokelat menapak di air.,Anjing cokelat sedang tidur di samping air,0
+783,1567,1568,Anjing cokelat menapak di air.,Anjing cokelat menapak di air saat ia direndam dalam air,1
+784,1569,1570,Seorang wanita sedang menunggu bersama anak-anaknya saat dia diperiksa di Walmart.,Seorang wanita berdiri di konter di Target.,0
+785,1571,1572,Seorang wanita sedang menunggu bersama anak-anaknya saat dia diperiksa di Walmart.,Seorang wanita membawa anak-anak bersamanya di konter check out.,1
+786,1573,1574,Seorang wanita berambut pirang dengan dua orang anak sedang melakukan check out di kasir Walmart.,Makanan membuat orang lapar,0
+787,1575,1576,Seorang wanita berambut pirang dengan dua orang anak sedang melakukan check out di kasir Walmart.,Seorang ibu bersama kedua anaknya di walmart,1
+788,1577,1578,Seorang wanita yang duduk di binatu sambil melihat ke arah kamera.,Seekor monyet sedang makan pisang.,0
+789,1579,1580,Seorang wanita yang duduk di binatu sambil melihat ke arah kamera.,Ada seorang wanita di sebuah ruangan.,1
+790,1581,1582,Seorang anak laki-laki mendayung melintasi air dengan perahu seadanya.,Seorang anak laki-laki berada di atas perahu.,1
+791,1583,1584,Seorang anak laki-laki mendayung melintasi air dengan perahu seadanya.,Seorang anak laki-laki sedang berenang.,0
+792,1585,1586,Seorang pemain bisbol akan melempar bola bisbol.,Seorang pemain bisbol sedang mengayunkan tangan untuk memukul bola.,1
+793,1587,1588,Seorang pemain bisbol akan melempar bola bisbol.,Bola bisbol rusak,0
+794,1589,1590,Seekor anjing meluncur di sepanjang pantai.,Seekor anjing sedang tidur di ruang tamu.,0
+795,1591,1592,Seekor anjing meluncur di sepanjang pantai.,Seekor anjing berada di luar.,1
+796,1593,1594,Seekor anjing putih berlari di sepanjang garis pantai berbatu.,Seekor anjing berlari menaiki tangga di rumah.,0
+797,1595,1596,Seekor anjing putih berlari di sepanjang garis pantai berbatu.,Seekor anjing sedang berlari di luar.,1
+798,1597,1598,Seekor anjing pangkuan putih berbulu halus berlari di sepanjang pantai berbatu.,Seekor anjing berlari melintasi pantai.,1
+799,1599,1600,Seekor anjing pangkuan putih berbulu halus berlari di sepanjang pantai berbatu.,Seekor anjing meringkuk di bawah selimut di sofa.,0
+800,1601,1602,Seekor anjing putih kecil berlari di pantai yang tertutup kerikil.,Seekor anjing di pantai.,1
+801,1603,1604,Seekor anjing putih kecil berlari di pantai yang tertutup kerikil.,Burung camar di dermaga.,0
+802,1605,1606,Seorang pemain bisbol mengerahkan segenap kekuatannya untuk melempar bola.,Pitcher sedang melakukan lemparan,1
+803,1607,1608,Seorang pemain bisbol mengerahkan segenap kekuatannya untuk melempar bola.,Pemain melemparkan bola,0
+804,1609,1610,Para pemandu sorak berada di lapangan sambil bersorak-sorai.,Bidang kosong.,0
+805,1611,1612,Para pemandu sorak berada di lapangan sambil bersorak-sorai.,Beberapa orang bersorak-sorai di lapangan.,1
+806,1613,1614,Para pemandu sorak berada di lapangan sambil bersorak-sorai.,Pemain sepak bola membunuh pemandu sorak dengan umpan pelurunya.,0
+807,1615,1616,Para pemandu sorak berada di lapangan sambil bersorak-sorai.,Ada orang di luar ruangan.,1
+808,1617,1618,Para pemandu sorak berada di lapangan sambil bersorak-sorai.,Pemandu sorak bersorak di lapangan untuk suatu kegiatan.,1
+809,1619,1620,Para pemandu sorak berada di lapangan sambil bersorak-sorai.,Orang-orang bersorak.,1
+810,1621,1622,Para pemandu sorak berada di lapangan sambil bersorak-sorai.,Orang-orang duduk di bangku yang tertutup salju.,0
+811,1623,1624,Para pemandu sorak berada di lapangan sambil bersorak-sorai.,Pemandu sorak bersorak-sorai.,1
+812,1625,1626,Para pemandu sorak berada di lapangan sambil bersorak-sorai.,Beberapa pemain sepak bola sedang berlatih permainan lari.,0
+813,1627,1628,Para pemandu sorak berada di lapangan sambil bersorak-sorai.,Seorang pria tua yang mengenakan popok.,0
+814,1629,1630,Seorang wanita yang memegang boombox.,Seorang pria yang memegang boombox.,0
+815,1631,1632,Seorang wanita yang memegang boombox.,Seseorang yang memegang boombox.,1
+816,1633,1634,Seorang wanita berkemeja biru dan bertopi hijau menatap ke arah kamera.,Seorang wanita yang mengenakan kemeja biru dan topi hijau melihat ke arah kamera,1
+817,1635,1636,Seorang wanita berkemeja biru dan bertopi hijau menatap ke arah kamera.,Seorang wanita yang mengenakan kemeja biru dan topi hijau sedang menggunakan ponselnya,0
+818,1637,1638,Pemandu sorak sedang melakukan sorakan di lapangan sepak bola.,Para pemandu sorak mengenakan pakaian.,1
+819,1639,1640,Pemandu sorak sedang melakukan sorakan di lapangan sepak bola.,Para pemandu sorak berada di arena basket.,0
+820,1641,1642,Seorang wanita yang bersemangat dan tersenyum berdiri di pagar merah sambil memegang boombox di satu sisi.,Manusia yang berdiri.,1
+821,1643,1644,Seorang wanita yang bersemangat dan tersenyum berdiri di pagar merah sambil memegang boombox di satu sisi.,Tidak ada yang berdiri.,0
+822,1645,1646,Seorang wanita berlutut mengenakan kemeja biru.,Seorang wanita dekat dengan lantai.,1
+823,1647,1648,Seorang wanita berlutut mengenakan kemeja biru.,Wanita itu sedang melakukan jumping jack di luar.,0
+824,1649,1650,Siluet tiga orang di depan dinding.,Orang-orang berada di dekat tembok.,1
+825,1651,1652,Siluet tiga orang di depan dinding.,Orang-orang berlarian di jalan pedesaan.,0
+826,1653,1654,Dua orang yang mengenakan pakaian biru membuat gerakan tangan di samping satu sama lain.,Seorang pria sedang duduk dengan tangan di saku.,0
+827,1655,1656,Dua orang yang mengenakan pakaian biru membuat gerakan tangan di samping satu sama lain.,Dua orang bersebelahan.,1
+828,1657,1658,Seekor anjing hitam dan putih berbintik-bintik terciprat di dalam air.,anjing berada di dalam air,1
+829,1659,1660,Seekor anjing hitam dan putih berbintik-bintik terciprat di dalam air.,anjing sedang makan dari mangkuk favoritnya di dapur,0
+830,1661,1662,"Sekelompok besar, mengenakan kemeja merah muda, melambaikan tangan kepada para penonton.",Kerumunan orang banyak menggerakkan tangan.,1
+831,1663,1664,"Sekelompok besar, mengenakan kemeja merah muda, melambaikan tangan kepada para penonton.",Tidak ada yang mengawasi mereka.,0
+832,1665,1666,Seorang bayi sedang bermain dengan untaian manik-manik.,Bayi sedang tidur.,0
+833,1667,1668,Seorang bayi sedang bermain dengan untaian manik-manik.,Bayi sedang bermain.,1
+834,1669,1670,Orang-orang berada di atas panggung pertunjukan.,orang sedang tidur,0
+835,1671,1672,Orang-orang berada di atas panggung pertunjukan.,Orang-orang berada di atas panggung,1
+836,1673,1674,Seorang wanita sedang berlari maraton di sebuah taman.,Wanita itu sedang berlari di halaman belakang rumahnya.,0
+837,1675,1676,Seorang wanita sedang berlari maraton di sebuah taman.,Wanita itu berada di luar ruangan.,1
+838,1677,1678,Sekelompok orang menunjuk ke depan sambil melakukan semacam tindakan.,Sekelompok orang menunjuk ke depan saat melakukan sesuatu.,1
+839,1679,1680,Sekelompok orang menunjuk ke depan sambil melakukan semacam tindakan.,Sekelompok orang bertarung menggunakan harimau.,0
+840,1681,1682,Beberapa orang menari bersama secara sinkron.,anak-anak saling berkelahi.,0
+841,1683,1684,Beberapa orang menari bersama secara sinkron.,orang-orang menari.,1
+842,1685,1686,Sekelompok orang menari,orang menari bersama,1
+843,1687,1688,Sekelompok orang menari,anjing sedang kawin,0
+844,1689,1690,Pasangan dewasa menikmati waktu di bak mandi air panas.,Sepasang suami-istri berada di dalam sambil menonton TV.,0
+845,1691,1692,Pasangan dewasa menikmati waktu di bak mandi air panas.,Sepasang suami istri berada di bak mandi air panas.,1
+846,1693,1694,Seorang pria berpenampilan biasa-biasa saja sedang bermain gitar.,Pria itu tahu cara bermain gitar.,1
+847,1695,1696,Seorang pria berpenampilan biasa-biasa saja sedang bermain gitar.,Pria itu sedang memainkan drum.,0
+848,1697,1698,Dua ekor anjing berwarna cokelat dan putih dan seekor anjing berwarna cokelat berlomba menyusuri pantai di dekat air.,tiga ekor anjing berada di luar,1
+849,1699,1700,Dua ekor anjing berwarna cokelat dan putih dan seekor anjing berwarna cokelat berlomba menyusuri pantai di dekat air.,tiga ekor anjing sedang berbaring di sofa,0
+850,1701,1702,Seorang pria dan wanita sedang berjalan di jalan sambil berpegangan tangan.,Seorang pria dan wanita berjalan di sisi jalan yang berlawanan.,0
+851,1703,1704,Seorang pria dan wanita sedang berjalan di jalan sambil berpegangan tangan.,Sepasang orang berpegangan tangan sambil berjalan.,1
+852,1705,1706,Seorang pria sedang menggunakan komputernya sambil duduk di meja.,Seorang wanita minum bir di mejanya.,0
+853,1707,1708,Seorang pria sedang menggunakan komputernya sambil duduk di meja.,Seorang pria duduk di meja.,1
+854,1709,1710,Seorang kru kamera sedang merekam dua wanita berpakaian formal yang duduk di atas selimut di tengah taman.,Seseorang sedang merekam.,1
+855,1711,1712,Seorang kru kamera sedang merekam dua wanita berpakaian formal yang duduk di atas selimut di tengah taman.,Semua orang yang mengenakan pakaian formal berada di dalam.,0
+856,1713,1714,pria yang sedang duduk bermain catur sendirian,Seorang pria yang bermain board game sendirian.,1
+857,1715,1716,pria yang sedang duduk bermain catur sendirian,Pria yang sedang tertidur.,0
+858,1717,1718,Wanita muda berlari saat dua pria di belakang mencoba mengejarnya.,sekelompok orang yang berlari,1
+859,1719,1720,Wanita muda berlari saat dua pria di belakang mencoba mengejarnya.,wanita minum kopi dengan dua pria,0
+860,1721,1722,Seorang pria berkemeja biru duduk di luar sendirian dengan papan catur yang diletakkan di depannya.,Seseorang duduk di luar di belakang papan catur.,1
+861,1723,1724,Seorang pria berkemeja biru duduk di luar sendirian dengan papan catur yang diletakkan di depannya.,Dua pria lanjut usia bermain Scrabble.,0
+862,1725,1726,Seorang pria berpakaian kemeja biru dan celana pendek duduk di meja sambil bermain catur hitam.,Pria itu sedang jogging,0
+863,1727,1728,Seorang pria berpakaian kemeja biru dan celana pendek duduk di meja sambil bermain catur hitam.,Seorang pria sedang bermain game,1
+864,1729,1730,Seorang pria muda dengan blazer biru dan celana pendek duduk sendirian di depan meja dengan permainan catur yang sudah disiapkan.,Seorang pria duduk di depan permainan catur yang sudah disiapkan.,1
+865,1731,1732,Seorang pria muda dengan blazer biru dan celana pendek duduk sendirian di depan meja dengan permainan catur yang sudah disiapkan.,Seorang nenek memainkan permainan connect four pada pertemuan klub putar.,0
+866,1733,1734,"Seorang pria muda Asia duduk di belakang papan catur yang sudah diatur, menunggu pemain lain datang.",Seorang pria muda sedang duduk.,1
+867,1735,1736,"Seorang pria muda Asia duduk di belakang papan catur yang sudah diatur, menunggu pemain lain datang.",Seorang pemuda berada di Mars.,0
+868,1737,1738,"Dua pria muda minum bir, bersandar pada dinding yang penuh coretan.",Para pria sedang minum.,1
+869,1739,1740,"Dua pria muda minum bir, bersandar pada dinding yang penuh coretan.",Para pria disemprot dengan kaleng cat saat mereka pingsan dalam keadaan mabuk di gang.,0
+870,1741,1742,Seorang pria diterbangkan ke tempat aman setelah berada dalam bahaya.,Seorang pria sedang dipindahkan.,1
+871,1743,1744,Seorang pria diterbangkan ke tempat aman setelah berada dalam bahaya.,Helikopter itu menempatkan orang-orang di daerah yang berbahaya.,0
+872,1745,1746,Orang-orang dalam suasana pertemuan memperhatikan pembicara yang mengenakan kemeja oranye.,Orang-orang mendengarkan musik pada CD player mereka.,0
+873,1747,1748,Orang-orang dalam suasana pertemuan memperhatikan pembicara yang mengenakan kemeja oranye.,Orang-orang mendengarkan seorang pembicara.,1
+874,1749,1750,Pertemuan kaum muda yang duduk di meja konferensi.,kaum muda berada di sebuah pesta untuk bersenang-senang,0
+875,1751,1752,Pertemuan kaum muda yang duduk di meja konferensi.,kaum muda berkumpul di sekeliling meja,1
+876,1753,1754,"Seorang wanita berkemeja merah sedang berbicara di sebuah meja di sebuah ruangan, di mana tiga orang lainnya mendengarkannya.",wanita itu berenang di danau.,0
+877,1755,1756,"Seorang wanita berkemeja merah sedang berbicara di sebuah meja di sebuah ruangan, di mana tiga orang lainnya mendengarkannya.",wanita itu mengenakan kemeja merah.,1
+878,1757,1758,Seorang wanita berbicara dengan dua wanita lain dan seorang pria dengan notes di sebuah gedung perkantoran dengan jendela besar.,Seorang wanita berbicara dengan orang lain di dalam ruangan.,1
+879,1759,1760,Seorang wanita berbicara dengan dua wanita lain dan seorang pria dengan notes di sebuah gedung perkantoran dengan jendela besar.,seorang pria berbicara dengan bebek di kolam,0
+880,1761,1762,Seorang wanita berbicara dengan dua wanita lain dan seorang pria dengan notes di sebuah gedung perkantoran dengan jendela besar.,seorang wanita di sebuah gedung perkantoran berbicara dengan dua wanita lain dan seorang pria dengan notes,1
+881,1763,1764,Seorang wanita berbicara dengan dua wanita lain dan seorang pria dengan notes di sebuah gedung perkantoran dengan jendela besar.,Seorang wanita berbicara dengan anjing di dalam gedung perkantoran.,0
+882,1765,1766,Seorang wanita berbicara dengan dua wanita lain dan seorang pria dengan notes di sebuah gedung perkantoran dengan jendela besar.,wanita itu tertidur di rumah,0
+883,1767,1768,Seorang wanita berbicara dengan dua wanita lain dan seorang pria dengan notes di sebuah gedung perkantoran dengan jendela besar.,"Orang-orang yang berada di luar gedung, melihat ke dalam.",0
+884,1769,1770,Seorang wanita berbicara dengan dua wanita lain dan seorang pria dengan notes di sebuah gedung perkantoran dengan jendela besar.,seorang wanita sedang berbicara,1
+885,1771,1772,Seorang wanita berbicara dengan dua wanita lain dan seorang pria dengan notes di sebuah gedung perkantoran dengan jendela besar.,Empat orang berdiri di dekat dinding sambil berbicara satu sama lain.,1
+886,1773,1774,Seorang wanita berbicara dengan dua wanita lain dan seorang pria dengan notes di sebuah gedung perkantoran dengan jendela besar.,Seorang wanita berbicara dengan tiga wanita lainnya.,0
+887,1775,1776,Seorang wanita berbicara dengan dua wanita lain dan seorang pria dengan notes di sebuah gedung perkantoran dengan jendela besar.,Seorang wanita berbicara dengan dua wanita lainnya.,1
+888,1777,1778,Ruang kelas mahasiswa yang sedang mendiskusikan kuliah.,Para siswa berlari di kelas P.E..,0
+889,1779,1780,Ruang kelas mahasiswa yang sedang mendiskusikan kuliah.,Ruang kelas sedang mendiskusikan topik hari itu.,1
+890,1781,1782,Seorang pria memegang clipboard dan pena saat seorang wanita melihat mereka.,Wanita itu tertidur,0
+891,1783,1784,Seorang pria memegang clipboard dan pena saat seorang wanita melihat mereka.,Seorang wanita sedang melihat harta benda pria,1
+892,1785,1786,Seorang pria dengan kemeja hijau terang sedang berbicara dengan seorang wanita berkemeja merah muda.,Sepasang suami istri sedang makan malam.,0
+893,1787,1788,Seorang pria dengan kemeja hijau terang sedang berbicara dengan seorang wanita berkemeja merah muda.,Sepasang suami istri sedang berbicara.,1
+894,1789,1790,Seorang pria berkemeja hijau mengulurkan papan klip untuk menarik perhatian seorang wanita berbaju merah muda.,Seorang pria ingin seorang wanita melihat papan klipnya,1
+895,1791,1792,Seorang pria berkemeja hijau mengulurkan papan klip untuk menarik perhatian seorang wanita berbaju merah muda.,Seorang pria melepas bajunya untuk mendapatkan perhatian seorang wanita,0
+896,1793,1794,Seorang pria berkemeja hijau terang menunjukkan sesuatu kepada seorang wanita berkemeja merah muda terang di atas papan klip.,Seorang pria mengenakan kemeja emas,0
+897,1795,1796,Seorang pria berkemeja hijau terang menunjukkan sesuatu kepada seorang wanita berkemeja merah muda terang di atas papan klip.,Seorang pria menunjukkan sesuatu kepada seorang wanita.,1
+898,1797,1798,Seorang pria berkemeja hijau terang menunjukkan sesuatu kepada seorang wanita berkemeja merah muda terang di atas papan klip.,Sang pria memiliki sesuatu untuk disampaikan kepada sang wanita.,1
+899,1799,1800,Seorang pria berkemeja hijau terang menunjukkan sesuatu kepada seorang wanita berkemeja merah muda terang di atas papan klip.,Dua orang sedang melihat papan klip.,1
+900,1801,1802,Seorang pria berkemeja hijau terang menunjukkan sesuatu kepada seorang wanita berkemeja merah muda terang di atas papan klip.,Wanita itu mengenakan pakaian biru.,0
+901,1803,1804,Seorang pria berkemeja hijau terang menunjukkan sesuatu kepada seorang wanita berkemeja merah muda terang di atas papan klip.,Ada seorang pria dan seorang wanita.,1
+902,1805,1806,Seorang pria berkemeja hijau terang menunjukkan sesuatu kepada seorang wanita berkemeja merah muda terang di atas papan klip.,Dua orang sedang melihat catatan pada tablet elektronik.,0
+903,1807,1808,Seorang pria berkemeja hijau terang menunjukkan sesuatu kepada seorang wanita berkemeja merah muda terang di atas papan klip.,Pria itu sedang minum secangkir kopi.,0
+904,1809,1810,Seorang pria berkemeja hijau terang menunjukkan sesuatu kepada seorang wanita berkemeja merah muda terang di atas papan klip.,Seorang pria mengenakan kemeja hijau terang,1
+905,1811,1812,Seorang pria berkemeja hijau terang menunjukkan sesuatu kepada seorang wanita berkemeja merah muda terang di atas papan klip.,Wanita itu menunjukkan papan klip kepada pria itu.,0
+906,1813,1814,Seorang pria di jalan dengan kaos cerah memegang semacam tablet ke arah seorang wanita dengan kaos merah jambu dan nuansa.,Sang pria berada di jalan lain daripada sang wanita.,0
+907,1815,1816,Seorang pria di jalan dengan kaos cerah memegang semacam tablet ke arah seorang wanita dengan kaos merah jambu dan nuansa.,Pria dan wanita berada di luar ruangan.,1
+908,1817,1818,Seorang pria di jalan dengan kaos cerah memegang semacam tablet ke arah seorang wanita dengan kaos merah jambu dan nuansa.,Seorang pria dan seorang wanita berada di luar.,1
+909,1819,1820,Seorang pria di jalan dengan kaos cerah memegang semacam tablet ke arah seorang wanita dengan kaos merah jambu dan nuansa.,Seorang pria dan seorang wanita sedang makan di sebuah restoran.,0
+910,1821,1822,Seorang pria di jalan dengan kaos cerah memegang semacam tablet ke arah seorang wanita dengan kaos merah jambu dan nuansa.,Seorang pria mencuri tablet seorang wanita,0
+911,1823,1824,Seorang pria di jalan dengan kaos cerah memegang semacam tablet ke arah seorang wanita dengan kaos merah jambu dan nuansa.,Seorang wanita menunjukkan ponsel kepada seseorang yang berdiri di dekatnya.,0
+912,1825,1826,Seorang pria di jalan dengan kaos cerah memegang semacam tablet ke arah seorang wanita dengan kaos merah jambu dan nuansa.,Seorang wanita diperlihatkan tablet oleh seorang pria yang berdiri di jalan.,1
+913,1827,1828,Seorang pria di jalan dengan kaos cerah memegang semacam tablet ke arah seorang wanita dengan kaos merah jambu dan nuansa.,Ada beberapa orang di jalan,1
+914,1829,1830,Seorang pria di jalan dengan kaos cerah memegang semacam tablet ke arah seorang wanita dengan kaos merah jambu dan nuansa.,Pria itu menyerahkan ponsel kepada wanita itu,0
+915,1831,1832,Seorang pria di jalan dengan kaos cerah memegang semacam tablet ke arah seorang wanita dengan kaos merah jambu dan nuansa.,Seorang pria menunjukkan sesuatu kepada seorang wanita,1
+916,1833,1834,Seorang anak dengan cangkir kuning dan susu di seluruh wajahnya.,Anak itu memiliki wajah yang bersih.,0
+917,1835,1836,Seorang anak dengan cangkir kuning dan susu di seluruh wajahnya.,Anak itu memiliki susu di seluruh wajahnya.,1
+918,1837,1838,Dua orang pria bertelanjang kaki sedang bermain di halaman rumput hijau di luar sebuah bangunan dengan orang lain sebagai latar belakangnya.,Dua orang pria bertelanjang kaki di halaman.,1
+919,1839,1840,Dua orang pria bertelanjang kaki sedang bermain di halaman rumput hijau di luar sebuah bangunan dengan orang lain sebagai latar belakangnya.,Dua pria bersandal berada di pantai.,0
+920,1841,1842,Anak kecil yang tertawa dengan rambut pirang duduk di meja sambil memegang cangkir sippy berwarna hijau.,Anak itu bahagia.,1
+921,1843,1844,Anak kecil yang tertawa dengan rambut pirang duduk di meja sambil memegang cangkir sippy berwarna hijau.,Seorang anak sedang mengamuk.,0
+922,1845,1846,Seorang anak laki-laki kecil minum susu dan susu itu mengenai seluruh wajah dan mejanya.,anjing memakan tikus,0
+923,1847,1848,Seorang anak laki-laki kecil minum susu dan susu itu mengenai seluruh wajah dan mejanya.,anak itu memiliki susu di wajahnya,1
+924,1849,1850,Dua anak perempuan pra-remaja mendengarkan musik pada pemutar MP3 dengan headphone.,Mereka adalah perempuan.,1
+925,1851,1852,Dua anak perempuan pra-remaja mendengarkan musik pada pemutar MP3 dengan headphone.,Pemutarnya adalah pemutar cd.,0
+926,1853,1854,Seorang pria berlari di belakang dogsled yang ditarik oleh empat ekor anjing.,Seorang pria sedang ditarik oleh dirinya sendiri.,0
+927,1855,1856,Seorang pria berlari di belakang dogsled yang ditarik oleh empat ekor anjing.,Seorang pria berlari di belakang kereta luncur.,1
+928,1857,1858,Balita dengan susu di sekitar mulutnya.,Seorang anak memiliki susu di wajah mereka.,1
+929,1859,1860,Balita dengan susu di sekitar mulutnya.,Seorang anak membuat susu berantakan.,1
+930,1861,1862,Balita dengan susu di sekitar mulutnya.,Seorang balita dengan jus di sekitar mulutnya.,0
+931,1863,1864,Balita dengan susu di sekitar mulutnya.,Balita yang sedang makan susu.,0
+932,1865,1866,Balita dengan susu di sekitar mulutnya.,Seorang anak.,1
+933,1867,1868,Balita dengan susu di sekitar mulutnya.,Balita yang mengenakan mik,1
+934,1869,1870,Balita dengan susu di sekitar mulutnya.,Seorang pria menumpahkan bir di bajunya.,0
+935,1871,1872,Balita dengan susu di sekitar mulutnya.,Balita itu memiliki susu di sekitar sudut mulutnya.,1
+936,1873,1874,Balita dengan susu di sekitar mulutnya.,Balita itu memiliki es krim di sekitar mulutnya.,0
+937,1875,1876,Balita dengan susu di sekitar mulutnya.,Anak itu terawat dengan baik.,0
+938,1877,1878,Seorang pria mengenakan pakaian hangat meluncur di belakang empat ekor anjing di salju.,Pria itu sedang berenang bersama anjingnya.,0
+939,1879,1880,Seorang pria mengenakan pakaian hangat meluncur di belakang empat ekor anjing di salju.,Pria itu berada di luar kereta luncur.,1
+940,1881,1882,Seorang koboi yang sedang mengendarai anak sapi dalam rodeo.,Seorang pria sedang bekerja di kantor dengan laptop.,0
+941,1883,1884,Seorang koboi yang sedang mengendarai anak sapi dalam rodeo.,Seseorang sedang tampil.,1
+942,1885,1886,Pria memancing di atas lempengan beton.,Para pria tidur di tenda-tenda.,0
+943,1887,1888,Pria memancing di atas lempengan beton.,Para pria berada di dekat air.,1
+944,1889,1890,Seorang pria yang mengenakan kemeja biru berteriak atau berteriak dengan tangan terangkat ke udara.,Seorang pria membuat keributan.,1
+945,1891,1892,Seorang pria yang mengenakan kemeja biru berteriak atau berteriak dengan tangan terangkat ke udara.,Seorang pria santai.,0
+946,1893,1894,"Empat orang di dekat perairan, satu duduk dan tiga berdiri, sementara dua orang berjalan di trotoar di dekatnya.",satu orang berenang di air,0
+947,1895,1896,"Empat orang di dekat perairan, satu duduk dan tiga berdiri, sementara dua orang berjalan di trotoar di dekatnya.",Empat orang duduk di dekat kolam.,0
+948,1897,1898,"Empat orang di dekat perairan, satu duduk dan tiga berdiri, sementara dua orang berjalan di trotoar di dekatnya.",satu orang duduk sementara tiga orang berdiri di dekat badan air.,1
+949,1899,1900,"Empat orang di dekat perairan, satu duduk dan tiga berdiri, sementara dua orang berjalan di trotoar di dekatnya.",Orang-orang berdiri di tangga.,0
+950,1901,1902,"Empat orang di dekat perairan, satu duduk dan tiga berdiri, sementara dua orang berjalan di trotoar di dekatnya.",Sekelompok orang berada di dalam sebuah bangunan.,0
+951,1903,1904,"Empat orang di dekat perairan, satu duduk dan tiga berdiri, sementara dua orang berjalan di trotoar di dekatnya.",Trotoarnya sepi dan kosong.,0
+952,1905,1906,"Empat orang di dekat perairan, satu duduk dan tiga berdiri, sementara dua orang berjalan di trotoar di dekatnya.",Ada orang-orang di trotoar.,1
+953,1907,1908,"Empat orang di dekat perairan, satu duduk dan tiga berdiri, sementara dua orang berjalan di trotoar di dekatnya.",Orang-orang berada di dekat air.,1
+954,1909,1910,"Empat orang di dekat perairan, satu duduk dan tiga berdiri, sementara dua orang berjalan di trotoar di dekatnya.",Empat orang berkumpul di dekat air.,1
+955,1911,1912,"Empat orang di dekat perairan, satu duduk dan tiga berdiri, sementara dua orang berjalan di trotoar di dekatnya.",Ada orang di luar ruangan.,1
+956,1913,1914,Dua gadis kecil berbaring di atas karpet di samping O yang terbuat dari balok kayu.,Dua orang gadis sedang bertengkar bantal.,0
+957,1915,1916,Dua gadis kecil berbaring di atas karpet di samping O yang terbuat dari balok kayu.,Dua orang gadis berbaring di samping balok kayu.,1
+958,1917,1918,Orang-orang memancing dan berjalan di samping air.,Orang-orang memancing dan berjalan di samping air.,1
+959,1919,1920,Orang-orang memancing dan berjalan di samping air.,Orang-orang berenang di dalam air.,0
+960,1921,1922,Dua orang yang sedang bermain sepak bola di lapangan hijau kampus.,Mereka sedang makan ikan goreng di atas kapal,0
+961,1923,1924,Dua orang yang sedang bermain sepak bola di lapangan hijau kampus.,Ada beberapa orang dalam gambar ini,1
+962,1925,1926,Anak-anak sekolah Asia duduk di pundak satu sama lain.,Anak-anak sekolah bersama,1
+963,1927,1928,Anak-anak sekolah Asia duduk di pundak satu sama lain.,Pekerja pabrik Asia sedang duduk.,0
+964,1929,1930,Seorang pria yang mengenakan sweater merah sedang duduk di bumper mobil sambil memperhatikan orang lain bekerja.,kendaraan lambat pada pemutus kecepatan,0
+965,1931,1932,Seorang pria yang mengenakan sweater merah sedang duduk di bumper mobil sambil memperhatikan orang lain bekerja.,ada pemutus kecepatan di jalan yang digunakan orang untuk berhati-hati,1
+966,1933,1934,Seorang pria yang mengenakan sweater merah sedang duduk di bumper mobil sambil memperhatikan orang lain bekerja.,orang membuat kecepatan cepat di speed breaker.,0
+967,1935,1936,Seorang wanita muda bermain-main di halaman di depan gedung DPR AS.,Seorang wanita muda sedang berpiknik di halaman di depan gedung DPR.,0
+968,1937,1938,Seorang wanita muda bermain-main di halaman di depan gedung DPR AS.,Seorang wanita muda bermain di depan gedung DPR.,1
+969,1939,1940,seorang pria yang mengenakan kemeja bergaris warna-warni sedang bermain gitar di jalan,Seorang pria memukul seorang anak,0
+970,1941,1942,seorang pria yang mengenakan kemeja bergaris warna-warni sedang bermain gitar di jalan,Seorang pria dengan kemeja warna-warni sedang memainkan alat musik.,1
+971,1943,1944,Seorang pria yang mengenakan sweater warna-warni dan bergaris-garis memainkan musik di jalan.,Dua ekor ikan mas sedang mengendarai sepeda di atas tumpukan kentang tumbuk raksasa.,0
+972,1945,1946,Seorang pria yang mengenakan sweater warna-warni dan bergaris-garis memainkan musik di jalan.,Pria itu sedang memainkan musik pada sebuah alat musik.,1
+973,1947,1948,Seorang pria yang mengenakan mantel multi-warna sedang bermain gitar di jalan.,Pria itu bermain gitar,1
+974,1949,1950,Seorang pria yang mengenakan mantel multi-warna sedang bermain gitar di jalan.,wanita itu sedang merapikan kukunya,0
+975,1951,1952,Pengamen jalanan dengan kemeja warna-warni tampil dengan gitar kecil.,Pengamen jalanan sedang tidur di bangku taman.,0
+976,1953,1954,Pengamen jalanan dengan kemeja warna-warni tampil dengan gitar kecil.,Seorang pengamen jalanan mencoba mendapatkan uang tambahan.,1
+977,1955,1956,"Dua orang pria sedang mengecat sebuah bangunan, sementara pria ketiga berjalan melewatinya sambil menggunakan ponselnya.",Sebuah bangunan sedang dicat.,1
+978,1957,1958,"Dua orang pria sedang mengecat sebuah bangunan, sementara pria ketiga berjalan melewatinya sambil menggunakan ponselnya.",Tidak ada seorang pun yang pernah datang ke bangunan yang tidak dicat dan bobrok ini.,0
+979,1959,1960,"Dua pria berada di atas perancah saat mereka mengecat di atas etalase toko, sementara seorang pria di trotoar berdiri di samping mereka sambil berbicara di telepon.",Tiga pria berada di luar.,1
+980,1961,1962,"Dua pria berada di atas perancah saat mereka mengecat di atas etalase toko, sementara seorang pria di trotoar berdiri di samping mereka sambil berbicara di telepon.",Tidak ada seorang pun yang menggunakan telepon.,0
+981,1963,1964,Sebuah ekskavator biru menggali sebuah palka besar di semen.,seorang anak ada di sana,1
+982,1965,1966,Sebuah ekskavator biru menggali sebuah palka besar di semen.,tidak menonton sama sekali,0
+983,1967,1968,Seorang pria dengan celana pendek khaki memegang tangan seorang gadis kecil saat dia berjalan di air sungai.,Seorang pria memegang tangan seorang gadis dan berjalan melalui sungai.,1
+984,1969,1970,Seorang pria dengan celana pendek khaki memegang tangan seorang gadis kecil saat dia berjalan di air sungai.,Seorang pria dengan celana pendek jean memegang tangan seorang gadis kecil saat dia menerbangkan layang-layang.,0
+985,1971,1972,Dua orang wanita berjalan menyusuri jalan setapak tanah sambil membawa beban di atas kepala mereka.,Dua ekor kuda berlari di lapangan.,0
+986,1973,1974,Dua orang wanita berjalan menyusuri jalan setapak tanah sambil membawa beban di atas kepala mereka.,Dua orang sedang berjalan menyusuri jalan setapak.,1
+987,1975,1976,Seorang pedagang kaki lima di Asia mencoba mendatangkan lebih banyak pelanggan.,Seorang vendor yang mencoba menarik pelanggan.,1
+988,1977,1978,Seorang pedagang kaki lima di Asia mencoba mendatangkan lebih banyak pelanggan.,Seorang pria menutup tokonya untuk hari itu.,0
+989,1979,1980,Wanita muda di kafe sedang memeriksa ponselnya.,Wanita itu sedang merajut.,0
+990,1981,1982,Wanita muda di kafe sedang memeriksa ponselnya.,Seorang wanita berada di dalam.,1
+991,1983,1984,Seorang wanita dan seorang anak perempuan sedang bermain di padang dedaunan,Dua orang berada di luar.,1
+992,1985,1986,Seorang wanita dan seorang anak perempuan sedang bermain di padang dedaunan,Seorang pria sedang bermain di lapangan.,0
+993,1987,1988,dua gadis kecil berjalan di sepanjang dedaunan.,Kedua gadis itu berada di luar.,1
+994,1989,1990,dua gadis kecil berjalan di sepanjang dedaunan.,Kedua anak perempuan ini sedang mengendarai sepeda mereka.,0
+995,1991,1992,"Seorang gadis yang mengenakan kemeja biru, celana pendek, dan sepatu kets, duduk di bangku di meja bundar, sambil melihat ponselnya.",Gadis itu sedang duduk.,1
+996,1993,1994,"Seorang gadis yang mengenakan kemeja biru, celana pendek, dan sepatu kets, duduk di bangku di meja bundar, sambil melihat ponselnya.",Gadis itu mengenakan kemeja hijau.,0
+997,1995,1996,Wanita muda mengenakan celana pendek hitam dan kemeja biru muda duduk di luar di meja umum sambil melihat gambar di kameranya dengan tangan kirinya di wajahnya.,Seorang wanita menggunakan kucing untuk mengambil gambar.,0
+998,1997,1998,Wanita muda mengenakan celana pendek hitam dan kemeja biru muda duduk di luar di meja umum sambil melihat gambar di kameranya dengan tangan kirinya di wajahnya.,Seorang wanita muda sedang mengendarai sepedanya menyusuri jalur sepeda.,0
+999,1999,2000,Wanita muda mengenakan celana pendek hitam dan kemeja biru muda duduk di luar di meja umum sambil melihat gambar di kameranya dengan tangan kirinya di wajahnya.,Seorang wanita muda sedang melihat sebuah gambar.,1
+1000,2001,2002,Wanita muda mengenakan celana pendek hitam dan kemeja biru muda duduk di luar di meja umum sambil melihat gambar di kameranya dengan tangan kiri di wajahnya.,Seorang wanita melihat gambar pada kameranya,1
+1001,2003,2004,Wanita muda mengenakan celana pendek hitam dan kemeja biru muda duduk di luar di meja umum sambil melihat gambar di kameranya dengan tangan kirinya di wajahnya.,Seorang wanita melihat ponselnya.,0
+1002,2005,2006,Wanita muda mengenakan celana pendek hitam dan kemeja biru muda duduk di luar di meja umum sambil melihat gambar di kameranya dengan tangan kiri di wajahnya.,Wanita duduk menatap kamera.,1
+1003,2007,2008,Wanita muda mengenakan celana pendek hitam dan kemeja biru muda duduk di luar di meja umum sambil melihat gambar di kameranya dengan tangan kirinya di wajahnya.,Wanita muda duduk di area pribadi.,0
+1004,2009,2010,Wanita muda mengenakan celana pendek hitam dan kemeja biru muda duduk di luar di meja umum sambil melihat gambar di kameranya dengan tangan kirinya di wajahnya.,Seorang wanita muda sedang melihat kameranya.,1
+1005,2011,2012,Wanita muda mengenakan celana pendek hitam dan kemeja biru muda duduk di luar di meja umum sambil melihat gambar di kameranya dengan tangan kirinya di wajahnya.,Seorang wanita muda sedang menggunakan ponselnya.,0
+1006,2013,2014,Wanita muda mengenakan celana pendek hitam dan kemeja biru muda duduk di luar di meja umum sambil melihat gambar di kameranya dengan tangan kirinya di wajahnya.,Seorang wanita di meja mengambil gambar.,1
+1007,2015,2016,"Seorang wanita duduk di meja, mengambil gambar.",Wanita itu sedang duduk,1
+1008,2017,2018,"Seorang wanita duduk di meja, mengambil gambar.",Wanita itu sedang tidur.,0
+1009,2019,2020,Seorang wanita berkemeja biru sedang duduk di meja dan melihat ponselnya.,seorang wanita yang sedang melihat ponselnya,1
+1010,2021,2022,Seorang wanita berkemeja biru sedang duduk di meja dan melihat ponselnya.,seorang pria yang melihat keluar jendela,0
+1011,2023,2024,"Seorang anak laki-laki berkemeja biru, kuning, dan oranye yang memegang kedua tangannya dari sisinya.",Anak laki-laki itu mencoba untuk lulus tes ketenangan.,0
+1012,2025,2026,"Seorang anak laki-laki berkemeja biru, kuning, dan oranye yang memegang kedua tangannya dari sisinya.","Seorang anak laki-laki dengan kemeja triwarna, lengannya terentang ke samping.",1
+1013,2027,2028,"Seorang anak laki-laki berkemeja biru, kuning, dan oranye yang memegang kedua tangannya dari sisinya.",Anak laki-laki itu mengenakan kemeja.,1
+1014,2029,2030,"Seorang anak laki-laki berkemeja biru, kuning, dan oranye yang memegang kedua tangannya dari sisinya.",Ia mengenakan kemeja warna-warni,1
+1015,2031,2032,"Seorang anak laki-laki berkemeja biru, kuning, dan oranye yang memegang kedua tangannya dari sisinya.",Anak laki-laki itu tidak mengeluarkan lengannya,0
+1016,2033,2034,"Seorang anak laki-laki berkemeja biru, kuning, dan oranye yang memegang kedua tangannya dari sisinya.",Anak itu masih muda.,1
+1017,2035,2036,"Seorang anak laki-laki berkemeja biru, kuning, dan oranye yang memegang kedua tangannya dari sisinya.",Seorang anak laki-laki sedang melipat cucian bersih.,0
+1018,2037,2038,"Seorang anak laki-laki berkemeja biru, kuning, dan oranye yang memegang kedua tangannya dari sisinya.",Kemeja berwarna biru.,0
+1019,2039,2040,"Seorang anak laki-laki berkemeja biru, kuning, dan oranye yang memegang kedua tangannya dari sisinya.",Seorang anak laki-laki dengan kemeja multi-warna memegang lengannya dari sisinya,1
+1020,2041,2042,"Seorang anak laki-laki berkemeja biru, kuning, dan oranye yang memegang kedua tangannya dari sisinya.",Seorang gadis berpakaian bikini berjalan dengan anggun melewati sekelompok pria di pantai,0
+1021,2043,2044,Anak laki-laki berbaju biru dan kuning berdiri dengan tangan terentang.,Seorang anak laki-laki mengenakan kemeja,1
+1022,2045,2046,Anak laki-laki berbaju biru dan kuning berdiri dengan tangan terentang.,Anak laki-laki berbaju biru dan kuning berdiri dengan tangan terentang selebar 40 kaki.,0
+1023,2047,2048,"Seorang anak laki-laki berkemeja biru, kuning, dan oranye bermain di luar.",Seorang anak laki-laki berkemeja bermain di luar.,1
+1024,2049,2050,"Seorang anak laki-laki berkemeja biru, kuning, dan oranye bermain di luar.",Seorang anak laki-laki berpakaian bermain di dalam ruangan.,0
+1025,2051,2052,Seorang anak dengan kemeja berwarna cerah bermain di luar.,Anak itu berada di dalam apartemennya.,0
+1026,2053,2054,Seorang anak dengan kemeja berwarna cerah bermain di luar.,Anak itu berada di luar ruangan dengan kemeja berwarna cerah.,1
+1027,2055,2056,Seorang anak laki-laki melihat ke bawah dan merentangkan tangannya lebar-lebar,Seorang anak laki-laki sedang mengulurkan tangannya.,1
+1028,2057,2058,Seorang anak laki-laki melihat ke bawah dan merentangkan tangannya lebar-lebar,Seorang anak laki-laki menyilangkan tangan di dadanya.,0
+1029,2059,2060,Seorang pria yang mengenakan sweater abu-abu berjalan melewati tumpukan dedaunan.,Pria itu sedang mengikuti tes mengemudi.,0
+1030,2061,2062,Seorang pria yang mengenakan sweater abu-abu berjalan melewati tumpukan dedaunan.,Pria itu berada di luar.,1
+1031,2063,2064,Seorang wanita yang mengenakan kemeja biru dan penutup kepala hijau tersenyum ke arah kamera.,Seorang wanita yang mengenakan gaun.,0
+1032,2065,2066,Seorang wanita yang mengenakan kemeja biru dan penutup kepala hijau tersenyum ke arah kamera.,Seorang wanita mengenakan kemeja biru.,1
+1033,2067,2068,Pria yang mengenakan banyak medali sedang memperhatikan gadis yang mengenakan atasan bikini kuning.,Seorang pria menari dengan seorang wanita yang mengenakan gaun.,0
+1034,2069,2070,Pria yang mengenakan banyak medali sedang memperhatikan gadis yang mengenakan atasan bikini kuning.,Seorang pria yang dihias melihat seorang wanita berpakaian minim.,1
+1035,2071,2072,"Seorang pemuda berusia pertengahan dua puluhan menendang kaki kirinya sekitar dua kaki dari tanah yang tertutup dedaunan, dengan aspal beraspal dan tanaman hijau serta pepohonan sebagai latar belakangnya.",dua wanita bermain sepak bola,0
+1036,2073,2074,"Seorang pemuda berusia pertengahan dua puluhan menendang kaki kirinya sekitar dua kaki dari tanah yang tertutup dedaunan, dengan aspal beraspal dan tanaman hijau serta pepohonan sebagai latar belakangnya.",seseorang berusia dua puluhan menendang tanah,1
+1037,2075,2076,Seorang wanita yang mengenakan jilbab hijau tertawa sementara seorang wanita di latar belakang mendayung perahu.,Seorang pria marah karena penghinaan.,0
+1038,2077,2078,Seorang wanita yang mengenakan jilbab hijau tertawa sementara seorang wanita di latar belakang mendayung perahu.,Seorang wanita tertawa sementara yang lain mendayung perahu.,1
+1039,2079,2080,Kaum muda bermain dengan lompat tali panjang di jalan.,Orang-orang menangis setelah kalah dalam pertandingan.,0
+1040,2081,2082,Kaum muda bermain dengan lompat tali panjang di jalan.,Orang-orang bermain lompat tali.,1
+1041,2083,2084,Sekelompok anak bermain lompat tali di jalanan sementara yang lain menonton di latar belakang.,Beberapa anak sedang melompat tali di tengah jalan sementara anak-anak lain menonton,1
+1042,2085,2086,Sekelompok anak bermain lompat tali di jalanan sementara yang lain menonton di latar belakang.,Matahari merah cemerlang terbenam di atas pantai yang sepi,0
+1043,2087,2088,Wanita Hispanik yang mengenakan kemeja kotak-kotak merah sedang menjahit pakaian.,Wanita yang tidak mengenakan apa pun yang menjahit ibu jarinya.,0
+1044,2089,2090,Wanita Hispanik yang mengenakan kemeja kotak-kotak merah sedang menjahit pakaian.,Wanita yang mengenakan kemeja sedang menjahit.,1
+1045,2091,2092,Sekelompok gadis muda bermain lompat tali di jalan.,Tidak ada yang bermain lompat tali,0
+1046,2093,2094,Sekelompok gadis muda bermain lompat tali di jalan.,Manusia bermain lompat tali,1
+1047,2095,2096,Seorang pria dengan setelan cokelat menggunakan telepon umum untuk menelepon.,Semua orang menggunakan ponsel.,0
+1048,2097,2098,Seorang pria dengan setelan cokelat menggunakan telepon umum untuk menelepon.,Seseorang sedang menelepon.,1
+1049,2099,2100,Beberapa anak sedang bermain lompat tali.,Beberapa anak sedang membaca buku.,0
+1050,2101,2102,Beberapa anak sedang bermain lompat tali.,Anak-anak sedang melompat tali.,1
+1051,2103,2104,Seekor anjing emas besar mengendus pantat anjing putih,Dua ekor anjing minum dari air mancur.,0
+1052,2105,2106,Seekor anjing emas besar mengendus pantat anjing putih,Dua ekor hewan saling mengenal satu sama lain.,1
+1053,2107,2108,Seorang pegulat sumo dengan sabuk coklat mendorong pegulat lain dalam sebuah laga.,Dua kickboxer berolahraga di gym.,0
+1054,2109,2110,Seorang pegulat sumo dengan sabuk coklat mendorong pegulat lain dalam sebuah laga.,Dua pegulat sumo bersaing dalam sebuah pertandingan.,1
+1055,2111,2112,"Dua ekor anjing besar saling menyapa, sementara pemiliknya memperhatikan.",anjing-anjing saling melihat satu sama lain,1
+1056,2113,2114,"Dua ekor anjing besar saling menyapa, sementara pemiliknya memperhatikan.",anjing liar sedang bermain,0
+1057,2115,2116,"Seorang pria berjaket merah dan hitam, kemeja biru, banyak kalung perak, dan celana jins birunya jatuh ke bawah, memeriksa seorang wanita yang mengenakan jaket kulit hitam, bra kuning, sarung tangan merah muda tanpa jari, dan kacamata hitam.",Seorang anak laki-laki sedang bermain dengan truk mainan.,0
+1058,2117,2118,"Seorang pria berjaket merah dan hitam, kemeja biru, banyak kalung perak, dan celana jins birunya jatuh ke bawah, memeriksa seorang wanita yang mengenakan jaket kulit hitam, bra kuning, sarung tangan merah muda tanpa jari, dan kacamata hitam.",Seorang pria mengenakan banyak kalung perak.,1
+1059,2119,2120,Wanita dengan sweater hijau dan kacamata hitam tersenyum,Seorang wanita dengan sweater biru sedang menangis.,0
+1060,2121,2122,Wanita dengan sweater hijau dan kacamata hitam tersenyum,Seorang wanita dengan sweater hijau memiliki ekspresi bahagia.,1
+1061,2123,2124,Seorang wanita berambut hitam mengenakan sweater hijau.,Seorang wanita mengenakan tank top.,0
+1062,2125,2126,Seorang wanita berambut hitam mengenakan sweater hijau.,Seorang wanita ada di sana.,1
+1063,2127,2128,Seorang wanita yang tersenyum dengan jaket hijau di sebuah pertemuan umum.,Seorang wanita yang bahagia tersenyum,1
+1064,2129,2130,Seorang wanita yang tersenyum dengan jaket hijau di sebuah pertemuan umum.,Seorang wanita mengenakan pakaian renang di pantai bersama teman-temannya,0
+1065,2131,2132,Seorang wanita berjaket hijau dan berkacamata hitam di luar di tengah keramaian.,Wanita itu tidak berada di dekat siapa pun.,0
+1066,2133,2134,Seorang wanita berjaket hijau dan berkacamata hitam di luar di tengah keramaian.,Seorang wanita berada di luar.,1
+1067,2135,2136,Seorang wanita dengan kacamata hitam di kepalanya dan kaus hijau tampak di luar kamera.,Seorang wanita mengenakan kaus hijau.,1
+1068,2137,2138,Seorang wanita dengan kacamata hitam di kepalanya dan kaus hijau tampak di luar kamera.,Seorang wanita mengenakan kaus merah marun.,0
+1069,2139,2140,Seorang pendaki sedang mendaki lereng gunung bersalju.,Seorang pendaki sedang mendaki,1
+1070,2141,2142,Seorang pendaki sedang mendaki lereng gunung bersalju.,Seorang pendaki berada di base camp,0
+1071,2143,2144,Seorang pria yang mengenakan pakaian salju melompat ke dalam jurang yang tertutup salju.,Seorang pria berada di luar ruangan.,1
+1072,2145,2146,Seorang pria yang mengenakan pakaian salju melompat ke dalam jurang yang tertutup salju.,Seorang pria berada di dalam ruangan sambil minum cokelat panas.,0
+1073,2147,2148,seseorang yang sendirian melompat di udara dari satu gunung bersalju ke gunung bersalju lainnya.,Seseorang melompat di udara.,1
+1074,2149,2150,seseorang yang sendirian melompat di udara dari satu gunung bersalju ke gunung bersalju lainnya.,Seseorang duduk di atas salju.,0
+1075,2151,2152,Seorang pria bercelana pendek dan pakaian putih berdiri di dasar tangga yang dibingkai oleh pagar hitam.,Seorang wanita sedang menunggu seseorang yang dibingkai oleh pagar putih.,0
+1076,2153,2154,Seorang pria bercelana pendek dan pakaian putih berdiri di dasar tangga yang dibingkai oleh pagar hitam.,Seorang pria berdiri di bagian bawah tangga.,1
+1077,2155,2156,Seorang pria melakukan trik di salju.,Tidak ada salju di mana pria itu berada,0
+1078,2157,2158,Seorang pria melakukan trik di salju.,Pria itu berada di luar.,1
+1079,2159,2160,Dua orang Asia duduk di meja biru di food court.,Orang-orang membeli kacamata hitam.,0
+1080,2161,2162,Dua orang Asia duduk di meja biru di food court.,Dua orang duduk bersama.,1
+1081,2163,2164,Pasangan India menggendong anak di dekat tepi sungai.,Sepasang suami-istri sedang menggendong seorang anak,1
+1082,2165,2166,Pasangan India menggendong anak di dekat tepi sungai.,Sepasang suami-istri sedang tidur bersama bayi mereka di rumah,0
+1083,2167,2168,Sekelompok orang yang sedang bermain sepak bola.,sekelompok orang sedang bermain sepak bola,1
+1084,2169,2170,Sekelompok orang yang sedang bermain sepak bola.,orang-orang bermain sepak bola Amerika,0
+1085,2171,2172,Seorang pemain sepak bola melompat di udara selama pertandingan.,Seorang pemain sepak bola yang terbang melintasi lapangan selama pertandingan.,0
+1086,2173,2174,Seorang pemain sepak bola melompat di udara selama pertandingan.,Seorang pemain sepak bola melompat-lompat saat pertandingan sedang berlangsung.,1
+1087,2175,2176,Foto aksi tembakan ke gawang dari para pemain sepak bola berseragam merah dan hitam.,seorang pemain hoki memaku hattrick pertamanya,0
+1088,2177,2178,Foto aksi tembakan ke gawang dari para pemain sepak bola berseragam merah dan hitam.,seorang pemain memiliki tendangan penalti,1
+1089,2179,2180,Tim merah mengetuk bola ke arah gawang dan tim hitam mencoba memblokirnya.,Tim merah dan hitam sedang memainkan sebuah permainan.,1
+1090,2181,2182,Tim merah mengetuk bola ke arah gawang dan tim hitam mencoba memblokirnya.,Tim-timnya berwarna biru dan oranye.,0
+1091,2183,2184,Enam pemain sepak bola di lapangan dengan pemain berseragam merah di udara dan bola mengudara.,Orang-orang bermain sepak bola.,1
+1092,2185,2186,Enam pemain sepak bola di lapangan dengan pemain berseragam merah di udara dan bola di udara.,Enam orang sedang bermain basket.,0
+1093,2187,2188,Dua anak kecil yang menunjukkan kebanggaan Amerika mereka dengan gerobak bermotif bintang.,Dua orang dewasa mencampur margarita.,0
+1094,2189,2190,Dua anak kecil yang menunjukkan kebanggaan Amerika mereka dengan gerobak bermotif bintang.,Dua orang anak dengan gerobak.,1
+1095,2191,2192,"Seorang pria muda dengan rompi berlapis merah memamerkan bermacam-macam liontin perak di lehernya saat ia menyaksikan seorang wanita dengan atasan bikini kuning, jaket hitam, dan sarung tangan tanpa jari merah muda cerah berlalu.",Tidak ada perhiasan.,0
+1096,2193,2194,"Seorang pria muda dengan rompi berlapis merah memamerkan bermacam-macam liontin perak di lehernya saat ia menyaksikan seorang wanita dengan atasan bikini kuning, jaket hitam, dan sarung tangan tanpa jari merah muda cerah berlalu.",Seseorang sedang menjelajahi perhiasan.,1
+1097,2195,2196,Anak perempuan sedang meniup kupu-kupu.,Gadis itu meniup kupu-kupu.,1
+1098,2197,2198,Anak perempuan sedang meniup kupu-kupu.,Gadis itu bersin pada kupu-kupu.,0
+1099,2199,2200,Sepasang lansia menari di samping meja di mana seorang anak laki-laki duduk dengan kepala tertunduk.,Seorang pria muda meletakkan kepalanya di atas meja.,1
+1100,2201,2202,Sepasang lansia menari di samping meja di mana seorang anak laki-laki duduk dengan kepala tertunduk.,Seorang pemuda sedang memainkan drum.,0
+1101,2203,2204,Seorang gadis kecil berdiri di antara banyak semangka besar.,Ada seorang gadis yang berdiri,1
+1102,2205,2206,Seorang gadis kecil berdiri di antara banyak semangka besar.,Ada seorang gadis yang duduk di dekat semangka,0
+1103,2207,2208,Sepasang lansia menari di depan juke box sementara seorang pria bercelana pendek tidur di meja terdekat,Pasangan tua menari di dekat juke box sementara seorang pria yang mengenakan celana pendek tidur di dekat meja,1
+1104,2209,2210,Sepasang lansia menari di depan juke box sementara seorang pria bercelana pendek tidur di meja terdekat,Dua ekor kucing bernyanyi karoake,0
+1105,2211,2212,"Sepasang lansia, keduanya mengenakan kemeja putih, menari dan seorang pria muda duduk di meja.",Pasangan ini menari bersama.,1
+1106,2213,2214,"Sepasang lansia, keduanya mengenakan kemeja putih, menari dan seorang pria muda duduk di meja.",Pasangan ini duduk bersama sang pria.,0
+1107,2215,2216,Seorang anak membungkuk untuk mengambil semangka dari tumpukan besar semangka.,Seseorang berada di dekat semangka.,1
+1108,2217,2218,Seorang anak membungkuk untuk mengambil semangka dari tumpukan besar semangka.,"Seorang wanita sendirian, menanam biji semangka di kebun pada musim semi.",0
+1109,2219,2220,Seorang gadis kecil mengenakan gaun kuning dengan bunga-bunga di atasnya membungkuk di dekat tumpukan besar semangka.,Gadis itu berusia di bawah 88 tahun.,1
+1110,2221,2222,Seorang gadis kecil mengenakan gaun kuning dengan bunga-bunga di atasnya membungkuk di dekat tumpukan besar semangka.,Gadis itu sendirian dan tertidur di kamar tidurnya.,0
+1111,2223,2224,Seorang gadis kecil mengambil semangka dari tumpukan.,Seorang anak perempuan sedang mengambil jeruk.,0
+1112,2225,2226,Seorang gadis kecil mengambil semangka dari tumpukan.,Seorang gadis sedang mengambil barang.,1
+1113,2227,2228,seorang gadis muda dengan gaun bunga-bunga yang dikelilingi oleh semangka,Ada banyak buah.,1
+1114,2229,2230,seorang gadis muda dengan gaun bunga-bunga yang dikelilingi oleh semangka,Hanya ada kentang.,0
+1115,2231,2232,Seorang pria berjaket biru berteriak.,Seorang pria membuat suara keras.,1
+1116,2233,2234,Seorang pria berjaket biru berteriak.,Seorang pria berbisik.,0
+1117,2235,2236,Anak-anak bermain permainan di lapangan.,Orang dewasa yang sedang bermain game.,0
+1118,2237,2238,Anak-anak bermain permainan di lapangan.,Anak-anak sedang bermain game.,1
+1119,2239,2240,Seorang wanita yang duduk dengan rambut pendek dan kamera melempar Frisbee ke seekor anjing cokelat.,Wanita itu melempar Frisbee ke anjing.,1
+1120,2241,2242,Seorang wanita yang duduk dengan rambut pendek dan kamera melempar Frisbee ke seekor anjing cokelat.,Wanita itu mengejar anjing yang mengambil kameranya.,0
+1121,2243,2244,Pemandangan kota Asia dengan orang-orang di jalan dengan lampu-lampu terang dan gedung-gedung kaca di belakangnya.,Orang-orang berada di jalan.,1
+1122,2245,2246,Pemandangan kota Asia dengan orang-orang di jalan dengan lampu-lampu terang dan gedung-gedung kaca di belakangnya.,Kota Asia penuh dengan ladang.,0
+1123,2247,2248,Pemandangan kota Asia dengan orang-orang di jalan dengan lampu-lampu terang dan gedung-gedung kaca di belakangnya.,Kota Asia penuh dengan pemandangan.,1
+1124,2249,2250,Pemandangan kota Asia dengan orang-orang di jalan dengan lampu-lampu terang dan gedung-gedung kaca di belakangnya.,Orang-orang berada di jalan di Toronto.,0
+1125,2251,2252,Pemandangan kota Asia dengan orang-orang di jalan dengan lampu-lampu terang dan gedung-gedung kaca di belakangnya.,Orang-orang kota di jalan,1
+1126,2253,2254,Pemandangan kota Asia dengan orang-orang di jalan dengan lampu-lampu terang dan gedung-gedung kaca di belakangnya.,Sekelompok orang sedang duduk di lapangan,0
+1127,2255,2256,Pemandangan kota Asia dengan orang-orang di jalan dengan lampu-lampu terang dan gedung-gedung kaca di belakangnya.,Ada banyak orang di daerah perkotaan.,1
+1128,2257,2258,Pemandangan kota Asia dengan orang-orang di jalan dengan lampu-lampu terang dan gedung-gedung kaca di belakangnya.,Ada orang di depan bangunan yang terang benderang.,1
+1129,2259,2260,Pemandangan kota Asia dengan orang-orang di jalan dengan lampu-lampu terang dan gedung-gedung kaca di belakangnya.,Penyeberang jalan kota,0
+1130,2261,2262,Pemandangan kota Asia dengan orang-orang di jalan dengan lampu-lampu terang dan gedung-gedung kaca di belakangnya.,Ini adalah kota Amerika.,0
+1131,2263,2264,Seorang pria sedang melukis potret pemandangan di luar yang menyertakan tanda jalan dengan sepeda yang dirantai.,Seorang wanita sedang menggambar mikroorganisme.,0
+1132,2265,2266,Seorang pria sedang melukis potret pemandangan di luar yang menyertakan tanda jalan dengan sepeda yang dirantai.,Seorang pria sedang melukis lanskap area luar ruangan.,1
+1133,2267,2268,Seorang pria tua berdiri di trotoar sambil melukis pemandangan.,Orang tua itu sedang melukis pemandangan kamar mandi.,0
+1134,2269,2270,Seorang pria tua berdiri di trotoar sambil melukis pemandangan.,Orang tua itu sedang melukis potret.,1
+1135,2271,2272,"Jalan yang ramai, di negara Asia, di mana bangunannya didominasi oleh gedung Seiko.",Jalanan kosong.,0
+1136,2273,2274,"Jalan yang ramai, di negara Asia, di mana bangunannya didominasi oleh gedung Seiko.",Bangunannya tinggi.,1
+1137,2275,2276,"Jalan yang ramai, di negara Asia, di mana bangunannya didominasi oleh gedung Seiko.",Tidak ada seorang pun yang berada di jalanan di Asia.,0
+1138,2277,2278,"Jalan yang ramai, di negara Asia, di mana bangunannya didominasi oleh gedung Seiko.",Kerumunan orang di pertemuan renang dalam ruangan.,0
+1139,2279,2280,"Jalan yang ramai, di negara Asia, di mana bangunannya didominasi oleh gedung Seiko.",Gedung Seiko berukuran besar.,1
+1140,2281,2282,"Jalan yang ramai, di negara Asia, di mana bangunannya didominasi oleh gedung Seiko.",banyak orang berada di jalan,1
+1141,2283,2284,"Jalan yang ramai, di negara Asia, di mana bangunannya didominasi oleh gedung Seiko.",ada badai sehingga tidak ada orang yang pergi ke luar,0
+1142,2285,2286,"Jalan yang ramai, di negara Asia, di mana bangunannya didominasi oleh gedung Seiko.",Ada jalan yang ramai.,1
+1143,2287,2288,"Jalan yang ramai, di negara Asia, di mana bangunannya didominasi oleh gedung Seiko.",Jalan yang ramai di Asia.,1
+1144,2289,2290,"Jalan yang ramai, di negara Asia, di mana bangunannya didominasi oleh gedung Seiko.",Sebuah jalan yang ramai di Amerika.,0
+1145,2291,2292,Seorang anak kecil masuk ke dalam lemari dan mengoleskan tepung dan crisco ke seluruh tubuhnya.,Anak laki-laki itu sedang bermain biola.,0
+1146,2293,2294,Seorang anak kecil masuk ke dalam lemari dan mengoleskan tepung dan crisco ke seluruh tubuhnya.,Anak itu membuat kekacauan.,1
+1147,2295,2296,Seorang pria melukis pemandangan di depannya.,Seseorang sedang melukis.,1
+1148,2297,2298,Seorang pria melukis pemandangan di depannya.,Seorang gadis sedang melukis potret diri.,0
+1149,2299,2300,Persimpangan Jepang yang sibuk seperti mungkin Tokyo.,Tidak ada mobil di jalan.,0
+1150,2301,2302,Persimpangan Jepang yang sibuk seperti mungkin Tokyo.,Ada banyak mobil di jalan.,1
+1151,2303,2304,Mobil-mobil sedang melewati sebuah kota.,beberapa mobil yang lewat di luar,1
+1152,2305,2306,Mobil-mobil sedang melewati sebuah kota.,Mobil-mobil diparkir di kota.,0
+1153,2307,2308,Gambar kota dengan tanda yang menyambut para pelancong di jalan yang sibuk.,Gambar sebuah kota berada di sebuah jalan,1
+1154,2309,2310,Gambar kota dengan tanda yang menyambut para pelancong di jalan yang sibuk.,Orang-orang menari,0
+1155,2311,2312,Menghadap ke jalan dengan tanda di atas toko-toko yang menyatakan Welcome To Golden.,"Papan nama toko bertuliskan ""Selamat Datang di Golden""",1
+1156,2313,2314,Menghadap ke jalan dengan tanda di atas toko-toko yang menyatakan Welcome To Golden.,Papan nama toko tergeletak di trotoar.,0
+1157,2315,2316,Ada mobil-mobil yang melaju di jalan dengan tanda yang menampilkan Selamat Datang di Golden.,Mobil-mobil diparkir di ruang pamer.,0
+1158,2317,2318,Ada mobil-mobil yang melaju di jalan dengan tanda yang menampilkan Selamat Datang di Golden.,Mobil-mobil berada di luar.,1
+1159,2319,2320,"Pemandangan jalan utama kota kecil dengan tanda selamat datang di atas kepala yang bertuliskan ""Welcome to Golden"".","Sebuah tanda neon bertuliskan ""Sekarang meninggalkan Golden""",0
+1160,2321,2322,"Pemandangan jalan utama kota kecil dengan tanda selamat datang di atas kepala yang bertuliskan ""Welcome to Golden"".","Sebuah tanda bertuliskan ""Selamat Datang di Golden""",1
+1161,2323,2324,Gadis Kecil berkemeja coklat dan rok jean biru menari di atas lantai kayu.,Seorang gadis menari dengan kemeja cokelat dan rok jean biru di atas lantai kayu,1
+1162,2325,2326,Gadis Kecil berkemeja coklat dan rok jean biru menari di atas lantai kayu.,Kotoran di lantai sementara gadis itu menari,0
+1163,2327,2328,Seorang pemuda sedang melakukan lompatan di atas papan luncur sementara pemuda lainnya memotret aksinya.,Dua anak laki-laki sedang bermain skateboard di luar.,1
+1164,2329,2330,Seorang pemuda sedang melakukan lompatan di atas papan luncur sementara pemuda lainnya memotret aksinya.,Dua anak laki-laki sedang mengendarai sepeda di jalan.,0
+1165,2331,2332,Seorang gadis muda menari dengan kaus kakinya di atas lantai kayu yang dipenuhi balon merah muda.,Seorang gadis sedang menikmati dirinya sendiri.,1
+1166,2333,2334,Seorang gadis muda menari dengan kaus kakinya di atas lantai kayu yang dipenuhi balon merah muda.,Gadis itu tampak sangat sedih dengan balon biru.,0
+1167,2335,2336,"Anak dengan tali merah muda di kepala menari dikelilingi oleh confetti, balon.",Seorang anak sedang bermain sepatu roda.,0
+1168,2337,2338,"Anak dengan tali merah muda di kepala menari dikelilingi oleh confetti, balon.",Seorang anak sedang menari.,1
+1169,2339,2340,"Seorang petugas pemadam kebakaran yang tampan memasang pita ""Jangan Menyeberang"" di kota.",Seorang petugas pemadam kebakaran sedang tidur.,0
+1170,2341,2342,"Seorang petugas pemadam kebakaran yang tampan memasang pita ""Jangan Menyeberang"" di kota.",Seorang petugas pemadam kebakaran memasang tanda jangan menyeberang,1
+1171,2343,2344,"Seorang petugas pemadam kebakaran yang tampan memasang pita ""Jangan Menyeberang"" di kota.",Seorang petugas pemadam kebakaran memasang pita di kota,1
+1172,2345,2346,Seorang petugas pemadam kebakaran melindungi suatu area dengan membuat batas sementara yang lain mengawasi.,Seorang petugas pemadam kebakaran bekerja keras untuk menjaga keselamatan orang-orang.,1
+1173,2347,2348,Seorang petugas pemadam kebakaran melindungi suatu area dengan membuat batas sementara yang lain mengawasi.,Seorang pemadam kebakaran mencoba melarikan diri dari api.,0
+1174,2349,2350,Gadis berambut pirang sedang menari di dalam sebuah rumah.,Gadis itu sedang duduk di bangku taman.,0
+1175,2351,2352,Gadis berambut pirang sedang menari di dalam sebuah rumah.,Seseorang berada di dalam ruangan.,1
+1176,2353,2354,"Dua orang berdiri di depan patung besar seorang wanita, patung-patung dan patung-patung lain terlihat di latar belakang.",Dua orang yang sedang mengantre makanan di restoran yang ramai.,0
+1177,2355,2356,"Dua orang berdiri di depan patung besar seorang wanita, patung-patung dan patung-patung lain terlihat di latar belakang.","Dua orang berdiri di dekat patung besar, dengan negara bagian lain di dekatnya.",1
+1178,2357,2358,seorang pria dengan penutup putih sedang berjalan menaiki tangga.,Seorang wanita tua jatuh dari tangga.,0
+1179,2359,2360,seorang pria dengan penutup putih sedang berjalan menaiki tangga.,Seorang manusia berjalan menaiki tangga.,1
+1180,2361,2362,Sebuah keluarga di antara van dan pagar,Sebuah keluarga dengan mobil van.,1
+1181,2363,2364,Sebuah keluarga di antara van dan pagar,Sebuah keluarga dengan truk pickup.,0
+1182,2365,2366,Seorang wanita berbicara dengan empat anak kecil di luar.,Seorang wanita dewasa berada di dekat beberapa anak.,1
+1183,2367,2368,Seorang wanita berbicara dengan empat anak kecil di luar.,Seorang guru sedang membaca buku di kelas.,0
+1184,2369,2370,Seorang ibu dengan keempat anaknya.,Seorang pria dengan hewan peliharaannya.,0
+1185,2371,2372,Seorang ibu dengan keempat anaknya.,Seorang wanita dengan anak-anak.,1
+1186,2373,2374,Seorang wanita dan beberapa anak di sebuah gang di antara kendaraan dan pagar.,Wanita dan anak-anak berada di ruang makan mereka.,0
+1187,2375,2376,Seorang wanita dan beberapa anak di sebuah gang di antara kendaraan dan pagar.,Beberapa orang di sebuah gang.,1
+1188,2377,2378,Seorang wanita berbaju bunga berbicara dengan anak-anak di depan sebuah mobil van.,Seorang wanita sedang berbicara dengan anak-anak.,1
+1189,2379,2380,Seorang wanita berbaju bunga berbicara dengan anak-anak di depan sebuah mobil van.,Seorang wanita berteriak pada anaknya.,0
+1190,2381,2382,Dua orang pria dengan kepala menunduk menandatangani sebuah kertas.,Para pria melompat dari jembatan.,0
+1191,2383,2384,Dua orang pria dengan kepala menunduk menandatangani sebuah kertas.,Kedua pria itu menandatangani sesuatu.,1
+1192,2385,2386,Seorang pria dan seorang wanita sedang bercakap-cakap secara intim di depan patung.,Sepasang suami istri sedang bercakap-cakap,1
+1193,2387,2388,Seorang pria dan seorang wanita sedang bercakap-cakap secara intim di depan patung.,Sepasang suami istri sedang makan malam di restoran.,0
+1194,2389,2390,Seorang pria berkemeja Tour De Force sedang mengayuh sepeda.,Seorang wanita sedang bersepeda.,0
+1195,2391,2392,Seorang pria berkemeja Tour De Force sedang mengayuh sepeda.,Seorang pria sedang mengerjakan sepeda.,1
+1196,2393,2394,Seorang balita muda yang mengenakan sandal merah muda sedang berjalan di atas nomor hopscotch.,Seorang pria dewasa yang mengenakan sandal merah muda bermain hopscotch.,0
+1197,2395,2396,Seorang balita muda yang mengenakan sandal merah muda sedang berjalan di atas nomor hopscotch.,Seorang bayi berjalan di atas tanah.,1
+1198,2397,2398,seorang pria mengenakan pakaian biru bermain sepak bola.,pria bermain sepak bola,1
+1199,2399,2400,seorang pria mengenakan pakaian biru bermain sepak bola.,pria bermain basket,0
+1200,2401,2402,Para ibu dengan anak-anaknya sedang berbincang-bincang dalam sebuah pertemuan.,Para ibu berteriak pada anak-anak.,0
+1201,2403,2404,Para ibu dengan anak-anaknya sedang berbincang-bincang dalam sebuah pertemuan.,Para ibu sedang bercakap-cakap.,1
+1202,2405,2406,Dua orang wanita sedang berbicara sementara anak-anak duduk di pangkuan mereka.,Pria itu sedang mengecat rumah.,0
+1203,2407,2408,Dua orang wanita sedang berbicara sementara anak-anak duduk di pangkuan mereka.,Beberapa wanita sedang berbicara.,1
+1204,2409,2410,"Dua orang wanita, masing-masing memeluk seorang gadis kecil, berbincang-bincang dalam sebuah pertemuan keluarga kecil.",2 orang wanita menggendong gadis kecil.,1
+1205,2411,2412,"Dua orang wanita, masing-masing memeluk seorang gadis kecil, berbincang-bincang dalam sebuah pertemuan keluarga kecil.",Para wanita meninggalkan anak-anak mereka.,0
+1206,2413,2414,Dua orang wanita yang menggendong anak berbicara satu sama lain.,Dua orang wanita berlari di taman mencari anak-anak mereka.,0
+1207,2415,2416,Dua orang wanita yang menggendong anak berbicara satu sama lain.,Setidaknya ada empat orang.,1
+1208,2417,2418,"Dua orang wanita, masing-masing dengan seorang anak, saling memandang.",Para wanita tidak memiliki anak,0
+1209,2419,2420,"Dua orang wanita, masing-masing dengan seorang anak, saling memandang.",Wanita bersama anak-anak mereka,1
+1210,2421,2422,Seekor anjing hitam-putih membawa tongkat di mulutnya saat ia berenang di air yang jernih.,Airnya kosong,0
+1211,2423,2424,Seekor anjing hitam-putih membawa tongkat di mulutnya saat ia berenang di air yang jernih.,Seekor anjing berada di luar,1
+1212,2425,2426,Seekor anjing hitam putih dengan tongkat di mulutnya sedang berenang.,Seekor anjing dengan sebuah benda di mulutnya berada di dalam air.,1
+1213,2427,2428,Seekor anjing hitam putih dengan tongkat di mulutnya sedang berenang.,Seekor kucing dengan tongkat di mulutnya berada di dalam bak mandi.,0
+1214,2429,2430,Seorang bajak laut mengejar seorang putri di trotoar.,Bajak laut melakukan hokey pokey,0
+1215,2431,2432,Seorang bajak laut mengejar seorang putri di trotoar.,Bajak laut di trotoar,1
+1216,2433,2434,Seekor anjing sedang mengambil tongkat dari air yang sangat jernih.,Seekor anjing sedang mengambil tongkat dari air yang sangat jernih.,1
+1217,2435,2436,Seekor anjing sedang mengambil tongkat dari air yang sangat jernih.,Seekor anjing sedang tidur di teras depan.,0
+1218,2437,2438,Seekor anjing di dalam air membawa tongkat di mulutnya.,Seekor anjing sedang berjalan-jalan di taman.,0
+1219,2439,2440,Seekor anjing di dalam air membawa tongkat di mulutnya.,Seekor anjing membawa tongkat di mulutnya.,1
+1220,2441,2442,Dua orang anak berlari menyusuri trotoar dengan mengenakan kostum.,Anak-anak sedang berkelahi.,0
+1221,2443,2444,Dua orang anak berlari menyusuri trotoar dengan mengenakan kostum.,Dua anak sedang berlari.,1
+1222,2445,2446,1 anak laki-laki kecil yang mengenakan kostum bajak laut mengikuti di belakang seorang gadis kecil yang mengenakan gaun biru membawa ember labu oranye dan berjalan menyusuri trotoar.,Anak laki-laki berkostum diikuti oleh seorang anak perempuan berkostum.,1
+1223,2447,2448,1 anak laki-laki kecil yang mengenakan kostum bajak laut mengikuti di belakang seorang gadis kecil yang mengenakan gaun biru membawa ember labu oranye dan berjalan menyusuri trotoar.,Seorang anak laki-laki berkostum badut diikuti oleh seorang anak perempuan.,0
+1224,2449,2450,Seorang anak laki-laki kecil berkostum bajak laut berlari di belakang seorang gadis kecil berkostum putri yang membawa labu oranye di sepanjang trotoar.,Anak-anak duduk di meja mereka selama kelas berlangsung.,0
+1225,2451,2452,Seorang anak laki-laki kecil berkostum bajak laut berlari di belakang seorang gadis kecil berkostum putri yang membawa labu oranye di sepanjang trotoar.,Dua anak yang mengenakan kostum berada di luar.,1
+1226,2453,2454,Seorang pria dengan kemeja abu-abu menggendong bayi kecil di tangannya.,Seorang pria mengenakan kemeja.,1
+1227,2455,2456,Seorang pria dengan kemeja abu-abu menggendong bayi kecil di tangannya.,Pria itu berkemeja kuning.,0
+1228,2457,2458,"Dua orang gadis, masing-masing mengenakan gaun berjalan bersama.",Dua gadis saling menampar.,0
+1229,2459,2460,"Dua orang gadis, masing-masing mengenakan gaun berjalan bersama.",Dua anak perempuan sedang berolahraga.,1
+1230,2461,2462,Sekelompok orang sedang duduk mengelilingi meja di bawah kerai biru.,gadis bermain nintendo,0
+1231,2463,2464,Sekelompok orang sedang duduk mengelilingi meja di bawah kerai biru.,orang-orang duduk mengelilingi meja,1
+1232,2465,2466,Orang-orang mengantre untuk mendapatkan sepiring nasi.,Orang-orang menunggu untuk makan.,1
+1233,2467,2468,Orang-orang mengantre untuk mendapatkan sepiring nasi.,Orang-orang sedang duduk makan.,0
+1234,2469,2470,Orang-orang duduk untuk makan.,Orang-orang akan makan.,1
+1235,2471,2472,Orang-orang duduk untuk makan.,Orang-orang berseliweran setelah konser.,0
+1236,2473,2474,Beberapa pria duduk di luar di tepian batu bata yang dibangun di sekitar pohon-pohon tinggi.,Beberapa pria duduk di luar ruangan.,1
+1237,2475,2476,Beberapa pria duduk di luar di tepian batu bata yang dibangun di sekitar pohon-pohon tinggi.,Para pria sedang menebang pohon.,0
+1238,2477,2478,Para pekerja sedang menyantap makanan sementara seorang pria duduk di atas tumpukan kayu lapis.,Pekerja sedang beristirahat selama istirahat makan.,1
+1239,2479,2480,Para pekerja sedang menyantap makanan sementara seorang pria duduk di atas tumpukan kayu lapis.,Para pekerja sedang berbicara dan duduk di atas balok logam.,0
+1240,2481,2482,Para pekerja sedang beristirahat pada tengah hari.,Para pekerja dengan tekun membangun rumah.,0
+1241,2483,2484,Para pekerja sedang beristirahat pada tengah hari.,Para pekerja sedang istirahat.,1
+1242,2485,2486,Para pekerja duduk di samping zona kerja sambil menyantap makanan.,para pekerja sedang duduk menyantap makanan,0
+1243,2487,2488,Para pekerja duduk di samping zona kerja sambil menyantap makanan.,para pekerja sedang menunggu pekerjaan berikutnya,1
+1244,2489,2490,Pengendara sepeda motor mengendarai sepeda motor trail di jalur tanah,Ia sedang mendayung kano.,0
+1245,2491,2492,Pengendara sepeda motor mengendarai sepeda motor trail di jalur tanah,Manusia mengendarai kendaraan roda dua.,1
+1246,2493,2494,Seorang pembalap sepeda motor sedang beraksi di lintasan.,Pembalap sedang mengemudi.,1
+1247,2495,2496,Seorang pembalap sepeda motor sedang beraksi di lintasan.,Pembalap sepeda motor sedang berlari,0
+1248,2497,2498,Seorang wanita berambut pirang dengan rambut tergerai sedang melepas kaus putih.,Seorang wanita sedang melepas kemeja biru.,0
+1249,2499,2500,Seorang wanita berambut pirang dengan rambut tergerai sedang melepas kaus putih.,Seorang wanita berambut pirang,1
